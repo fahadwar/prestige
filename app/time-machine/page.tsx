@@ -1,4 +1,6 @@
 'use client';
+import {reconcileDailyStreak} from '../../lib/game/streak';
+import {useDailyStreak} from '../../lib/game/use-daily-streak';
 import GameResultShare from '../../components/game/GameResultShare';
 import {arabicNumber as n} from '../../lib/sharing/roster-share';
 import {SiteHeader,SiteFooter} from '../../components/game/SiteChrome';
@@ -29,7 +31,8 @@ export default function TimeMachine(){
    }
   }catch(e){if(token===request.current)setNotice(e instanceof Error?e.message:'تعذر تحميل التحدي');}finally{if(token===request.current)setBusy(false);}
  }
- useEffect(()=>{try{setStats(JSON.parse(localStorage.getItem(statsKey)||'null')||emptyStats)}catch{}load();return()=>{request.current++}},[]);
+ useDailyStreak(setStats);
+ useEffect(()=>{try{setStats(reconcileDailyStreak(JSON.parse(localStorage.getItem(statsKey)||'null')||emptyStats))}catch{}load();return()=>{request.current++}},[]);
  async function play(year?:number,surrender=false){
   if(!data||busy||result.done||inFlight.current)return;
   if(year&&guesses.includes(year)){setNotice('سبق أن اخترت هذا الموسم');return;}
@@ -42,7 +45,7 @@ export default function TimeMachine(){
     if(value.done){
      const completion='cdlar-time-counted-'+(mode==='daily'?data.day:round.current);
      if(!localStorage.getItem(completion)){
-      const previous=JSON.parse(localStorage.getItem(statsKey)||'null') as Stats|null;const prior=previous||emptyStats;const streak=mode==='daily'?(value.won?(prior.lastDay===data.day-1?prior.streak+1:1):0):prior.streak;
+      const previous=JSON.parse(localStorage.getItem(statsKey)||'null') as Stats|null;const prior=reconcileDailyStreak(previous||emptyStats);const streak=mode==='daily'?(value.won?(prior.lastDay===data.day-1?prior.streak+1:1):0):prior.streak;
       const updated={played:prior.played+1,wins:prior.wins+(value.won?1:0),streak,best:Math.max(prior.best,streak),lastDay:mode==='daily'?data.day:prior.lastDay};localStorage.setItem(completion,'1');localStorage.setItem(statsKey,JSON.stringify(updated));setStats(updated);
      }
     }

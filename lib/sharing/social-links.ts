@@ -7,6 +7,7 @@ import {evaluateRanking} from '../game/ranking';
 import {evaluateConnections} from '../game/connections';
 import {evaluateTime} from '../game/time-machine';
 import {resultCaption} from './result-types';
+import {validateShareDate} from './submission-date';
 export const shareId=/^[a-f0-9]{8}-[a-f0-9]{4}-4[a-f0-9]{3}-[89ab][a-f0-9]{3}-[a-f0-9]{12}$/;
 const input=z.object({submission:z.object({game:z.enum(['roster','guess-player','missing-player','connections','ranking','time-machine']).default('roster'),id:z.string().max(40),guesses:z.union([z.array(z.string().max(80)).max(10),z.array(z.number().int()).max(3),z.array(z.array(z.string().max(80)).max(4)).max(7)]),hints:z.number().int().min(0).max(2).default(0),surrender:z.boolean(),mode:z.enum(['daily','practice']),date:z.string().regex(/^\d{4}-\d{2}-\d{2}$/)}),image:z.string().max(1500000)});
 const noStore={'Cache-Control':'no-store','X-Content-Type-Options':'nosniff'};
@@ -20,6 +21,7 @@ export async function createSocialLink(request:Request,bucket?:R2Bucket){
  if(Number(request.headers.get('content-length'))>1550000)return Response.json({error:'الصورة كبيرة جداً'},{status:413,headers:noStore});
  const reader=request.body?.getReader();if(!reader)throw Error('طلب غير صالح');const chunks:Uint8Array[]=[];let length=0;while(true){const r=await reader.read();if(r.done)break;length+=r.value.length;if(length>1550000){await reader.cancel();return Response.json({error:'الصورة كبيرة جداً'},{status:413,headers:noStore})}chunks.push(r.value)}const all=new Uint8Array(length);let pos=0;for(const chunk of chunks){all.set(chunk,pos);pos+=chunk.length}
  const {submission:s,image}=input.parse(JSON.parse(new TextDecoder().decode(all)));
+ validateShareDate(s);
  const names=()=>{if(!s.guesses.every(g=>typeof g==='string'))throw Error('محاولات غير صالحة');return s.guesses as string[]};
  const titleMap={'roster':'تحدي التشكيلة','guess-player':'من اللاعب؟','missing-player':'اللاعب المفقود','connections':'روابط اللاعبين','ranking':'رتّبهم','time-machine':'آلة الزمن'};
  let result:{done:boolean;won:boolean;score:number;maxScore:number};let description:string;

@@ -15,3 +15,9 @@ All six game pages now open the same result-sharing dialog. Roster retains its e
 `/api/share/result` accepts the game discriminator and validates completed submissions through that game's original engine. Existing `/api/share/roster` URLs remain supported. Social metadata uses the right game title and CTA; Connections supports 1200×1200 artwork. Content-derived IDs include canonical metadata as well as PNG bytes. Public access remains unchanged.
 
 Additional checks: `scripts/test-result-cards.mjs` covers all five newly wired pages and 25 layout/privacy contracts; `scripts/test-social-links.mjs` covers all six backend validators and game-specific metadata. These are mocked canvas/storage tests, not browser or external platform verification.
+
+## Daily result date validation
+
+All six games now require a real calendar date on or before the current UTC date when creating a new result link. Daily submissions must match the game's frozen question assignment for the supplied date and cannot predate its daily rotation. Roster's legacy 2026-10-17 assignment remains supported; the current roster schedule begins on 2026-10-18. Missing Player uses its full challenge ID, including the hidden slot.
+
+Completed historical daily results remain shareable after midnight; validation uses the submitted date's schedule, not today's question. Practice submissions may use any valid question but still need a real, non-future date. Rejected claims do not create or overwrite result objects. Previously issued result links remain readable. This validates dates and question assignments; guest submissions and client-rendered images are not authoritative proof of when someone played.

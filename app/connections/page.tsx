@@ -1,4 +1,6 @@
 'use client';
+import {reconcileDailyStreak} from '../../lib/game/streak';
+import {useDailyStreak} from '../../lib/game/use-daily-streak';
 import GameResultShare from '../../components/game/GameResultShare';
 import {arabicNumber as n} from '../../lib/sharing/roster-share';
 import {SiteHeader,SiteFooter} from '../../components/game/SiteChrome';
@@ -27,7 +29,8 @@ export default function Connections(){
    }catch{setNotice('تعذر استعادة التقدم المحفوظ');}
   }catch(e){if(token===request.current)setNotice(e instanceof Error?e.message:'تعذر تحميل التحدي');}finally{if(token===request.current)setBusy(false);}
  }
- useEffect(()=>{try{setStats(JSON.parse(localStorage.getItem(statsKey)||'null')||empty)}catch{}load();return()=>{request.current++}},[]);
+ useDailyStreak(setStats);
+ useEffect(()=>{try{setStats(reconcileDailyStreak(JSON.parse(localStorage.getItem(statsKey)||'null')||empty))}catch{}load();return()=>{request.current++}},[]);
  function toggle(name:string){if(busy||result.done)return;setSelected(old=>old.includes(name)?old.filter(p=>p!==name):old.length<4?[...old,name]:old);}
  function shuffle(){setOrder(old=>{const next=[...old];for(let i=next.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[next[i],next[j]]=[next[j],next[i]];}return next;});}
  async function submit(surrender=false){
@@ -40,7 +43,7 @@ export default function Connections(){
    try{
     if(mode==='daily')localStorage.setItem('cdlar-connections-v1-'+data.day,JSON.stringify({id:data.question.id,guesses:next,surrender}));
     if(value.done){const key='cdlar-connections-counted-'+(mode==='daily'?data.day:round.current);if(!localStorage.getItem(key)){
-     const prior=JSON.parse(localStorage.getItem(statsKey)||'null') as Stats|null,p=prior||empty,streak=mode==='daily'?(value.won?(p.lastDay===data.day-1?p.streak+1:1):0):p.streak;
+     const prior=JSON.parse(localStorage.getItem(statsKey)||'null') as Stats|null,p=reconcileDailyStreak(prior||empty),streak=mode==='daily'?(value.won?(p.lastDay===data.day-1?p.streak+1:1):0):p.streak;
      const updated={played:p.played+1,wins:p.wins+(value.won?1:0),streak,best:Math.max(p.best,streak),lastDay:mode==='daily'?data.day:p.lastDay};localStorage.setItem(key,'1');localStorage.setItem(statsKey,JSON.stringify(updated));setStats(updated);
     }}
    }catch{setNotice('اكتملت المحاولة، لكن تعذر حفظ التقدم على هذا المتصفح');}

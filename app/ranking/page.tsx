@@ -1,4 +1,6 @@
 'use client';
+import {reconcileDailyStreak} from '../../lib/game/streak';
+import {useDailyStreak} from '../../lib/game/use-daily-streak';
 import GameResultShare from '../../components/game/GameResultShare';
 import {arabicNumber as n} from '../../lib/sharing/roster-share';
 import {SiteHeader,SiteFooter} from '../../components/game/SiteChrome';
@@ -26,7 +28,8 @@ export default function Ranking(){
    }catch{setNotice('تعذر استعادة الترتيب المحفوظ');}
   }catch(e){if(token===request.current)setNotice(e instanceof Error?e.message:'تعذر تحميل التحدي');}finally{if(token===request.current)setBusy(false);}
  }
- useEffect(()=>{try{setStats(JSON.parse(localStorage.getItem(statsKey)||'null')||empty)}catch{}load();return()=>{request.current++}},[]);
+ useDailyStreak(setStats);
+ useEffect(()=>{try{setStats(reconcileDailyStreak(JSON.parse(localStorage.getItem(statsKey)||'null')||empty))}catch{}load();return()=>{request.current++}},[]);
  function updateOrder(next:string[]){setOrder(next);if(mode==='daily'&&data)try{localStorage.setItem('cdlar-ranking-draft-'+data.day,JSON.stringify({id:data.question.id,order:next}))}catch{}}
  function move(from:number,to:number){if(busy||result||from===to||from<0||to<0||from>=order.length||to>=order.length)return;const next=[...order],[name]=next.splice(from,1);next.splice(to,0,name);updateOrder(next);setNotice('تم نقل '+name+' إلى المركز '+(to+1));}
  function shuffle(){if(busy||result)return;const next=[...order];for(let i=next.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[next[i],next[j]]=[next[j],next[i]];}updateOrder(next);setNotice('تم خلط الترتيب');}
@@ -37,7 +40,7 @@ export default function Ranking(){
    try{
     if(mode==='daily')localStorage.setItem('cdlar-ranking-v1-'+data.day,JSON.stringify({id:data.question.id,order:submitted}));
     const completion='cdlar-ranking-counted-'+(mode==='daily'?data.day:round.current);
-    if(!localStorage.getItem(completion)){const p=JSON.parse(localStorage.getItem(statsKey)||'null') as Stats|null,prior=p||empty,streak=mode==='daily'?(value.won?(prior.lastDay===data.day-1?prior.streak+1:1):0):prior.streak,updated={played:prior.played+1,wins:prior.wins+(value.won?1:0),streak,best:Math.max(prior.best,streak),lastDay:mode==='daily'?data.day:prior.lastDay};localStorage.setItem(completion,'1');localStorage.setItem(statsKey,JSON.stringify(updated));setStats(updated);}
+    if(!localStorage.getItem(completion)){const p=JSON.parse(localStorage.getItem(statsKey)||'null') as Stats|null,prior=reconcileDailyStreak(p||empty),streak=mode==='daily'?(value.won?(prior.lastDay===data.day-1?prior.streak+1:1):0):prior.streak,updated={played:prior.played+1,wins:prior.wins+(value.won?1:0),streak,best:Math.max(prior.best,streak),lastDay:mode==='daily'?data.day:prior.lastDay};localStorage.setItem(completion,'1');localStorage.setItem(statsKey,JSON.stringify(updated));setStats(updated);}
    }catch{setNotice('اكتمل التحدي، لكن تعذر حفظ التقدم على هذا المتصفح');}
   }catch(e){setNotice(e instanceof Error?e.message:'تعذر الاتصال. لم يُرسل ترتيبك.');}finally{inFlight.current=false;if(token===request.current)setBusy(false);}
  }
