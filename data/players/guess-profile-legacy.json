@@ -1,0 +1,370 @@
+{
+  "referenceDate": "2026-10-18",
+  "countryMeaning": "Primary country listed on the player profile, not a claim about every citizenship or country of birth.",
+  "players": [
+    {
+      "id": "gp-fd7266d6690fe1",
+      "handle": "aBeZy",
+      "birthDate": "1999-11-03",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 2,
+      "team": "Los Angeles Thieves",
+      "sources": [
+        "https://breakingpoint.gg/players/2/aBeZy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/ABeZy"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 2,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 2,
+          "team_name": "Los Angeles Thieves",
+          "role_name": "Player",
+          "start_date": "2025-09-25",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-08b57a6dc2f368",
+      "handle": "Alluka",
+      "birthDate": "2007-06-27",
+      "countryCode": "DE",
+      "country": "ألمانيا",
+      "role": "SMG",
+      "teamId": 62,
+      "team": "Riyadh Falcons",
+      "sources": [
+        "https://breakingpoint.gg/players/399/Alluka",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Alluka"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 399,
+        "bpCountryId": 90,
+        "wikiCountry": "de",
+        "latestTransfer": {
+          "team_id": 62,
+          "team_name": "Riyadh Falcons",
+          "role_name": "Player",
+          "start_date": "2026-07-13",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-e17ab805c6f3cb",
+      "handle": "CleanX",
+      "birthDate": "2000-08-11",
+      "countryCode": "DK",
+      "country": "الدنمارك",
+      "role": "SMG",
+      "teamId": 12,
+      "team": "Toronto KOI",
+      "sources": [
+        "https://breakingpoint.gg/players/9/CleanX",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/CleanX"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 9,
+        "bpCountryId": 68,
+        "wikiCountry": "Denmark",
+        "latestTransfer": {
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "role_name": "Player",
+          "start_date": "2020-06-18",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-29565bde735ff8",
+      "handle": "Dashy",
+      "birthDate": "1999-04-19",
+      "countryCode": "CA",
+      "country": "كندا",
+      "role": "AR",
+      "teamId": 4,
+      "team": "OpTic Texas",
+      "sources": [
+        "https://breakingpoint.gg/players/11/Dashy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Dashy"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 11,
+        "bpCountryId": 48,
+        "wikiCountry": "Canada",
+        "latestTransfer": {
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "role_name": "Player",
+          "start_date": "2023-01-17",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-7ee5a85735754c",
+      "handle": "Exceed",
+      "birthDate": "2001-06-11",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": 26,
+      "team": "Carolina Royal Ravens",
+      "sources": [
+        "https://breakingpoint.gg/players/54/Exceed",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Exceed"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 54,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 26,
+          "team_name": "Carolina Royal Ravens",
+          "role_name": "Player",
+          "start_date": "2026-01-06",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-9a5825f694c78d",
+      "handle": "Gwinn",
+      "birthDate": "2002-05-02",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 63,
+      "team": "Cloud9 New York",
+      "sources": [
+        "https://breakingpoint.gg/players/101/Gwinn",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Gwinn"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 101,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 63,
+          "team_name": "Cloud9 New York",
+          "role_name": "Player",
+          "start_date": "2026-07-23",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-9036f6f5e1584d",
+      "handle": "JoeDeceives",
+      "birthDate": "2004-09-23",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 743,
+      "team": "Paris Gentle Mates",
+      "sources": [
+        "https://breakingpoint.gg/players/55/JoeDeceives",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/JoeDeceives"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 55,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 743,
+          "team_name": "Paris Gentle Mates",
+          "role_name": "Player",
+          "start_date": "2026-06-03",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-25d4e1427f8ef9",
+      "handle": "Kips",
+      "birthDate": "2006-02-17",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": 12,
+      "team": "Toronto KOI",
+      "sources": [
+        "https://breakingpoint.gg/players/235/Kips",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Kips"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 235,
+        "bpCountryId": 234,
+        "wikiCountry": "us",
+        "latestTransfer": {
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "role_name": "Player",
+          "start_date": "2026-02-17",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-72f502094b09c3",
+      "handle": "Kremp",
+      "birthDate": "2002-11-19",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 11,
+      "team": "G2 Minnesota",
+      "sources": [
+        "https://breakingpoint.gg/players/43/Kremp",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Kremp"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 43,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 11,
+          "team_name": "G2 Minnesota",
+          "role_name": "Player",
+          "start_date": "2025-11-18",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-f79d6310153063",
+      "handle": "Mercules",
+      "birthDate": "2003-07-14",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": 4,
+      "team": "OpTic Texas",
+      "sources": [
+        "https://breakingpoint.gg/players/172/Mercules",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Mercules"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 172,
+        "bpCountryId": 234,
+        "wikiCountry": "US",
+        "latestTransfer": {
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "role_name": "Player",
+          "start_date": "2025-05-06",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-7e594de8609bef",
+      "handle": "Shotzzy",
+      "birthDate": "2001-07-04",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 4,
+      "team": "OpTic Texas",
+      "sources": [
+        "https://breakingpoint.gg/players/27/Shotzzy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Shotzzy"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 27,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "role_name": "Player",
+          "start_date": "2021-11-08",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-5b10c5273427a6",
+      "handle": "Simp",
+      "birthDate": "2001-02-06",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 1,
+      "team": "FaZe Vegas",
+      "sources": [
+        "https://breakingpoint.gg/players/29/Simp",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Simp"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 29,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 1,
+          "team_name": "FaZe Vegas",
+          "role_name": "Player",
+          "start_date": "2019-10-26",
+          "end_date": null
+        }
+      }
+    },
+    {
+      "id": "gp-fb251b5f64b0ea",
+      "handle": "Snoopy",
+      "birthDate": "2004-09-25",
+      "countryCode": "MX",
+      "country": "المكسيك",
+      "role": "SMG",
+      "teamId": 27,
+      "team": "Miami Heretics",
+      "sources": [
+        "https://breakingpoint.gg/players/106/Snoopy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Snoopy"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 106,
+        "bpCountryId": 148,
+        "wikiCountry": "Mexico",
+        "latestTransfer": {
+          "team_id": 27,
+          "team_name": "Miami Heretics",
+          "role_name": "Player",
+          "start_date": "2026-10-06",
+          "end_date": null
+        }
+      }
+    }
+  ]
+}

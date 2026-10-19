@@ -1,0 +1,32 @@
+import ts from 'typescript';import fs from 'node:fs';import Module from 'node:module';import assert from 'node:assert/strict';import path from 'node:path';
+const cache=new Map();function load(file){const filename=path.resolve(file);if(cache.has(filename))return cache.get(filename).exports;const m=new Module(filename);m.filename=filename;m.paths=Module._nodeModulePaths(path.dirname(filename));const original=m.require.bind(m);m.require=id=>id.startsWith('.')&&!id.endsWith('.json')?load(path.resolve(path.dirname(filename),id+'.ts')):original(id);cache.set(filename,m);m._compile(ts.transpileModule(fs.readFileSync(filename,'utf8'),{compilerOptions:{target:ts.ScriptTarget.ES2022,module:ts.ModuleKind.CommonJS,resolveJsonModule:true,esModuleInterop:true}}).outputText,filename);return m.exports;}
+
+const {puzzles,connectionPuzzle,connectionsQuestion,connectionsPool,dailyConnections,evaluateConnections}=load('lib/game/connections.ts');const {normalize}=load('lib/game/identity.ts');const rosters=JSON.parse(fs.readFileSync('lib/game/rosters.json'));
+const sig=ns=>ns.map(normalize).sort().join('|'),allLineups=new Set(rosters.filter(q=>q.rosterSize===4).map(q=>sig(q.players)));
+assert.equal(puzzles.length,60);assert.equal(new Set(puzzles.map(q=>q.id)).size,60);assert.equal(new Set(puzzles.map(q=>sig(q.tiles))).size,60);
+for(const q of puzzles){
+ assert.equal(q.tiles.length,16);assert.equal(new Set(q.tiles.map(normalize)).size,16);assert.equal(q.groups.length,4);assert.equal(new Set(q.groups.map(g=>g.team)).size,4);
+ const intended=new Set(q.groups.map(g=>sig(g.players))),board=new Set(q.tiles.map(normalize));
+ for(const lineup of allLineups)if(lineup.split('|').every(p=>board.has(p)))assert.ok(intended.has(lineup),'Competing roster '+q.id);
+ for(const g of q.groups){assert.equal(g.players.length,4);const source=rosters.find(r=>r.id===g.rosterId);assert.ok(source);assert.deepEqual(g.players,source.players);assert.equal(g.source,source.source);assert.equal(g.season,q.season);}
+ const question=connectionsQuestion(q.id);assert.deepEqual(Object.keys(question).sort(),['id','season','tiles']);const start=evaluateConnections(q.id,[]);assert.equal(start.answers,undefined);assert.equal(start.solved.length,0);
+ let guesses=[];for(let i=0;i<4;i++){guesses.push(q.groups[i].players.map(p=>p.toUpperCase()).reverse());const value=evaluateConnections(q.id,guesses);assert.equal(value.solved.length,i+1);assert.equal(value.score,(i+1)*100);assert.equal(value.done,i===3);assert.equal(value.answers?.length,i===3?4:undefined);}
+ const won=evaluateConnections(q.id,guesses);assert.equal(won.won,true);assert.equal(won.score,400);assert.throws(()=>evaluateConnections(q.id,[...guesses,q.groups[0].players]));
+ const wrong=[q.groups[0].players[0],q.groups[1].players[0],q.groups[2].players[0],q.groups[3].players[0]],near=[...q.groups[0].players.slice(0,3),q.groups[1].players[0]];
+ assert.equal(evaluateConnections(q.id,[wrong]).oneAway,false);assert.equal(evaluateConnections(q.id,[near]).oneAway,true);assert.equal(evaluateConnections(q.id,[near]).score,0);assert.equal(evaluateConnections(q.id,[near,...q.groups.map(g=>g.players)]).score,375);
+ const bads=[0,1,2,3].map(i=>q.groups.map(g=>g.players[i]));const loss=evaluateConnections(q.id,bads);assert.equal(loss.done,true);assert.equal(loss.won,false);assert.equal(loss.mistakes,4);assert.equal(loss.answers.length,4);assert.equal(loss.score,0);
+ assert.throws(()=>evaluateConnections(q.id,[wrong,wrong.slice().reverse()]));assert.throws(()=>evaluateConnections(q.id,[[q.tiles[0],q.tiles[0],q.tiles[1],q.tiles[2]]]));assert.throws(()=>evaluateConnections(q.id,[[q.tiles[0],q.tiles[1],q.tiles[2],'Unknown']]));assert.throws(()=>evaluateConnections(q.id,[q.groups[0].players,wrong]));
+ const surrendered=evaluateConnections(q.id,[],true);assert.equal(surrendered.done,true);assert.equal(surrendered.answers.length,4);assert.equal(surrendered.won,false);
+}
+for(let y=2021;y<=2026;y++){assert.equal(connectionsPool(String(y),null).length,10);const id=connectionsPool(String(y),null)[0].id;assert.equal(connectionsPool(String(y),id).length,9);}
+const start=new Date('2026-10-18T00:00:00Z');assert.equal(new Set(Array.from({length:60},(_,i)=>dailyConnections(new Date(+start+i*86400000)))).size,60);assert.equal(dailyConnections(start),dailyConnections(new Date('2026-10-18T23:59:59Z')));assert.equal(dailyConnections(start),dailyConnections(new Date(+start+60*86400000)));assert.ok(connectionPuzzle(dailyConnections(new Date('2026-10-17T00:00:00Z'))));
+const api=load('app/api/connections/route.ts'),response=await api.GET(new Request('https://test.local/api/connections'));assert.equal(response.status,200);assert.equal(response.headers.get('Cache-Control'),'no-store');const data=await response.json();assert.deepEqual(Object.keys(data.question).sort(),['id','season','tiles']);
+const send=body=>api.POST(new Request('https://test.local/api/connections',{method:'POST',body:JSON.stringify(body)})),id=data.question.id;
+const ongoing=await(await send({id,mode:'daily',guesses:[]})).json();assert.equal(ongoing.answers,undefined);assert.deepEqual(ongoing.solved,[]);
+const q=connectionPuzzle(id);const solved=await(await send({id,mode:'daily',guesses:[q.groups[0].players]})).json();assert.equal(solved.solved.length,1);assert.equal(solved.answers,undefined);
+const win=await(await send({id,mode:'daily',guesses:q.groups.map(g=>g.players)})).json();assert.equal(win.won,true);assert.equal(win.answers.length,4);
+assert.equal((await send({id:puzzles.find(p=>p.id!==id).id,mode:'daily',guesses:[]})).status,400);
+for(let y=2021;y<=2026;y++){const r=await api.GET(new Request('https://test.local/api/connections?mode=practice&season='+y));assert.equal(r.status,200);assert.equal((await r.json()).question.season,y);}
+for(const query of ['mode=bad','season=2019'])assert.equal((await api.GET(new Request('https://test.local/api/connections?'+query))).status,400);
+assert.equal((await api.POST(new Request('https://test.local/api/connections',{method:'POST',body:'!'}))).status,400);assert.equal((await api.POST(new Request('https://test.local/api/connections',{method:'POST',body:'x'.repeat(4097)}))).status,413);
+console.log('PASS: all 60 puzzles; unique 16-name boards; no alternate archived lineup; every source roster; hidden answers; win/loss/scoring; one-away; replay, duplicate and solved-player rejection; frozen UTC schedule; daily/practice HTTP handlers and input limits.');

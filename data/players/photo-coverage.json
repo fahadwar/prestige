@@ -1,0 +1,524 @@
+{
+  "checkedHandles": 331,
+  "photoIdentities": 235,
+  "coveredHandles": 249,
+  "missingHandles": [
+    {
+      "handle": "Atlas",
+      "reason": "download_failed"
+    },
+    {
+      "handle": "Beastn",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Blfire",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Carbines",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Colechan",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "DREEALL",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Defrag",
+      "reason": "download_failed"
+    },
+    {
+      "handle": "Deleo",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Desire",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Dimi",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "EFatal",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Eazy",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Enduraaa",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Envidian",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Evas1on",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Foncho",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Gabi",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "GefKid",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Glory",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Gunshy",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Hate",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Holler",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Hopey",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "HumanJesus",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Inven",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Jhaze",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Johnny",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Juju",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Katru",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "KlinK",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Landxn",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Legal",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Malls",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "MarkyB",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Mizuno",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Moose",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Nathan",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Nels",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Nelson",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Nevo",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Novo",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Oney",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Pazy",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Pemby",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Pepo",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Phantom",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Phenom",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Prophet",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Puni",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Pure",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Reaper",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Reedy",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Reign",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Remy",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Riskin",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Ryza",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Sammy",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Sharko",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Slater",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Study",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Stump",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Subsist",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "SunnyB",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Supraaz",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "SupremeAgility",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Swarley",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "SyVortex",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "TcM",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Tojor",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "TonyJs",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Turnup2ez",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Twizz",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Urban",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Verdict",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Watson",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Willett",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Yohanson",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Zayrox",
+      "reason": "placeholder_or_no_photo"
+    },
+    {
+      "handle": "Zepa",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Zerg",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "Zinx",
+      "reason": "no_matching_profile"
+    },
+    {
+      "handle": "dReal",
+      "reason": "placeholder_or_no_photo"
+    }
+  ],
+  "downloadFailures": [
+    {
+      "url": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2018/ATLAS.webp",
+      "handles": [
+        "Atlas"
+      ],
+      "error": "HTTP Error 400: Bad Request"
+    },
+    {
+      "url": "https://www.twitch.tv/Defragmen7",
+      "handles": [
+        "Defrag"
+      ],
+      "error": "cannot identify image file <_io.BytesIO object at 0x7fe124353240>"
+    }
+  ],
+  "checkedOn": "2026-10-18",
+  "breakingPointCandidateHandles": 182,
+  "breakingPointCoveredIdentities": 230,
+  "excludedNonPortraits": [
+    {
+      "handle": "GodRx",
+      "reason": "profile image is an illustrated avatar"
+    },
+    {
+      "handle": "Havok",
+      "reason": "profile image is a meme instead of a headshot"
+    }
+  ],
+  "bySeason": {
+    "2017": {
+      "handles": 128,
+      "coveredHandles": 97,
+      "missingHandles": [
+        "Carbines",
+        "Colechan",
+        "DREEALL",
+        "Desire",
+        "Eazy",
+        "GefKid",
+        "Glory",
+        "Hate",
+        "Hopey",
+        "HumanJesus",
+        "Johnny",
+        "Juju",
+        "KlinK",
+        "Malls",
+        "MarkyB",
+        "Moose",
+        "Prophet",
+        "Reedy",
+        "Study",
+        "Subsist",
+        "SunnyB",
+        "Swarley",
+        "SyVortex",
+        "TonyJs",
+        "Urban",
+        "Verdict",
+        "Watson",
+        "Yohanson",
+        "Zayrox",
+        "Zepa",
+        "Zerg"
+      ]
+    },
+    "2018": {
+      "handles": 166,
+      "coveredHandles": 130,
+      "missingHandles": [
+        "Atlas",
+        "Blfire",
+        "Defrag",
+        "Dimi",
+        "Eazy",
+        "Enduraaa",
+        "Evas1on",
+        "Gabi",
+        "Gunshy",
+        "Hate",
+        "Holler",
+        "Jhaze",
+        "Johnny",
+        "Legal",
+        "Malls",
+        "MarkyB",
+        "Moose",
+        "Nathan",
+        "Nels",
+        "Nelson",
+        "Nevo",
+        "Novo",
+        "Pemby",
+        "Reedy",
+        "Remy",
+        "Riskin",
+        "Study",
+        "Stump",
+        "SupremeAgility",
+        "Swarley",
+        "TcM",
+        "TonyJs",
+        "Twizz",
+        "Urban",
+        "Zayrox",
+        "dReal"
+      ]
+    },
+    "2019": {
+      "handles": 196,
+      "coveredHandles": 163,
+      "missingHandles": [
+        "Beastn",
+        "Defrag",
+        "Deleo",
+        "EFatal",
+        "Enduraaa",
+        "Envidian",
+        "Foncho",
+        "Inven",
+        "Katru",
+        "Landxn",
+        "Mizuno",
+        "Moose",
+        "Oney",
+        "Pazy",
+        "Pepo",
+        "Phantom",
+        "Phenom",
+        "Puni",
+        "Pure",
+        "Reaper",
+        "Reedy",
+        "Reign",
+        "Ryza",
+        "Sammy",
+        "Sharko",
+        "Slater",
+        "SunnyB",
+        "Supraaz",
+        "Tojor",
+        "Turnup2ez",
+        "Willett",
+        "Zepa",
+        "Zinx"
+      ]
+    },
+    "2020": {
+      "handles": 73,
+      "coveredHandles": 73,
+      "missingHandles": []
+    },
+    "2021": {
+      "handles": 54,
+      "coveredHandles": 54,
+      "missingHandles": []
+    },
+    "2022": {
+      "handles": 46,
+      "coveredHandles": 46,
+      "missingHandles": []
+    },
+    "2023": {
+      "handles": 54,
+      "coveredHandles": 54,
+      "missingHandles": []
+    },
+    "2024": {
+      "handles": 53,
+      "coveredHandles": 53,
+      "missingHandles": []
+    },
+    "2025": {
+      "handles": 53,
+      "coveredHandles": 53,
+      "missingHandles": []
+    },
+    "2026": {
+      "handles": 51,
+      "coveredHandles": 51,
+      "missingHandles": []
+    }
+  },
+  "modern2021to2026": {
+    "handles": 110,
+    "coveredHandles": 110,
+    "missingHandles": []
+  }
+}

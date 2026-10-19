@@ -1,0 +1,59 @@
+{
+  "scope": "First verifiable completed match per team at each season opening event and CDL Championship; not full-season transfer history",
+  "accepted": 143,
+  "bySeason": {
+    "2020": 24,
+    "2021": 20,
+    "2022": 19,
+    "2023": 20,
+    "2024": 20,
+    "2025": 20,
+    "2026": 20
+  },
+  "excluded": [
+    {
+      "eventId": 3,
+      "teamId": 15,
+      "matchId": 23220,
+      "reason": "incomplete_map_participants"
+    }
+  ],
+  "skippedMatches": [
+    {
+      "eventId": 91,
+      "teamId": 16,
+      "matchId": 203478,
+      "reason": "lineup_changed_during_match"
+    },
+    {
+      "eventId": 3,
+      "teamId": 15,
+      "matchId": 23203,
+      "reason": "incomplete_map_participants"
+    },
+    {
+      "eventId": 3,
+      "teamId": 15,
+      "matchId": 23207,
+      "reason": "incomplete_map_participants"
+    },
+    {
+      "eventId": 3,
+      "teamId": 15,
+      "matchId": 23210,
+      "reason": "incomplete_map_participants"
+    },
+    {
+      "eventId": 3,
+      "teamId": 15,
+      "matchId": 23215,
+      "reason": "incomplete_map_participants"
+    },
+    {
+      "eventId": 3,
+      "teamId": 15,
+      "matchId": 23220,
+      "reason": "incomplete_map_participants"
+    }
+  ]
+}

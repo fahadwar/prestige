@@ -1,0 +1,673 @@
+{
+  "checkedOn": "2026-10-18",
+  "scope": "All player handles in bundled 2021–2026 rosters",
+  "sources": [
+    {
+      "handle": "Scump",
+      "source": "https://breakingpoint.gg/players/1/Scump",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/OpTic%20Texas/Scump/Scump_front.png",
+      "sha256": "bc478f315ad0294629936e6e9a8eb86c9b4c50bd2766e26eb16819b6ea072480"
+    },
+    {
+      "handle": "Clayster",
+      "source": "https://breakingpoint.gg/players/47/Clayster",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Clayster.webp",
+      "sha256": "d3238dedfd5bce8ecf540f15299f29f4b7ed77baf0348359fd751188ee05a85d"
+    },
+    {
+      "handle": "Crimsix",
+      "source": "https://breakingpoint.gg/players/10/Crimsix",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/crimsix.webp?t=2024-01-05T20%3A26%3A23.764Z",
+      "sha256": "311e7160d856bdf53e403c7c6f64ca1f7002b63f3fedebfd13b3c13a37ddd224"
+    },
+    {
+      "handle": "Abezy",
+      "source": "https://breakingpoint.gg/players/2/aBeZy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Abezy.webp",
+      "sha256": "160e6bc46828765140113fdd769d7e5731796df114fc28a8ad48d201986a9f75"
+    },
+    {
+      "handle": "Cammy",
+      "source": "https://breakingpoint.gg/players/7/Cammy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Cammy.webp",
+      "sha256": "6cad9bae20fbd305a66aed879999f1d3b75946de928343441eeb73b5ec491e07"
+    },
+    {
+      "handle": "Cellium",
+      "source": "https://breakingpoint.gg/players/8/Cellium",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Cellium.webp",
+      "sha256": "7df3b2375385e5d37b7f7100e45f8bf7f8de4b42ac83f5260884569cfed409a2"
+    },
+    {
+      "handle": "CleanX",
+      "source": "https://breakingpoint.gg/players/9/CleanX",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/CleanX.webp",
+      "sha256": "5a03633545750886decf5261859d98592c395dcfb04f6eec508b49087376b1ed"
+    },
+    {
+      "handle": "Dashy",
+      "source": "https://breakingpoint.gg/players/11/Dashy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Dashy.webp",
+      "sha256": "799b2edb60d7e34eb78e35f9b10d32dc5a2f06dc2979a43f0d31ba7e867fb444"
+    },
+    {
+      "handle": "Envoy",
+      "source": "https://breakingpoint.gg/players/13/Envoy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Envoy.webp",
+      "sha256": "c578716bed97ab1e3b7e14f3eff95cdc9c84209379f2307ccee59cf179da67d7"
+    },
+    {
+      "handle": "Formal",
+      "source": "https://breakingpoint.gg/players/70/FormaL",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/FormaL_CDL_2021.webp?t=2024-01-05T20%3A34%3A57.407Z",
+      "sha256": "fb49edfea1043b5821b1d1b0fbb1e59b5edd0d74869b70dd7ae01bed5ad806ed"
+    },
+    {
+      "handle": "Huke",
+      "source": "https://breakingpoint.gg/players/39/Huke",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Huke.webp",
+      "sha256": "53c0532d304152706a938a8e619c28b8e2fc792af8812a65521cdfc60a6ddbfe"
+    },
+    {
+      "handle": "Insight",
+      "source": "https://breakingpoint.gg/players/17/Insight",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Insight.webp",
+      "sha256": "50152783ccb22e0e7e4f3068100b26c3623510de5a499903e3cfbee2a3a8ee55"
+    },
+    {
+      "handle": "Kenny",
+      "source": "https://breakingpoint.gg/players/18/Kenny",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Kenny.webp",
+      "sha256": "3155b62488436e07574b3f183433d6494ebc7ce66b150e5587194e9b193aacc0"
+    },
+    {
+      "handle": "Nastie",
+      "source": "https://breakingpoint.gg/players/22/Nastie",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Nastie.webp",
+      "sha256": "9248383d5a8152c5aa4e49b22161b88d866a2ba4ea137a0555307a58ed737f72"
+    },
+    {
+      "handle": "Owakening",
+      "source": "https://breakingpoint.gg/players/37/Owakening",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Champs/BOS/Owakening_Champs.webp",
+      "sha256": "525dffbc7b5d8c1aea5b96f9df0fa683c95065069ed781505c11e4d22f0ce8fa"
+    },
+    {
+      "handle": "Seany",
+      "source": "https://breakingpoint.gg/players/86/Seany",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Seany.webp",
+      "sha256": "564b6e966d26d10d860811984d0f4817cd92d8d76585d06c45ea9c1f03ca588c"
+    },
+    {
+      "handle": "Simp",
+      "source": "https://breakingpoint.gg/players/29/Simp",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Simp.webp",
+      "sha256": "4f02f1a1baee1bf304d671999025b7c20703d8b14512e54337bd65a92b04b186"
+    },
+    {
+      "handle": "Skyz",
+      "source": "https://breakingpoint.gg/players/41/Skyz",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Skyz.webp",
+      "sha256": "5e47732d23f3afa17de21d59d814ea61aae0f5329b148450381ea87e1223902a"
+    },
+    {
+      "handle": "Accuracy",
+      "source": "https://breakingpoint.gg/players/3/Accuracy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Accuracy.webp?t=2024-01-23T23%3A29%3A05.945Z",
+      "sha256": "f20724d907d8b98ffa4ec900f6832195b676f2415d9526a8ac923d329fdfc6d6"
+    },
+    {
+      "handle": "Alexx",
+      "source": "https://breakingpoint.gg/players/60/Alexx",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Alexx_CDL_2021.webp?t=2024-01-05T20%3A30%3A01.632Z",
+      "sha256": "a90ba12b5d6df6b7206c24155c842e766f6d33bf80d2b2c5bb328cfb7f7fa310"
+    },
+    {
+      "handle": "Apathy",
+      "source": "https://breakingpoint.gg/players/61/Apathy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Apathy_CDL_2021.webp?t=2024-01-05T20%3A32%3A38.900Z",
+      "sha256": "fb5a3967e750718a5d9677695e416b26faf03bf87b29b1ee6c617fbc931612b5"
+    },
+    {
+      "handle": "Aqua",
+      "source": "https://breakingpoint.gg/players/62/Aqua",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/AquA_CDL_2021.webp?t=2024-01-05T20%3A30%3A18.141Z",
+      "sha256": "9171172e8b6786063ea9a1093ec0e7fa572901bce665d4410724f079038ac78e"
+    },
+    {
+      "handle": "Arcitys",
+      "source": "https://breakingpoint.gg/players/5/Arcitys",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%202-5/Arcitys_425.webp",
+      "sha256": "7ec1326eb1a582ade87264eddc0bba2156c1ebec84033a40a8e74b6e2e0404c3"
+    },
+    {
+      "handle": "Asim",
+      "source": "https://breakingpoint.gg/players/50/Asim",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Asim12.png?t=2024-02-15T08%3A59%3A28.770Z",
+      "sha256": "22419279dcbb450a770f49705cba6e3b6ebf5d154f961772a9b2191a11c0eb09"
+    },
+    {
+      "handle": "Assault",
+      "source": "https://breakingpoint.gg/players/53/Assault",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Assault%20(1).webp?t=2024-01-23T23%3A37%3A13.699Z",
+      "sha256": "a97beb61688ffb229ac8de06febdffb9ec53419c279a22a8e24346211baeec53"
+    },
+    {
+      "handle": "Attach",
+      "source": "https://breakingpoint.gg/players/38/Attach",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%201/C9NY/Attach_Cloud9NY_F_Broadcast.webp",
+      "sha256": "72e4fb133f16a651a7b514456509a81bc29e09d0ae98bbdb13d262b3f0d354e7"
+    },
+    {
+      "handle": "Bance",
+      "source": "https://breakingpoint.gg/players/6/Bance",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/Minnesota%20Rokkr/Bance/Bance_front.png",
+      "sha256": "7ae2cbe8320aa35407700881db099488867344417994157fe07fed5fdff14f42"
+    },
+    {
+      "handle": "Brack",
+      "source": "https://breakingpoint.gg/players/44/Brack",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/Florida%20Mutineers/Brack/Brack_front.png",
+      "sha256": "431e1eb36cceca1687d24be56159010a15aa0a58838657bec49f9217e19116f8"
+    },
+    {
+      "handle": "Breszy",
+      "source": "https://breakingpoint.gg/players/111/Breszy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Breszy%20(1).png?t=2024-02-15T08%3A34%3A05.608Z",
+      "sha256": "b49355b4ed3fadefaa3f82d86499ced88fa007e70f166b70cc8dcae326d2f611"
+    },
+    {
+      "handle": "Classic",
+      "source": "https://breakingpoint.gg/players/64/Classic",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/2023%20Photos/CLASSIC_2023.png",
+      "sha256": "7f0f16db9e41dee91c769601454a1a007bd6289039c4043f165f63cc573c19dc"
+    },
+    {
+      "handle": "Dylan",
+      "source": "https://breakingpoint.gg/players/68/DylanCOD",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Dylan_CDL_2021.webp?t=2024-01-05T20%3A34%3A19.777Z",
+      "sha256": "e918da8e9752e2f952e844060351e4a30b88f1f0819e855a9d0e296dd3cabac2"
+    },
+    {
+      "handle": "Gunless",
+      "source": "https://breakingpoint.gg/players/72/Gunless",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Gunless_CDL_2021.webp?t=2024-01-05T20%3A35%3A25.932Z",
+      "sha256": "11d82fcb5e52471e89029382ec4da233a4791c27e9feff0953c1fa0121dc610d"
+    },
+    {
+      "handle": "John",
+      "source": "https://breakingpoint.gg/players/77/John",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/LAT_John.webp?t=2024-01-05T20%3A36%3A29.923Z",
+      "sha256": "fcca603750ca2bb965253f5135084f02005c3f5e6f0d4867cd3a607042d67e19"
+    },
+    {
+      "handle": "JurNii",
+      "source": "https://breakingpoint.gg/players/95/JurNii",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Jurnii.webp?t=2024-01-23T22%3A12%3A32.911Z",
+      "sha256": "66723f88fd7e61623e888722e54649b6dad4877623d27ddd14350f2fbd5826f7"
+    },
+    {
+      "handle": "Kismet",
+      "source": "https://breakingpoint.gg/players/19/KiSMET",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/KiSMET.webp",
+      "sha256": "0de61e8e1d94fb082c40eb76a336378f658916ce4921b5b61434536af5ed5f99"
+    },
+    {
+      "handle": "Loony",
+      "source": "https://breakingpoint.gg/players/79/Loony",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Loony_CDL_2021.webp?t=2024-01-05T20%3A37%3A06.073Z",
+      "sha256": "2e323c7ce55583bf1b179fa56fcaa04f783b3be10841a484c38ad21ee2fb52d4"
+    },
+    {
+      "handle": "Lucky",
+      "source": "https://breakingpoint.gg/players/93/Lucky",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%201/MIA/Lucky_MiamiHeretics_F_Broadcast.webp",
+      "sha256": "04e75ebedb0fb93a4a7d52bb773bc7f8fe42823c501f25112d6fc288e76aca55"
+    },
+    {
+      "handle": "MajorManiak",
+      "source": "https://breakingpoint.gg/players/33/MajorManiak",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/Florida%20Mutineers/MajorManiak/MajorManiak_front.png",
+      "sha256": "bc4f90d66b54f2cd371b428c43bf3332e6bf741131a2cfa2b4c4b77fc1f8152a"
+    },
+    {
+      "handle": "Methodz",
+      "source": "https://breakingpoint.gg/players/21/Methodz",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Methodz_2023%20(1).webp?t=2024-01-05T20%3A48%3A44.323Z",
+      "sha256": "ad76b6fc3924a38959d5b7a7e64fba48cf06140f54fd37a745c3acb85e2eebd2"
+    },
+    {
+      "handle": "Mettalz",
+      "source": "https://breakingpoint.gg/players/94/MettalZ",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/MettalZ.webp",
+      "sha256": "f79e555f54c89a6bb1248eb7a1368a92815d1b588e02d1229ba794faa9b6dd0f"
+    },
+    {
+      "handle": "Octane",
+      "source": "https://breakingpoint.gg/players/24/Octane",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/LA%20Thieves/Octane/Octane_front.png",
+      "sha256": "ef354f14682a7865b43bd606de189f3aef622a11d900bd0540c79062cb578a45"
+    },
+    {
+      "handle": "Parasite",
+      "source": "https://breakingpoint.gg/players/82/Parasite",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Parasite_CDL_2021.webp?t=2024-01-05T20%3A38%3A23.818Z",
+      "sha256": "60a0905af04655720ffe3f7f09a658cdb5f94c9826bdd4f359318ba21ef9563c"
+    },
+    {
+      "handle": "Prestinni",
+      "source": "https://breakingpoint.gg/players/83/Prestinni",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Prestinni_2023.webp?t=2024-01-05T20%3A38%3A41.010Z",
+      "sha256": "d75b268bf879dd4a474bfe37c739b12d36db7d16fbcc7ef60bb5373d4c846af4"
+    },
+    {
+      "handle": "Priestahh",
+      "source": "https://breakingpoint.gg/players/34/Priestahh",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%202-5/Priestahh_425.webp",
+      "sha256": "c35558b9fcb6bf90c0f7a6ca07d27e2b03b7d238a269ce27ea44b55bb836be6d"
+    },
+    {
+      "handle": "Silly",
+      "source": "https://breakingpoint.gg/players/87/SiLLY",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/SiLLY_CDL_2021.webp?t=2024-01-05T20%3A39%3A39.348Z",
+      "sha256": "6caaed5ddab04caf91fe0e2e4a2ad56252b08bd300d164e3b22b0cebbecb63a6"
+    },
+    {
+      "handle": "Skrapz",
+      "source": "https://breakingpoint.gg/players/51/Skrapz",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Skrapz_CDL_2021.webp?t=2024-01-05T20%3A50%3A52.370Z",
+      "sha256": "ee869d88980bb56870d7196b1979209f8b24953be955cc8ee1c9d99958d91dcf"
+    },
+    {
+      "handle": "Slacked",
+      "source": "https://breakingpoint.gg/players/88/Slacked",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Slacked_CDL_2020.webp?t=2024-01-05T20%3A39%3A59.568Z",
+      "sha256": "aae1ce1e8753995b79f848f72cc5f7ea72c2203dfc1b7c18b47deed613701d5d"
+    },
+    {
+      "handle": "Slasher",
+      "source": "https://breakingpoint.gg/players/35/SlasheR",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1_quals/SlasheR.webp",
+      "sha256": "274d37d825ced5697f5618c9249507cb2fcd894dbc5c4c7c58e5fb1c111e58a1"
+    },
+    {
+      "handle": "Super",
+      "source": "https://breakingpoint.gg/players/135/SupeR",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/SupeR.webp",
+      "sha256": "83a3ad7007af7a58b2b52d32433411c46106a7fa47928256503898973974e63e"
+    },
+    {
+      "handle": "TJHaly",
+      "source": "https://breakingpoint.gg/players/30/TJHaLy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/TJHaLy.webp",
+      "sha256": "75b9bdc9b6962726ba22094a9a39f589ebfa660993e9172586bbff2eb6060d21"
+    },
+    {
+      "handle": "Temp",
+      "source": "https://breakingpoint.gg/players/49/Temp",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/Las%20Vegas%20Legion/Temp/Temp_front.png",
+      "sha256": "62eb8a5dca804359daafe81126eb9f73c21fae90271c7db68bd1fa0a06528f12"
+    },
+    {
+      "handle": "Vivid",
+      "source": "https://breakingpoint.gg/players/31/Vivid",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Vivid.webp",
+      "sha256": "0dd73aad2af4a54fcd97ca439c74c88815b299922b278df648a486f79128a939"
+    },
+    {
+      "handle": "Wrecks",
+      "source": "https://breakingpoint.gg/players/164/Wrecks",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Champs/CAR/Wrecks_Champs.webp",
+      "sha256": "c43fd83364210d6b34e9d2c44b6184a9c8888dda8f746a5ce8109e1a70fb482e"
+    },
+    {
+      "handle": "Zer0",
+      "source": "https://breakingpoint.gg/players/32/Zer0",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/London%20Royal%20Ravens/Zer0/Zer0_front.png",
+      "sha256": "4c8f31db00f17fc9121e6dfc8d56c8ac3278e9c84700d83e0422773122325299"
+    },
+    {
+      "handle": "04",
+      "source": "https://breakingpoint.gg/players/114/04",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/O4.webp",
+      "sha256": "a8ef056da7703a8ddc90379b007e1deeb4fe5d4669f44774950f1e0d5909f973"
+    },
+    {
+      "handle": "Abe",
+      "source": "https://breakingpoint.gg/players/178/Abe",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Abe.webp",
+      "sha256": "a8fbcf93315c2b593163871a22d6663946243375c51fb54416c9402cbfbe7a7e"
+    },
+    {
+      "handle": "Abuzah",
+      "source": "https://breakingpoint.gg/players/97/Abuzah",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Abuzah.webp",
+      "sha256": "f2deee00962c9585c8a4be41b0275cadbaeef274fb976b1aa10e03e9918c997e"
+    },
+    {
+      "handle": "Afro",
+      "source": "https://breakingpoint.gg/players/4/Afro",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Afro.webp",
+      "sha256": "528925d8d652aed7c764e74b80f495b6c041cfbbc686d9bfcdc4fdf732e29647"
+    },
+    {
+      "handle": "Alluka",
+      "source": "https://breakingpoint.gg/players/399/Alluka",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/alluapf.png",
+      "sha256": "6b6949dae5c6afa8a4acde5e39a00ab2e67b1e60d9c487e861d39f05b5882ad8"
+    },
+    {
+      "handle": "Beans",
+      "source": "https://breakingpoint.gg/players/42/Beans",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Beans.webp",
+      "sha256": "a4a67fadd352b3476f15373708f6299a9a6d4abcbbbdde03a333e2b05c7d9809"
+    },
+    {
+      "handle": "Capsidal",
+      "source": "https://breakingpoint.gg/players/36/Capsidal",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%204/NY_CAPSIDAL.webp",
+      "sha256": "0e0aca5ff3d418b92813e4e9533de4667f38f63220c8b716b8058bca275874ab"
+    },
+    {
+      "handle": "Craze",
+      "source": "https://breakingpoint.gg/players/167/Craze",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Craze.webp",
+      "sha256": "a4169542a767ff166f4226d0e6232fb8ceefb80839d3686aa64a57a96d63611c"
+    },
+    {
+      "handle": "Davpadie",
+      "source": "https://breakingpoint.gg/players/65/Davpadie",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/dav.webp?t=2024-01-05T20%3A33%3A37.620Z",
+      "sha256": "00b2411a5abc1972f9028ab79ec3c32e3e5da071ee8855ddddae169b96828e5e"
+    },
+    {
+      "handle": "Diamondcon",
+      "source": "https://breakingpoint.gg/players/67/Diamondcon",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/diamondcon%20(1).webp",
+      "sha256": "5d725cede0cac51f89b1002fd9b451d87091c47c88c813db8deb3844b45b6623"
+    },
+    {
+      "handle": "Drazah",
+      "source": "https://breakingpoint.gg/players/12/Drazah",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Drazah.webp",
+      "sha256": "1171cd24b9f620c9406f9aaa3da251a36043db9db0dca92757c894beaaa9adb7"
+    },
+    {
+      "handle": "Estreal",
+      "source": "https://breakingpoint.gg/players/107/Estreal",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Estreal.webp",
+      "sha256": "718d54c2df1e6d2de347f8670c500cd4a49a1662d185f135e714822d3e550df9"
+    },
+    {
+      "handle": "Exnid",
+      "source": "https://breakingpoint.gg/players/138/Exnid",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Exnid.webp",
+      "sha256": "35e09a5d71cfe460c58b74d8887c932eaf4732251b72431b2a5e14b00c7a97b2"
+    },
+    {
+      "handle": "Fame",
+      "source": "https://breakingpoint.gg/players/56/Fame",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Fame%20(1).webp?t=2024-01-23T23%3A38%3A13.700Z",
+      "sha256": "1edf80a6a6b3f3ed3edda91fec9ccf4bb8dbf797db292781ee25a73835964b06"
+    },
+    {
+      "handle": "Fire",
+      "source": "https://breakingpoint.gg/players/69/Fire",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/fire%20ravens.webp",
+      "sha256": "b2c66e6d4fd693a79cc2c89be9df29a643673b49da64d3bba75882487b3d8a19"
+    },
+    {
+      "handle": "Flames",
+      "source": "https://breakingpoint.gg/players/112/Flames",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/LAG_Flames_2024.webp?t=2024-02-20T02%3A44%3A50.840Z",
+      "sha256": "0b7ac93c745df013a098302539226741615bcbd20da57e7da9d6940f56eb7d66"
+    },
+    {
+      "handle": "Ghosty",
+      "source": "https://breakingpoint.gg/players/40/Ghosty",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Ghosty.webp",
+      "sha256": "ad17f572ae6b7a18c78b6b4edcd7457c0195f71ba0de26dd5b1de9e2c027d25f"
+    },
+    {
+      "handle": "Gio",
+      "source": "https://breakingpoint.gg/players/110/Gio",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%201/MIN/Gio_F_M1.webp",
+      "sha256": "061b8d2744f05ad4aaebe651161ef95f7eaf564f3fe9cde9c7a1ed1246ce522c"
+    },
+    {
+      "handle": "Gismo",
+      "source": "https://breakingpoint.gg/players/14/Gismo",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Gismo_2022.webp?t=2024-01-05T20%3A27%3A07.951Z",
+      "sha256": "7228233ed59bf6a7219d6018779898f0f8f40dc728de4a721edabfee9090cc4f"
+    },
+    {
+      "handle": "Gwinn",
+      "source": "https://breakingpoint.gg/players/101/Gwinn",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Gwinn.webp",
+      "sha256": "90712e2299d768077ea7c874750de7381402623b41857a1e0e21ab9129d53ef2"
+    },
+    {
+      "handle": "Hicksy",
+      "source": "https://breakingpoint.gg/players/57/Hicksy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%201/VAN/Hicksy_F_M1.webp",
+      "sha256": "e3674b362b54784a53e9102932238fe2ad3d6cca4ea67e1ed9455eb92d6338c2"
+    },
+    {
+      "handle": "HyDra",
+      "source": "https://breakingpoint.gg/players/15/HyDra",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/HyDra.webp",
+      "sha256": "0c78a6cb39a1e6b226674af98d020ff595663f7e23ce5d2f04bba970d95067cd"
+    },
+    {
+      "handle": "JoeDeceives",
+      "source": "https://breakingpoint.gg/players/55/JoeDeceives",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/JoeDeceives.webp",
+      "sha256": "a2d4b813a7d179678277760874ff20a615757a93a2afc49b35fe78916105ee0c"
+    },
+    {
+      "handle": "Khhx",
+      "source": "https://breakingpoint.gg/players/137/Khhx",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/December/VGS/Khhx.webp?t=2024-12-10T02%3A23%3A28.242Z",
+      "sha256": "1a43664c11dfff13d3dc5af053dd76f0be58e1b7566d0d1b2268fdaa1d8adac7"
+    },
+    {
+      "handle": "KingAbody",
+      "source": "https://breakingpoint.gg/players/139/KingAbody",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/December/VGS/KingAbody.webp?t=2024-12-10T02%3A12%3A38.121Z",
+      "sha256": "d4247923c20b3249452e63d4a05eabbef4145c73705de1ac915b27ec31912496"
+    },
+    {
+      "handle": "Kips",
+      "source": "https://breakingpoint.gg/players/235/Kips",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/KipsTor.webp",
+      "sha256": "9f94c7e4f9aa37317f9f8b26da435e5407132accf350f55b05eba2758491b567"
+    },
+    {
+      "handle": "Kremp",
+      "source": "https://breakingpoint.gg/players/43/Kremp",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Kremp.webp",
+      "sha256": "c41f3ec509763d9868daceaffff0a45ce9d62e5ba8b1511098d48da7283c7058"
+    },
+    {
+      "handle": "Lqgend",
+      "source": "https://breakingpoint.gg/players/393/Lqgend",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/Lqgend_Halo.png",
+      "sha256": "8b9ab4ce97930de44f55a23405c325ab122e825fa9fd847d49ecfb525310ec0d"
+    },
+    {
+      "handle": "Lunarz",
+      "source": "https://breakingpoint.gg/players/163/Lunarz",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Lunarz.webp",
+      "sha256": "6f9d16fa156b12281233dc5927e268135ce0e3fc57f22fd4b31f7a97b7903f70"
+    },
+    {
+      "handle": "Lurqxx",
+      "source": "https://breakingpoint.gg/players/190/Lurqxx",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Lurqxx.webp",
+      "sha256": "71b9109ec988d2dd30b50c669541f04cb9a9767e21dfc78528b8ff0aabeedcfc"
+    },
+    {
+      "handle": "Lynz",
+      "source": "https://breakingpoint.gg/players/99/Lynz",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%201/M8s/Lynz_F_M1.webp",
+      "sha256": "5cf9072444e8f54e8fef8e2c00a2459c86bb206574005ac02806ff35109a471d"
+    },
+    {
+      "handle": "Mack",
+      "source": "https://breakingpoint.gg/players/20/Mack",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Mack.webp",
+      "sha256": "52b6f60aee1c3981367986742319391537312a2d20b81bcbb05b3cc97f43a5d9"
+    },
+    {
+      "handle": "Mamba",
+      "source": "https://breakingpoint.gg/players/189/Mamba",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Mamba.webp",
+      "sha256": "d5e749636baf22464f605a5534cf9e5a5c5c5c9d7f7d22783c9fbbbe37003f01"
+    },
+    {
+      "handle": "Mercules",
+      "source": "https://breakingpoint.gg/players/172/Mercules",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Mercules.webp",
+      "sha256": "cdf8339ed2e840328be9b3edc8ff5f3433f7661bf75bd3bc0af39041ffb3e4f3"
+    },
+    {
+      "handle": "Neptune",
+      "source": "https://breakingpoint.gg/players/81/Neptune",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Neptune.webp",
+      "sha256": "c84464862f2c2f411472e5b160bc0456aec1978feb9a48816cadb9f8feb5180e"
+    },
+    {
+      "handle": "Nero",
+      "source": "https://breakingpoint.gg/players/23/Nero",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Nero.webp",
+      "sha256": "d63f987be18716a69d7d32e42b71b20c860813b05f9d436222cf5614b6074316"
+    },
+    {
+      "handle": "Nium",
+      "source": "https://breakingpoint.gg/players/192/Nium",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m2_quals/Nium.webp",
+      "sha256": "1e4c71395380303f06bb7bfe18627267d31168fb61c26232275f37beed5e3831"
+    },
+    {
+      "handle": "PaulEhx",
+      "source": "https://breakingpoint.gg/players/25/PaulEhx",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%201/MIN/PaulEhx_F_M1.webp",
+      "sha256": "3bf547fb024f29e073050e73ad5ec2ff655ff765e00ee06fb899518c63d91a49"
+    },
+    {
+      "handle": "Pred",
+      "source": "https://breakingpoint.gg/players/26/Pred",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Pred.webp",
+      "sha256": "8d4a7fc9a2dfc51370932473b81a4bf500d7c8afe9b018e269a9226a6223bd2a"
+    },
+    {
+      "handle": "Prolute",
+      "source": "https://breakingpoint.gg/players/84/Prolute",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Prolute_2023.webp?t=2024-01-23T22%3A07%3A06.189Z",
+      "sha256": "2ef1c358fe03bd390257c4275f7cb65d62b8fdbb032bf02996cad25111ce8521"
+    },
+    {
+      "handle": "Purj",
+      "source": "https://breakingpoint.gg/players/98/Purj",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Purj.webp",
+      "sha256": "350d693c6ed48bf0bd81a776d71a3d81a4072e4badd3438081cbc08601bd4094"
+    },
+    {
+      "handle": "ReeaL",
+      "source": "https://breakingpoint.gg/players/104/ReeaL",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/ReeaL.webp",
+      "sha256": "6443d2dbb9d5562d537d89d4fc7d1c10f31bd805078a019ab600f52e6b7d2b3c"
+    },
+    {
+      "handle": "RenKoR",
+      "source": "https://breakingpoint.gg/players/134/RenKoR",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/RenKoR.webp",
+      "sha256": "b72f9f79d7b3ca4d9a4aee817f558dda6429b4a9620c66cc157aa3edbc6099b7"
+    },
+    {
+      "handle": "Roxas",
+      "source": "https://breakingpoint.gg/players/140/Roxas",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%201/VGS/Roxas_F_M1.webp",
+      "sha256": "f8d00f153b24e72bbff278054efd5382fc57799fab55177e97c9aee9e3c3f4b3"
+    },
+    {
+      "handle": "Scrap",
+      "source": "https://breakingpoint.gg/players/58/Scrap",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Scrap.webp",
+      "sha256": "897beb4629e632fc9751248726c1c7ef4dddad212e0b5c5439eca92e8b57d1fd"
+    },
+    {
+      "handle": "Shotzzy",
+      "source": "https://breakingpoint.gg/players/27/Shotzzy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Shotzzy.webp",
+      "sha256": "376034636768b2e9eb4c3359336b9bd5fd76c0b7e615eaed29ebce6b1ba9a4ce"
+    },
+    {
+      "handle": "Sib",
+      "source": "https://breakingpoint.gg/players/28/Sib",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Sib.webp",
+      "sha256": "835f781604c457d44e6a7ce33fb4551e5fb3484a5b5bcae8792626407ec574c9"
+    },
+    {
+      "handle": "Snoopy",
+      "source": "https://breakingpoint.gg/players/106/Snoopy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Snoopy.webp",
+      "sha256": "3555f99f073ca7c4174d293f76ce201706e07bda766536e2a445f1ae6263fc9b"
+    },
+    {
+      "handle": "Spart",
+      "source": "https://breakingpoint.gg/players/89/Spart",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%204/SPART.webp",
+      "sha256": "f0cee7042b76cc9130e06d39d1a5e0a0e9872ea8aaaca8d743f0d5225361e6ae"
+    },
+    {
+      "handle": "Standy",
+      "source": "https://breakingpoint.gg/players/48/Standy",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Standy.webp?t=2024-01-23T22%3A11%3A19.338Z",
+      "sha256": "c9b763b74626395cba28eb2e59a31219249889c5d57103ff2dd09580ec74904e"
+    },
+    {
+      "handle": "Traixx",
+      "source": "https://breakingpoint.gg/players/231/Traixx",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Traixx.webp",
+      "sha256": "f5a24edce009e66573b6b60b4456dd46d07bdd6c40077fcb214c3208eaf4892b"
+    },
+    {
+      "handle": "Vikul",
+      "source": "https://breakingpoint.gg/players/46/Vikul",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Viku.webp?t=2024-01-23T22%3A12%3A52.179Z",
+      "sha256": "acc9d95df68a135d389787305551fe9a30389bf50277e304e7e480aa783121da"
+    },
+    {
+      "handle": "iLLeY",
+      "source": "https://breakingpoint.gg/players/16/iLLeY",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Illey.webp?t=2024-01-23T21%3A58%3A57.419Z",
+      "sha256": "6cd1e13eb53efb5cb3af04eac1a9069880316e119fd23c4fb309e5ac75bb811b"
+    },
+    {
+      "handle": "Havok",
+      "source": "https://breakingpoint.gg/posts/havok-returns-to-starting-lineup-for-florida-mutineers",
+      "originalSource": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/wp-content/2021/04/image-32.png",
+      "sha256": "d1d519342a42854ddf3a29c8f1a67eca800977260ad15f31ee6684cc604b9936"
+    },
+    {
+      "handle": "GodRx",
+      "source": "https://callofdutyleague.com/en-us/news/2020-season-predictions-call-of-duty-league-experts-forecast-the-champion-mvp-and-breakout-players",
+      "originalSource": "https://images.blz-contentstack.com/v3/assets/blta7b34f1f894a2422/blt8b3964b54d3aad85/5e2a6acea9cce63cb6048bb2/1920-Minnesota_Rokkr_GodRX_0043.jpg",
+      "sha256": "6a8b6aeaef12008e08c19ebc396bd0540ebcb02a978f826d7424af154d32ac23"
+    }
+  ],
+  "aliases": {
+    "Lyynnz": "Lynz"
+  },
+  "rejectedAlternatives": [
+    {
+      "handle": "GodRx",
+      "reason": "Breaking Point profile uses an illustrated avatar; article image depicts FeLo or Clayster, not GodRx"
+    },
+    {
+      "handle": "Havok",
+      "reason": "Current profile image is a meme; use identified archival article photo"
+    }
+  ]
+}

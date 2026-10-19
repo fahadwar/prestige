@@ -1,0 +1,2763 @@
+{
+  "referenceDate": "2026-10-18",
+  "countryMeaning": "Primary country listed on the player profile, not a claim about every citizenship or country of birth.",
+  "players": [
+    {
+      "id": "gp-5e00746ddf4424",
+      "handle": "04",
+      "birthDate": "2004-08-02",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:faze vegas",
+      "team": "FaZe Vegas",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/114/04",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/04",
+        "https://breakingpoint.gg/match/215023"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 114,
+        "archiveRosterId": "bp-2026-110-1",
+        "archiveAliasHandles": [
+          "04"
+        ]
+      }
+    },
+    {
+      "id": "gp-4f524a8d62c2b5",
+      "handle": "Abe",
+      "birthDate": "2005-06-22",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:toronto koi",
+      "team": "Toronto KOI",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/178/Abe",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Abe",
+        "https://breakingpoint.gg/match/215021"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 178,
+        "archiveRosterId": "bp-2026-110-12",
+        "archiveAliasHandles": [
+          "Abe"
+        ]
+      }
+    },
+    {
+      "id": "gp-fd7266d6690fe1",
+      "handle": "aBeZy",
+      "birthDate": "1999-11-03",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 2,
+      "team": "Los Angeles Thieves",
+      "sources": [
+        "https://breakingpoint.gg/players/2/aBeZy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/ABeZy"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 2,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 2,
+          "team_name": "Los Angeles Thieves",
+          "role_name": "Player",
+          "start_date": "2025-09-25",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-3893f010b86696",
+      "handle": "Abuzah",
+      "birthDate": "2000-07-13",
+      "countryCode": "BE",
+      "country": "بلجيكا",
+      "role": "AR",
+      "teamId": "archive:faze vegas",
+      "team": "FaZe Vegas",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/97/Abuzah",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Abuzah",
+        "https://breakingpoint.gg/match/215023"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 97,
+        "archiveRosterId": "bp-2026-110-1",
+        "archiveAliasHandles": [
+          "Abuzah"
+        ]
+      }
+    },
+    {
+      "id": "gp-25d43c1c8fda31",
+      "handle": "Accuracy",
+      "birthDate": "1996-08-02",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:minnesota røkkr",
+      "team": "Minnesota RØKKR",
+      "teamBasis": "archive",
+      "teamDate": "2023-12-09",
+      "sources": [
+        "https://breakingpoint.gg/players/3/Accuracy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Accuracy",
+        "https://breakingpoint.gg/match/27197"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 3,
+        "archiveRosterId": "bp-2024-39-11",
+        "archiveAliasHandles": [
+          "Accuracy"
+        ]
+      }
+    },
+    {
+      "id": "gp-ca0ecb63f2e736",
+      "handle": "Afro",
+      "birthDate": "2001-07-19",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "SMG",
+      "teamId": "archive:cloud9 new york",
+      "team": "Cloud9 New York",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/4/Afro",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Afro",
+        "https://breakingpoint.gg/match/214799"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 4,
+        "archiveRosterId": "bp-2026-100-63",
+        "archiveAliasHandles": [
+          "Afro"
+        ]
+      }
+    },
+    {
+      "id": "gp-f6e4abad54ad9e",
+      "handle": "Alexx",
+      "birthDate": "1999-05-06",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "SMG",
+      "teamId": "archive:london royal ravens",
+      "team": "London Royal Ravens",
+      "teamBasis": "archive",
+      "teamDate": "2021-02-14",
+      "sources": [
+        "https://breakingpoint.gg/players/60/Alexx",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Alexx",
+        "https://breakingpoint.gg/match/22209"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 60,
+        "archiveRosterId": "bp-2021-29-9",
+        "archiveAliasHandles": [
+          "Alexx"
+        ]
+      }
+    },
+    {
+      "id": "gp-08b57a6dc2f368",
+      "handle": "Alluka",
+      "birthDate": "2007-06-27",
+      "countryCode": "DE",
+      "country": "ألمانيا",
+      "role": "SMG",
+      "teamId": 62,
+      "team": "Riyadh Falcons",
+      "sources": [
+        "https://breakingpoint.gg/players/399/Alluka",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Alluka"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 399,
+        "bpCountryId": 90,
+        "wikiCountry": "de",
+        "latestTransfer": {
+          "team_id": 62,
+          "team_name": "Riyadh Falcons",
+          "role_name": "Player",
+          "start_date": "2026-07-13",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-f99b67b2f016d6",
+      "handle": "Apathy",
+      "birthDate": "1994-04-15",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:los angeles guerrillas",
+      "team": "Los Angeles Guerrillas",
+      "teamBasis": "archive",
+      "teamDate": "2021-02-12",
+      "sources": [
+        "https://breakingpoint.gg/players/61/Apathy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Apathy",
+        "https://breakingpoint.gg/match/22206"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 61,
+        "archiveRosterId": "bp-2021-29-10",
+        "archiveAliasHandles": [
+          "Apathy"
+        ]
+      }
+    },
+    {
+      "id": "gp-61c7d1ee4bf996",
+      "handle": "Aqua",
+      "birthDate": "1996-09-12",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:paris legion",
+      "team": "Paris Legion",
+      "teamBasis": "archive",
+      "teamDate": "2021-02-12",
+      "sources": [
+        "https://breakingpoint.gg/players/62/Aqua",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/AquA",
+        "https://breakingpoint.gg/match/22725"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 62,
+        "archiveRosterId": "bp-2021-29-15",
+        "archiveAliasHandles": [
+          "Aqua"
+        ]
+      }
+    },
+    {
+      "id": "gp-625e9b583564b7",
+      "handle": "Arcitys",
+      "birthDate": "1998-07-09",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:seattle surge",
+      "team": "Seattle Surge",
+      "teamBasis": "archive",
+      "teamDate": "2023-12-08",
+      "sources": [
+        "https://breakingpoint.gg/players/5/Arcitys",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Arcitys",
+        "https://breakingpoint.gg/match/27194"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 5,
+        "archiveRosterId": "bp-2024-39-3",
+        "archiveAliasHandles": [
+          "Arcitys"
+        ]
+      }
+    },
+    {
+      "id": "gp-f9eaed4ec9eb18",
+      "handle": "Asim",
+      "birthDate": "2000-02-10",
+      "countryCode": "CA",
+      "country": "كندا",
+      "role": "SMG",
+      "teamId": "archive:london royal ravens",
+      "team": "London Royal Ravens",
+      "teamBasis": "archive",
+      "teamDate": "2022-12-03",
+      "sources": [
+        "https://breakingpoint.gg/players/50/Asim",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Asim",
+        "https://breakingpoint.gg/match/5904"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 50,
+        "archiveRosterId": "bp-2023-17-9",
+        "archiveAliasHandles": [
+          "Asim"
+        ]
+      }
+    },
+    {
+      "id": "gp-8be595b97c2523",
+      "handle": "Assault",
+      "birthDate": "1996-07-10",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:los angeles guerrillas",
+      "team": "Los Angeles Guerrillas",
+      "teamBasis": "archive",
+      "teamDate": "2023-12-09",
+      "sources": [
+        "https://breakingpoint.gg/players/53/Assault",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Assault",
+        "https://breakingpoint.gg/match/27198"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 53,
+        "archiveRosterId": "bp-2024-39-10",
+        "archiveAliasHandles": [
+          "Assault"
+        ]
+      }
+    },
+    {
+      "id": "gp-3d1c5ab3251195",
+      "handle": "Attach",
+      "birthDate": "1997-01-04",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:cloud9 new york",
+      "team": "Cloud9 New York",
+      "teamBasis": "archive",
+      "teamDate": "2024-12-08",
+      "sources": [
+        "https://breakingpoint.gg/players/38/Attach",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Attach",
+        "https://breakingpoint.gg/match/93822"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 38,
+        "archiveRosterId": "bp-2025-54-63",
+        "archiveAliasHandles": [
+          "Attach"
+        ]
+      }
+    },
+    {
+      "id": "gp-408c66c2f6113a",
+      "handle": "Bance",
+      "birthDate": "1997-10-14",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "SMG",
+      "teamId": "archive:minnesota røkkr",
+      "team": "Minnesota RØKKR",
+      "teamBasis": "archive",
+      "teamDate": "2023-06-15",
+      "sources": [
+        "https://breakingpoint.gg/players/6/Bance",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Bance",
+        "https://breakingpoint.gg/match/20921"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 6,
+        "archiveRosterId": "bp-2023-27-11",
+        "archiveAliasHandles": [
+          "Bance"
+        ]
+      }
+    },
+    {
+      "id": "gp-c374e3efc540eb",
+      "handle": "Beans",
+      "birthDate": "2000-05-16",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "AR",
+      "teamId": "archive:cloud9 new york",
+      "team": "Cloud9 New York",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/42/Beans",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Beans",
+        "https://breakingpoint.gg/match/214799"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 42,
+        "archiveRosterId": "bp-2026-100-63",
+        "archiveAliasHandles": [
+          "Beans"
+        ]
+      }
+    },
+    {
+      "id": "gp-81875fbcd6372d",
+      "handle": "Brack",
+      "birthDate": "1999-05-26",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "Flex",
+      "teamId": "archive:florida mutineers",
+      "team": "Florida Mutineers",
+      "teamBasis": "archive",
+      "teamDate": "2022-12-04",
+      "sources": [
+        "https://breakingpoint.gg/players/44/Brack",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Brack",
+        "https://breakingpoint.gg/match/5906"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 44,
+        "archiveRosterId": "bp-2023-17-7",
+        "archiveAliasHandles": [
+          "Brack"
+        ]
+      }
+    },
+    {
+      "id": "gp-4810e36673a324",
+      "handle": "Cammy",
+      "birthDate": "1999-10-10",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "AR",
+      "teamId": "archive:boston breach",
+      "team": "Boston Breach",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-05",
+      "sources": [
+        "https://breakingpoint.gg/players/7/Cammy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Cammy",
+        "https://breakingpoint.gg/match/214795"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 7,
+        "archiveRosterId": "bp-2026-100-6",
+        "archiveAliasHandles": [
+          "Cammy"
+        ]
+      }
+    },
+    {
+      "id": "gp-21ed58aeec18ce",
+      "handle": "Capsidal",
+      "birthDate": "2002-08-19",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:boston breach",
+      "team": "Boston Breach",
+      "teamBasis": "archive",
+      "teamDate": "2023-12-08",
+      "sources": [
+        "https://breakingpoint.gg/players/36/Capsidal",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Capsidal",
+        "https://breakingpoint.gg/match/27193"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 36,
+        "archiveRosterId": "bp-2024-39-6",
+        "archiveAliasHandles": [
+          "Capsidal"
+        ]
+      }
+    },
+    {
+      "id": "gp-a4a2e7a3a10ac0",
+      "handle": "Cellium",
+      "birthDate": "2000-12-24",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:riyadh falcons",
+      "team": "Riyadh Falcons",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/8/Cellium",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Cellium",
+        "https://breakingpoint.gg/match/215022"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 8,
+        "archiveRosterId": "bp-2026-110-62",
+        "archiveAliasHandles": [
+          "Cellium"
+        ]
+      }
+    },
+    {
+      "id": "gp-87f78585875ec2",
+      "handle": "Chino",
+      "birthDate": "1997-07-08",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:sicario gaming",
+      "team": "Sicario Gaming",
+      "teamBasis": "archive",
+      "teamDate": "2019-08-18",
+      "sources": [
+        "https://breakingpoint.gg/players/63/Chino",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Cheen",
+        "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2019-08-18-champs.csv"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 63,
+        "archiveRosterId": "cd218b652d01",
+        "archiveAliasHandles": [
+          "Chino"
+        ]
+      }
+    },
+    {
+      "id": "gp-415085ecb9318e",
+      "handle": "Clayster",
+      "birthDate": "1992-05-07",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:carolina royal ravens",
+      "team": "Carolina Royal Ravens",
+      "teamBasis": "archive",
+      "teamDate": "2023-12-09",
+      "sources": [
+        "https://breakingpoint.gg/players/47/Clayster",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Clayster",
+        "https://breakingpoint.gg/match/27196"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 47,
+        "archiveRosterId": "bp-2024-39-26",
+        "archiveAliasHandles": [
+          "Clayster"
+        ]
+      }
+    },
+    {
+      "id": "gp-e17ab805c6f3cb",
+      "handle": "CleanX",
+      "birthDate": "2000-08-11",
+      "countryCode": "DK",
+      "country": "الدنمارك",
+      "role": "SMG",
+      "teamId": 12,
+      "team": "Toronto KOI",
+      "sources": [
+        "https://breakingpoint.gg/players/9/CleanX",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/CleanX"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 9,
+        "bpCountryId": 68,
+        "wikiCountry": "Denmark",
+        "latestTransfer": {
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "role_name": "Player",
+          "start_date": "2020-06-18",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-7ceb3a6fefa41c",
+      "handle": "Crimsix",
+      "birthDate": "1993-05-29",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:new york subliners",
+      "team": "New York Subliners",
+      "teamBasis": "archive",
+      "teamDate": "2022-08-04",
+      "sources": [
+        "https://breakingpoint.gg/players/10/Crimsix",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Crimsix",
+        "https://breakingpoint.gg/match/23396"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 10,
+        "archiveRosterId": "bp-2022-1-5",
+        "archiveAliasHandles": [
+          "Crimsix"
+        ]
+      }
+    },
+    {
+      "id": "gp-29565bde735ff8",
+      "handle": "Dashy",
+      "birthDate": "1999-04-19",
+      "countryCode": "CA",
+      "country": "كندا",
+      "role": "AR",
+      "teamId": 4,
+      "team": "OpTic Texas",
+      "sources": [
+        "https://breakingpoint.gg/players/11/Dashy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Dashy"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 11,
+        "bpCountryId": 48,
+        "wikiCountry": "Canada",
+        "latestTransfer": {
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "role_name": "Player",
+          "start_date": "2023-01-17",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-2e858840c1821d",
+      "handle": "Davpadie",
+      "birthDate": "2000-08-31",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:florida mutineers",
+      "team": "Florida Mutineers",
+      "teamBasis": "archive",
+      "teamDate": "2022-02-04",
+      "sources": [
+        "https://breakingpoint.gg/players/65/Davpadie",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Davpadie",
+        "https://breakingpoint.gg/match/23200"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 65,
+        "archiveRosterId": "bp-2022-3-7",
+        "archiveAliasHandles": [
+          "Davpadie"
+        ]
+      }
+    },
+    {
+      "id": "gp-f873d49214e9e2",
+      "handle": "Decemate",
+      "birthDate": "1997-11-24",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:los angeles guerrillas",
+      "team": "Los Angeles Guerrillas",
+      "teamBasis": "archive",
+      "teamDate": "2020-08-19",
+      "sources": [
+        "https://breakingpoint.gg/players/66/Decemate",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Decemate",
+        "https://breakingpoint.gg/match/203478"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 66,
+        "archiveRosterId": "bp-2020-91-10",
+        "archiveAliasHandles": [
+          "Decemate"
+        ]
+      }
+    },
+    {
+      "id": "gp-2cf67c5e0e4de7",
+      "handle": "Diamondcon",
+      "birthDate": "2000-04-16",
+      "countryCode": "CA",
+      "country": "كندا",
+      "role": "AR",
+      "teamId": "archive:los angeles guerrillas",
+      "team": "Los Angeles Guerrillas",
+      "teamBasis": "archive",
+      "teamDate": "2024-07-18",
+      "sources": [
+        "https://breakingpoint.gg/players/67/Diamondcon",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Diamondcon",
+        "https://breakingpoint.gg/match/91832"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 67,
+        "archiveRosterId": "bp-2024-49-10",
+        "archiveAliasHandles": [
+          "Diamondcon"
+        ]
+      }
+    },
+    {
+      "id": "gp-b7ff929b9ba827",
+      "handle": "Drazah",
+      "birthDate": "2001-05-09",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:faze vegas",
+      "team": "FaZe Vegas",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/12/Drazah",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Drazah",
+        "https://breakingpoint.gg/match/215023"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 12,
+        "archiveRosterId": "bp-2026-110-1",
+        "archiveAliasHandles": [
+          "Drazah"
+        ]
+      }
+    },
+    {
+      "id": "gp-79fa10b58c05ce",
+      "handle": "Envoy",
+      "birthDate": "2000-01-19",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:g2 minnesota",
+      "team": "G2 Minnesota",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/13/Envoy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Envoy",
+        "https://breakingpoint.gg/match/215023"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 13,
+        "archiveRosterId": "bp-2026-110-11",
+        "archiveAliasHandles": [
+          "Envoy"
+        ]
+      }
+    },
+    {
+      "id": "gp-ad6b0d12034679",
+      "handle": "Estreal",
+      "birthDate": "2002-12-17",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:paris gentle mates",
+      "team": "Paris Gentle Mates",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/107/Estreal",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Estreal",
+        "https://breakingpoint.gg/match/215021"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 107,
+        "archiveRosterId": "bp-2026-110-743",
+        "archiveAliasHandles": [
+          "Estreal"
+        ]
+      }
+    },
+    {
+      "id": "gp-7ee5a85735754c",
+      "handle": "Exceed",
+      "birthDate": "2001-06-11",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": 26,
+      "team": "Carolina Royal Ravens",
+      "sources": [
+        "https://breakingpoint.gg/players/54/Exceed",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Exceed"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 54,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 26,
+          "team_name": "Carolina Royal Ravens",
+          "role_name": "Player",
+          "start_date": "2026-01-06",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-8482fcf5df637c",
+      "handle": "Exnid",
+      "birthDate": "2002-10-28",
+      "countryCode": "SA",
+      "country": "السعودية",
+      "role": "SMG",
+      "teamId": "archive:riyadh falcons",
+      "team": "Riyadh Falcons",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/138/Exnid",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Exnid",
+        "https://breakingpoint.gg/match/215022"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 138,
+        "archiveRosterId": "bp-2026-110-62",
+        "archiveAliasHandles": [
+          "Exnid"
+        ]
+      }
+    },
+    {
+      "id": "gp-5ab1f9cc3c28c2",
+      "handle": "Fame",
+      "birthDate": "2000-05-30",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:los angeles guerrillas",
+      "team": "Los Angeles Guerrillas",
+      "teamBasis": "archive",
+      "teamDate": "2024-07-18",
+      "sources": [
+        "https://breakingpoint.gg/players/56/Fame",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Fame",
+        "https://breakingpoint.gg/match/91832"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 56,
+        "archiveRosterId": "bp-2024-49-10",
+        "archiveAliasHandles": [
+          "Fame"
+        ]
+      }
+    },
+    {
+      "id": "gp-26064df4806f0c",
+      "handle": "Fire",
+      "birthDate": "2002-03-20",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:paris legion",
+      "team": "Paris Legion",
+      "teamBasis": "archive",
+      "teamDate": "2021-02-12",
+      "sources": [
+        "https://breakingpoint.gg/players/69/Fire",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Fear",
+        "https://breakingpoint.gg/match/22725"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 69,
+        "archiveRosterId": "bp-2021-29-15",
+        "archiveAliasHandles": [
+          "Fire"
+        ]
+      }
+    },
+    {
+      "id": "gp-03a2fc4ee13ea5",
+      "handle": "Flames",
+      "birthDate": "2003-04-15",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:los angeles guerrillas",
+      "team": "Los Angeles Guerrillas",
+      "teamBasis": "archive",
+      "teamDate": "2024-07-18",
+      "sources": [
+        "https://breakingpoint.gg/players/112/Flames",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Flames",
+        "https://breakingpoint.gg/match/91832"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 112,
+        "archiveRosterId": "bp-2024-49-10",
+        "archiveAliasHandles": [
+          "Flames"
+        ]
+      }
+    },
+    {
+      "id": "gp-73b15250c6e6b0",
+      "handle": "FormaL",
+      "birthDate": "1994-12-19",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:optic chicago",
+      "team": "OpTic Chicago",
+      "teamBasis": "archive",
+      "teamDate": "2021-08-19",
+      "sources": [
+        "https://breakingpoint.gg/players/70/FormaL",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/FormaL",
+        "https://breakingpoint.gg/match/22953"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 70,
+        "archiveRosterId": "bp-2021-38-17",
+        "archiveAliasHandles": [
+          "FormaL"
+        ]
+      }
+    },
+    {
+      "id": "gp-92595970294020",
+      "handle": "Ghosty",
+      "birthDate": "2002-04-24",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:paris gentle mates",
+      "team": "Paris Gentle Mates",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/40/Ghosty",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Ghosty",
+        "https://breakingpoint.gg/match/215021"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 40,
+        "archiveRosterId": "bp-2026-110-743",
+        "archiveAliasHandles": [
+          "Ghosty"
+        ]
+      }
+    },
+    {
+      "id": "gp-a8e298aa25fb27",
+      "handle": "Gio",
+      "birthDate": "2003-09-02",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:minnesota røkkr",
+      "team": "Minnesota RØKKR",
+      "teamBasis": "archive",
+      "teamDate": "2024-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/110/Gio",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Gio",
+        "https://breakingpoint.gg/match/93815"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 110,
+        "archiveRosterId": "bp-2025-54-11",
+        "archiveAliasHandles": [
+          "Gio"
+        ]
+      }
+    },
+    {
+      "id": "gp-195bfebb7e073d",
+      "handle": "Gunless",
+      "birthDate": "1997-11-24",
+      "countryCode": "CA",
+      "country": "كندا",
+      "role": "AR",
+      "teamId": "archive:los angeles guerrillas",
+      "team": "Los Angeles Guerrillas",
+      "teamBasis": "archive",
+      "teamDate": "2022-02-04",
+      "sources": [
+        "https://breakingpoint.gg/players/72/Gunless",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Gunless",
+        "https://breakingpoint.gg/match/23201"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 72,
+        "archiveRosterId": "bp-2022-3-10",
+        "archiveAliasHandles": [
+          "Gunless"
+        ]
+      }
+    },
+    {
+      "id": "gp-9a5825f694c78d",
+      "handle": "Gwinn",
+      "birthDate": "2002-05-02",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 63,
+      "team": "Cloud9 New York",
+      "sources": [
+        "https://breakingpoint.gg/players/101/Gwinn",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Gwinn"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 101,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 63,
+          "team_name": "Cloud9 New York",
+          "role_name": "Player",
+          "start_date": "2026-07-23",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-e06e0e8fb39811",
+      "handle": "Havok",
+      "birthDate": "1998-02-19",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:florida mutineers",
+      "team": "Florida Mutineers",
+      "teamBasis": "archive",
+      "teamDate": "2022-12-04",
+      "sources": [
+        "https://breakingpoint.gg/players/75/Havok",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Havok",
+        "https://breakingpoint.gg/match/5906"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 75,
+        "archiveRosterId": "bp-2023-17-7",
+        "archiveAliasHandles": [
+          "Havok"
+        ]
+      }
+    },
+    {
+      "id": "gp-74b6b1eada4fe1",
+      "handle": "Hicksy",
+      "birthDate": "1999-10-25",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "SMG",
+      "teamId": "archive:vancouver surge",
+      "team": "Vancouver Surge",
+      "teamBasis": "archive",
+      "teamDate": "2024-12-07",
+      "sources": [
+        "https://breakingpoint.gg/players/57/Hicksy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Hicksy",
+        "https://breakingpoint.gg/match/93821"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 57,
+        "archiveRosterId": "bp-2025-54-3",
+        "archiveAliasHandles": [
+          "Hicksy"
+        ]
+      }
+    },
+    {
+      "id": "gp-f99f3d10c27502",
+      "handle": "HyDra",
+      "birthDate": "2002-02-11",
+      "countryCode": "FR",
+      "country": "فرنسا",
+      "role": "SMG",
+      "teamId": "archive:los angeles thieves",
+      "team": "Los Angeles Thieves",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/15/HyDra",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/HyDra",
+        "https://breakingpoint.gg/match/215022"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 15,
+        "archiveRosterId": "bp-2026-110-2",
+        "archiveAliasHandles": [
+          "HyDra"
+        ]
+      }
+    },
+    {
+      "id": "gp-17ca46c6274e49",
+      "handle": "iLLeY",
+      "birthDate": "2001-10-20",
+      "countryCode": "CA",
+      "country": "كندا",
+      "role": "AR",
+      "teamId": "archive:seattle surge",
+      "team": "Seattle Surge",
+      "teamBasis": "archive",
+      "teamDate": "2023-12-08",
+      "sources": [
+        "https://breakingpoint.gg/players/16/iLLeY",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/ILLeY",
+        "https://breakingpoint.gg/match/27194"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 16,
+        "archiveRosterId": "bp-2024-39-3",
+        "archiveAliasHandles": [
+          "iLLeY"
+        ]
+      }
+    },
+    {
+      "id": "gp-64f4d331402b24",
+      "handle": "Insight",
+      "birthDate": "1999-10-31",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "AR",
+      "teamId": "archive:toronto koi",
+      "team": "Toronto KOI",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/17/Insight",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Insight",
+        "https://breakingpoint.gg/match/215021"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 17,
+        "archiveRosterId": "bp-2026-110-12",
+        "archiveAliasHandles": [
+          "Insight"
+        ]
+      }
+    },
+    {
+      "id": "gp-9036f6f5e1584d",
+      "handle": "JoeDeceives",
+      "birthDate": "2004-09-23",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 743,
+      "team": "Paris Gentle Mates",
+      "sources": [
+        "https://breakingpoint.gg/players/55/JoeDeceives",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/JoeDeceives"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 55,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 743,
+          "team_name": "Paris Gentle Mates",
+          "role_name": "Player",
+          "start_date": "2026-06-03",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-9c8c52ad26db4d",
+      "handle": "John",
+      "birthDate": "1996-03-28",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:los angeles thieves",
+      "team": "Los Angeles Thieves",
+      "teamBasis": "archive",
+      "teamDate": "2021-08-19",
+      "sources": [
+        "https://breakingpoint.gg/players/77/John",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/John",
+        "https://breakingpoint.gg/match/22329"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 77,
+        "archiveRosterId": "bp-2021-38-2",
+        "archiveAliasHandles": [
+          "John"
+        ]
+      }
+    },
+    {
+      "id": "gp-c265dab74cb0e3",
+      "handle": "JurNii",
+      "birthDate": "2000-02-07",
+      "countryCode": "ES",
+      "country": "إسبانيا",
+      "role": "SMG",
+      "teamId": "archive:miami heretics",
+      "team": "Miami Heretics",
+      "teamBasis": "archive",
+      "teamDate": "2023-12-09",
+      "sources": [
+        "https://breakingpoint.gg/players/95/JurNii",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/JurNii",
+        "https://breakingpoint.gg/match/27196"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 95,
+        "archiveRosterId": "bp-2024-39-27",
+        "archiveAliasHandles": [
+          "JurNii"
+        ]
+      }
+    },
+    {
+      "id": "gp-607815a15714da",
+      "handle": "Kenny",
+      "birthDate": "1999-09-02",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:los angeles thieves",
+      "team": "Los Angeles Thieves",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-05",
+      "sources": [
+        "https://breakingpoint.gg/players/18/Kenny",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Kenny",
+        "https://breakingpoint.gg/match/214796"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 18,
+        "archiveRosterId": "bp-2026-100-2",
+        "archiveAliasHandles": [
+          "Kenny"
+        ]
+      }
+    },
+    {
+      "id": "gp-81d0280a7c06f4",
+      "handle": "Khhx",
+      "birthDate": "2001-04-20",
+      "countryCode": "SA",
+      "country": "السعودية",
+      "role": "AR",
+      "teamId": "archive:vegas falcons",
+      "team": "Vegas Falcons",
+      "teamBasis": "archive",
+      "teamDate": "2024-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/137/Khhx",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Khhx",
+        "https://breakingpoint.gg/match/93817"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 137,
+        "archiveRosterId": "bp-2025-54-62",
+        "archiveAliasHandles": [
+          "Khhx"
+        ]
+      }
+    },
+    {
+      "id": "gp-56787de61a7469",
+      "handle": "KingAbody",
+      "birthDate": "2000-02-06",
+      "countryCode": "SA",
+      "country": "السعودية",
+      "role": "SMG",
+      "teamId": "archive:vegas falcons",
+      "team": "Vegas Falcons",
+      "teamBasis": "archive",
+      "teamDate": "2024-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/139/KingAbody",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/KingAbody",
+        "https://breakingpoint.gg/match/93817"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 139,
+        "archiveRosterId": "bp-2025-54-62",
+        "archiveAliasHandles": [
+          "KingAbody"
+        ]
+      }
+    },
+    {
+      "id": "gp-25d4e1427f8ef9",
+      "handle": "Kips",
+      "birthDate": "2006-02-17",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": 12,
+      "team": "Toronto KOI",
+      "sources": [
+        "https://breakingpoint.gg/players/235/Kips",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Kips"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 235,
+        "bpCountryId": 234,
+        "wikiCountry": "us",
+        "latestTransfer": {
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "role_name": "Player",
+          "start_date": "2026-02-17",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-89d68d2dc2c677",
+      "handle": "KiSMET",
+      "birthDate": "1999-11-11",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:riyadh falcons",
+      "team": "Riyadh Falcons",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/19/KiSMET",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/KiSMET",
+        "https://breakingpoint.gg/match/215022"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 19,
+        "archiveRosterId": "bp-2026-110-62",
+        "archiveAliasHandles": [
+          "KiSMET"
+        ]
+      }
+    },
+    {
+      "id": "gp-72f502094b09c3",
+      "handle": "Kremp",
+      "birthDate": "2002-11-19",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 11,
+      "team": "G2 Minnesota",
+      "sources": [
+        "https://breakingpoint.gg/players/43/Kremp",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Kremp"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 43,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 11,
+          "team_name": "G2 Minnesota",
+          "role_name": "Player",
+          "start_date": "2025-11-18",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-4edae4af0bd226",
+      "handle": "Loony",
+      "birthDate": "1993-05-31",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:seattle surge",
+      "team": "Seattle Surge",
+      "teamBasis": "archive",
+      "teamDate": "2021-02-11",
+      "sources": [
+        "https://breakingpoint.gg/players/79/Loony",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Loony",
+        "https://breakingpoint.gg/match/22724"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 79,
+        "archiveRosterId": "bp-2021-29-3",
+        "archiveAliasHandles": [
+          "Loony"
+        ]
+      }
+    },
+    {
+      "id": "gp-522e19ab77d6af",
+      "handle": "Lucky",
+      "birthDate": "1999-09-04",
+      "countryCode": "ES",
+      "country": "إسبانيا",
+      "role": "AR",
+      "teamId": "archive:miami heretics",
+      "team": "Miami Heretics",
+      "teamBasis": "archive",
+      "teamDate": "2024-12-07",
+      "sources": [
+        "https://breakingpoint.gg/players/93/Lucky",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Lucky",
+        "https://breakingpoint.gg/match/93819"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 93,
+        "archiveRosterId": "bp-2025-54-27",
+        "archiveAliasHandles": [
+          "Lucky"
+        ]
+      }
+    },
+    {
+      "id": "gp-216233bb29f3e1",
+      "handle": "Lunarz",
+      "birthDate": "2003-08-22",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:vancouver surge",
+      "team": "Vancouver Surge",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/163/Lunarz",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Lunarz",
+        "https://breakingpoint.gg/match/214798"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 163,
+        "archiveRosterId": "bp-2026-100-3",
+        "archiveAliasHandles": [
+          "Lunarz"
+        ]
+      }
+    },
+    {
+      "id": "gp-66f6ceb258a932",
+      "handle": "Lynz",
+      "birthDate": "2004-08-06",
+      "countryCode": "FR",
+      "country": "فرنسا",
+      "role": "SMG",
+      "teamId": "archive:la guerrillas m8",
+      "team": "LA Guerrillas M8",
+      "teamBasis": "archive",
+      "teamDate": "2024-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/99/Lynz",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Lynz",
+        "https://breakingpoint.gg/match/93815"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 99,
+        "archiveRosterId": "bp-2025-54-61",
+        "archiveAliasHandles": [
+          "Lynz"
+        ]
+      }
+    },
+    {
+      "id": "gp-b5f1a7551b6aa7",
+      "handle": "Mack",
+      "birthDate": "2001-11-21",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:cloud9 new york",
+      "team": "Cloud9 New York",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/20/Mack",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Mack",
+        "https://breakingpoint.gg/match/214799"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 20,
+        "archiveRosterId": "bp-2026-100-63",
+        "archiveAliasHandles": [
+          "Mack"
+        ]
+      }
+    },
+    {
+      "id": "gp-0fe960ecd297d3",
+      "handle": "Mamba",
+      "birthDate": "2002-03-13",
+      "countryCode": "MX",
+      "country": "المكسيك",
+      "role": "AR",
+      "teamId": "archive:g2 minnesota",
+      "team": "G2 Minnesota",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/189/Mamba",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Mamba",
+        "https://breakingpoint.gg/match/214799"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 189,
+        "archiveRosterId": "bp-2026-100-11",
+        "archiveAliasHandles": [
+          "Mamba"
+        ]
+      }
+    },
+    {
+      "id": "gp-f79d6310153063",
+      "handle": "Mercules",
+      "birthDate": "2003-07-14",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": 4,
+      "team": "OpTic Texas",
+      "sources": [
+        "https://breakingpoint.gg/players/172/Mercules",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Mercules"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 172,
+        "bpCountryId": 234,
+        "wikiCountry": "US",
+        "latestTransfer": {
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "role_name": "Player",
+          "start_date": "2025-05-06",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-4229ab81ba5339",
+      "handle": "Methodz",
+      "birthDate": "1997-08-15",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:boston breach",
+      "team": "Boston Breach",
+      "teamBasis": "archive",
+      "teamDate": "2022-12-02",
+      "sources": [
+        "https://breakingpoint.gg/players/21/Methodz",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Methodz",
+        "https://breakingpoint.gg/match/5899"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 21,
+        "archiveRosterId": "bp-2023-17-6",
+        "archiveAliasHandles": [
+          "Methodz"
+        ]
+      }
+    },
+    {
+      "id": "gp-4375508843cea4",
+      "handle": "MettalZ",
+      "birthDate": "2000-09-19",
+      "countryCode": "ES",
+      "country": "إسبانيا",
+      "role": "SMG",
+      "teamId": "archive:miami heretics",
+      "team": "Miami Heretics",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/94/MettalZ",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/MettalZ",
+        "https://breakingpoint.gg/match/215020"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 94,
+        "archiveRosterId": "bp-2026-110-27",
+        "archiveAliasHandles": [
+          "MettalZ"
+        ]
+      }
+    },
+    {
+      "id": "gp-4e7cebdca72727",
+      "handle": "Nastie",
+      "birthDate": "1999-07-03",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "AR",
+      "teamId": "archive:g2 minnesota",
+      "team": "G2 Minnesota",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/22/Nastie",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Nastie",
+        "https://breakingpoint.gg/match/215023"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 22,
+        "archiveRosterId": "bp-2026-110-11",
+        "archiveAliasHandles": [
+          "Nastie"
+        ]
+      }
+    },
+    {
+      "id": "gp-b4a2bfde19c1e3",
+      "handle": "Neptune",
+      "birthDate": "2002-04-09",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:paris gentle mates",
+      "team": "Paris Gentle Mates",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/81/Neptune",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Neptune",
+        "https://breakingpoint.gg/match/214798"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 81,
+        "archiveRosterId": "bp-2026-100-743",
+        "archiveAliasHandles": [
+          "Neptune"
+        ]
+      }
+    },
+    {
+      "id": "gp-02b18897b491cb",
+      "handle": "Nero",
+      "birthDate": "2002-05-30",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:carolina royal ravens",
+      "team": "Carolina Royal Ravens",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-05",
+      "sources": [
+        "https://breakingpoint.gg/players/23/Nero",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Nero",
+        "https://breakingpoint.gg/match/214795"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 23,
+        "archiveRosterId": "bp-2026-100-26",
+        "archiveAliasHandles": [
+          "Nero"
+        ]
+      }
+    },
+    {
+      "id": "gp-09c1b781ec7869",
+      "handle": "Nium",
+      "birthDate": "2002-07-23",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:los angeles thieves",
+      "team": "Los Angeles Thieves",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/192/Nium",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Nium",
+        "https://breakingpoint.gg/match/215022"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 192,
+        "archiveRosterId": "bp-2026-110-2",
+        "archiveAliasHandles": [
+          "Nium"
+        ]
+      }
+    },
+    {
+      "id": "gp-149b118dfceb4a",
+      "handle": "Octane",
+      "birthDate": "1997-06-23",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:los angeles thieves",
+      "team": "Los Angeles Thieves",
+      "teamBasis": "archive",
+      "teamDate": "2023-06-15",
+      "sources": [
+        "https://breakingpoint.gg/players/24/Octane",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Octane",
+        "https://breakingpoint.gg/match/20924"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 24,
+        "archiveRosterId": "bp-2023-27-2",
+        "archiveAliasHandles": [
+          "Octane"
+        ]
+      }
+    },
+    {
+      "id": "gp-abff17b7a1293d",
+      "handle": "Owakening",
+      "birthDate": "2000-12-18",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:boston breach",
+      "team": "Boston Breach",
+      "teamBasis": "archive",
+      "teamDate": "2025-06-26",
+      "sources": [
+        "https://breakingpoint.gg/players/37/Owakening",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Owakening",
+        "https://breakingpoint.gg/match/185286"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 37,
+        "archiveRosterId": "bp-2025-72-6",
+        "archiveAliasHandles": [
+          "Owakening"
+        ]
+      }
+    },
+    {
+      "id": "gp-d9e24699dc450c",
+      "handle": "Parasite",
+      "birthDate": "1994-07-21",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:london royal ravens",
+      "team": "London Royal Ravens",
+      "teamBasis": "archive",
+      "teamDate": "2021-02-14",
+      "sources": [
+        "https://breakingpoint.gg/players/82/Parasite",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Parasite",
+        "https://breakingpoint.gg/match/22209"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 82,
+        "archiveRosterId": "bp-2021-29-9",
+        "archiveAliasHandles": [
+          "Parasite"
+        ]
+      }
+    },
+    {
+      "id": "gp-f46727084fd294",
+      "handle": "PaulEhx",
+      "birthDate": "2002-01-21",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:minnesota røkkr",
+      "team": "Minnesota RØKKR",
+      "teamBasis": "archive",
+      "teamDate": "2024-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/25/PaulEhx",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/PaulEhx",
+        "https://breakingpoint.gg/match/93815"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 25,
+        "archiveRosterId": "bp-2025-54-11",
+        "archiveAliasHandles": [
+          "PaulEhx"
+        ]
+      }
+    },
+    {
+      "id": "gp-43920e160750e2",
+      "handle": "Pentagrxm",
+      "birthDate": "2000-03-08",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:carnage gaming",
+      "team": "Carnage Gaming",
+      "teamBasis": "archive",
+      "teamDate": "2019-08-18",
+      "sources": [
+        "https://breakingpoint.gg/players/113/Pentagrxm",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Pentagrxm",
+        "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2019-08-18-champs.csv"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 113,
+        "archiveRosterId": "020e86518993",
+        "archiveAliasHandles": [
+          "Pentagrxm"
+        ]
+      }
+    },
+    {
+      "id": "gp-a64ca23f052bfb",
+      "handle": "Pred",
+      "birthDate": "2001-08-19",
+      "countryCode": "AU",
+      "country": "أستراليا",
+      "role": "SMG",
+      "teamId": "archive:riyadh falcons",
+      "team": "Riyadh Falcons",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-05",
+      "sources": [
+        "https://breakingpoint.gg/players/26/Pred",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Pred",
+        "https://breakingpoint.gg/match/214794"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 26,
+        "archiveRosterId": "bp-2026-100-62",
+        "archiveAliasHandles": [
+          "Pred"
+        ]
+      }
+    },
+    {
+      "id": "gp-11c6f828c3eec0",
+      "handle": "Prestinni",
+      "birthDate": "1998-07-09",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:seattle surge",
+      "team": "Seattle Surge",
+      "teamBasis": "archive",
+      "teamDate": "2021-02-11",
+      "sources": [
+        "https://breakingpoint.gg/players/83/Prestinni",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Prestinni",
+        "https://breakingpoint.gg/match/22724"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 83,
+        "archiveRosterId": "bp-2021-29-3",
+        "archiveAliasHandles": [
+          "Prestinni"
+        ]
+      }
+    },
+    {
+      "id": "gp-3c0b869456a6de",
+      "handle": "Priestahh",
+      "birthDate": "1998-06-27",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:la guerrillas m8",
+      "team": "LA Guerrillas M8",
+      "teamBasis": "archive",
+      "teamDate": "2024-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/34/Priestahh",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Priestahh",
+        "https://breakingpoint.gg/match/93815"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 34,
+        "archiveRosterId": "bp-2025-54-61",
+        "archiveAliasHandles": [
+          "Priestahh"
+        ]
+      }
+    },
+    {
+      "id": "gp-52a414e37ede17",
+      "handle": "Prolute",
+      "birthDate": "2001-06-29",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:las vegas legion",
+      "team": "Las Vegas Legion",
+      "teamBasis": "archive",
+      "teamDate": "2022-12-02",
+      "sources": [
+        "https://breakingpoint.gg/players/84/Prolute",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Prolute",
+        "https://breakingpoint.gg/match/5900"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 84,
+        "archiveRosterId": "bp-2023-17-8",
+        "archiveAliasHandles": [
+          "Prolute"
+        ]
+      }
+    },
+    {
+      "id": "gp-d65a737190d154",
+      "handle": "Purj",
+      "birthDate": "2003-03-03",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:boston breach",
+      "team": "Boston Breach",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-05",
+      "sources": [
+        "https://breakingpoint.gg/players/98/Purj",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Purj",
+        "https://breakingpoint.gg/match/214795"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 98,
+        "archiveRosterId": "bp-2026-100-6",
+        "archiveAliasHandles": [
+          "Purj"
+        ]
+      }
+    },
+    {
+      "id": "gp-7ef7b11c98cbc2",
+      "handle": "ReeaL",
+      "birthDate": "2003-12-11",
+      "countryCode": "ES",
+      "country": "إسبانيا",
+      "role": "SMG",
+      "teamId": "archive:miami heretics",
+      "team": "Miami Heretics",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/104/ReeaL",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/ReeaL",
+        "https://breakingpoint.gg/match/215020"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 104,
+        "archiveRosterId": "bp-2026-110-27",
+        "archiveAliasHandles": [
+          "ReeaL"
+        ]
+      }
+    },
+    {
+      "id": "gp-7ae4477050cb13",
+      "handle": "RenKoR",
+      "birthDate": "2002-07-29",
+      "countryCode": "ES",
+      "country": "إسبانيا",
+      "role": "AR",
+      "teamId": "archive:miami heretics",
+      "team": "Miami Heretics",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/134/RenKoR",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/RenKoR",
+        "https://breakingpoint.gg/match/215020"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 134,
+        "archiveRosterId": "bp-2026-110-27",
+        "archiveAliasHandles": [
+          "RenKoR"
+        ]
+      }
+    },
+    {
+      "id": "gp-4a8ec188dd726e",
+      "handle": "Roxas",
+      "birthDate": "1999-03-28",
+      "countryCode": "SA",
+      "country": "السعودية",
+      "role": "AR",
+      "teamId": "archive:vegas falcons",
+      "team": "Vegas Falcons",
+      "teamBasis": "archive",
+      "teamDate": "2024-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/140/Roxas",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Roxas",
+        "https://breakingpoint.gg/match/93817"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 140,
+        "archiveRosterId": "bp-2025-54-62",
+        "archiveAliasHandles": [
+          "Roxas"
+        ]
+      }
+    },
+    {
+      "id": "gp-a93da88a7b4a0f",
+      "handle": "Scrap",
+      "birthDate": "2002-07-01",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:los angeles thieves",
+      "team": "Los Angeles Thieves",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/58/Scrap",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Scrappy",
+        "https://breakingpoint.gg/match/215022"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 58,
+        "archiveRosterId": "bp-2026-110-2",
+        "archiveAliasHandles": [
+          "Scrap"
+        ]
+      }
+    },
+    {
+      "id": "gp-a14958df23489f",
+      "handle": "Scump",
+      "birthDate": "1995-06-30",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:optic texas",
+      "team": "OpTic Texas",
+      "teamBasis": "archive",
+      "teamDate": "2022-12-02",
+      "sources": [
+        "https://breakingpoint.gg/players/1/Scump",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Scump",
+        "https://breakingpoint.gg/match/5901"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 1,
+        "archiveRosterId": "bp-2023-17-4",
+        "archiveAliasHandles": [
+          "Scump"
+        ]
+      }
+    },
+    {
+      "id": "gp-603523876f753e",
+      "handle": "Seany",
+      "birthDate": "1998-11-04",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "AR",
+      "teamId": "archive:london royal ravens",
+      "team": "London Royal Ravens",
+      "teamBasis": "archive",
+      "teamDate": "2021-02-14",
+      "sources": [
+        "https://breakingpoint.gg/players/86/Seany",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Seany",
+        "https://breakingpoint.gg/match/22209"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 86,
+        "archiveRosterId": "bp-2021-29-9",
+        "archiveAliasHandles": [
+          "Seany"
+        ]
+      }
+    },
+    {
+      "id": "gp-7e594de8609bef",
+      "handle": "Shotzzy",
+      "birthDate": "2001-07-04",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 4,
+      "team": "OpTic Texas",
+      "sources": [
+        "https://breakingpoint.gg/players/27/Shotzzy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Shotzzy"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 27,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "role_name": "Player",
+          "start_date": "2021-11-08",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-17eb1c056a504d",
+      "handle": "Sib",
+      "birthDate": "2002-02-03",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:paris gentle mates",
+      "team": "Paris Gentle Mates",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/28/Sib",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Sib",
+        "https://breakingpoint.gg/match/215021"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 28,
+        "archiveRosterId": "bp-2026-110-743",
+        "archiveAliasHandles": [
+          "Sib"
+        ]
+      }
+    },
+    {
+      "id": "gp-5b10c5273427a6",
+      "handle": "Simp",
+      "birthDate": "2001-02-06",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": 1,
+      "team": "FaZe Vegas",
+      "sources": [
+        "https://breakingpoint.gg/players/29/Simp",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Simp"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 29,
+        "bpCountryId": 234,
+        "wikiCountry": "United States",
+        "latestTransfer": {
+          "team_id": 1,
+          "team_name": "FaZe Vegas",
+          "role_name": "Player",
+          "start_date": "2019-10-26",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-ad42c2c5a96ae1",
+      "handle": "Skrapz",
+      "birthDate": "1997-05-30",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "AR",
+      "teamId": "archive:paris legion",
+      "team": "Paris Legion",
+      "teamBasis": "archive",
+      "teamDate": "2021-02-12",
+      "sources": [
+        "https://breakingpoint.gg/players/51/Skrapz",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Skrapz",
+        "https://breakingpoint.gg/match/22725"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 51,
+        "archiveRosterId": "bp-2021-29-15",
+        "archiveAliasHandles": [
+          "Skrapz"
+        ]
+      }
+    },
+    {
+      "id": "gp-e850e8e3b4efce",
+      "handle": "Skyz",
+      "birthDate": "1999-07-08",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:g2 minnesota",
+      "team": "G2 Minnesota",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/41/Skyz",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Skyz",
+        "https://breakingpoint.gg/match/215023"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 41,
+        "archiveRosterId": "bp-2026-110-11",
+        "archiveAliasHandles": [
+          "Skyz"
+        ]
+      }
+    },
+    {
+      "id": "gp-5e75d029d5bbea",
+      "handle": "Slacked",
+      "birthDate": "1997-05-20",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:florida mutineers",
+      "team": "Florida Mutineers",
+      "teamBasis": "archive",
+      "teamDate": "2021-02-13",
+      "sources": [
+        "https://breakingpoint.gg/players/88/Slacked",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Slacked",
+        "https://breakingpoint.gg/match/22207"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 88,
+        "archiveRosterId": "bp-2021-29-7",
+        "archiveAliasHandles": [
+          "Slacked"
+        ]
+      }
+    },
+    {
+      "id": "gp-4846e311022632",
+      "handle": "SlasheR",
+      "birthDate": "1994-09-02",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:carolina royal ravens",
+      "team": "Carolina Royal Ravens",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-05",
+      "sources": [
+        "https://breakingpoint.gg/players/35/SlasheR",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/SlasheR",
+        "https://breakingpoint.gg/match/214795"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 35,
+        "archiveRosterId": "bp-2026-100-26",
+        "archiveAliasHandles": [
+          "SlasheR"
+        ]
+      }
+    },
+    {
+      "id": "gp-fb251b5f64b0ea",
+      "handle": "Snoopy",
+      "birthDate": "2004-09-25",
+      "countryCode": "MX",
+      "country": "المكسيك",
+      "role": "SMG",
+      "teamId": 27,
+      "team": "Miami Heretics",
+      "sources": [
+        "https://breakingpoint.gg/players/106/Snoopy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Snoopy"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 106,
+        "bpCountryId": 148,
+        "wikiCountry": "Mexico",
+        "latestTransfer": {
+          "team_id": 27,
+          "team_name": "Miami Heretics",
+          "role_name": "Player",
+          "start_date": "2026-10-06",
+          "end_date": null
+        }
+      },
+      "teamBasis": "profile",
+      "teamDate": "2026-10-18"
+    },
+    {
+      "id": "gp-91f29a9594bf71",
+      "handle": "Spart",
+      "birthDate": "2001-05-24",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:los angeles guerrillas",
+      "team": "Los Angeles Guerrillas",
+      "teamBasis": "archive",
+      "teamDate": "2022-12-03",
+      "sources": [
+        "https://breakingpoint.gg/players/89/Spart",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Spart",
+        "https://breakingpoint.gg/match/5902"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 89,
+        "archiveRosterId": "bp-2023-17-10",
+        "archiveAliasHandles": [
+          "Spart"
+        ]
+      }
+    },
+    {
+      "id": "gp-8681e0989dc64c",
+      "handle": "Standy",
+      "birthDate": "2001-06-12",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:las vegas legion",
+      "team": "Las Vegas Legion",
+      "teamBasis": "archive",
+      "teamDate": "2023-12-09",
+      "sources": [
+        "https://breakingpoint.gg/players/48/Standy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Standy",
+        "https://breakingpoint.gg/match/27197"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 48,
+        "archiveRosterId": "bp-2024-39-8",
+        "archiveAliasHandles": [
+          "Standy"
+        ]
+      }
+    },
+    {
+      "id": "gp-18b827112d526a",
+      "handle": "SupeR",
+      "birthDate": "2001-01-30",
+      "countryCode": "ES",
+      "country": "إسبانيا",
+      "role": "AR",
+      "teamId": "archive:miami heretics",
+      "team": "Miami Heretics",
+      "teamBasis": "archive",
+      "teamDate": "2026-07-16",
+      "sources": [
+        "https://breakingpoint.gg/players/135/SupeR",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/SupeR",
+        "https://breakingpoint.gg/match/215020"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 135,
+        "archiveRosterId": "bp-2026-110-27",
+        "archiveAliasHandles": [
+          "SupeR"
+        ]
+      }
+    },
+    {
+      "id": "gp-809a7f99210adf",
+      "handle": "Temp",
+      "birthDate": "1999-07-10",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:las vegas legion",
+      "team": "Las Vegas Legion",
+      "teamBasis": "archive",
+      "teamDate": "2022-12-02",
+      "sources": [
+        "https://breakingpoint.gg/players/49/Temp",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Temp",
+        "https://breakingpoint.gg/match/5900"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 49,
+        "archiveRosterId": "bp-2023-17-8",
+        "archiveAliasHandles": [
+          "Temp"
+        ]
+      }
+    },
+    {
+      "id": "gp-db74f9415d20af",
+      "handle": "TJHaLy",
+      "birthDate": "1999-07-19",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:carolina royal ravens",
+      "team": "Carolina Royal Ravens",
+      "teamBasis": "archive",
+      "teamDate": "2025-06-26",
+      "sources": [
+        "https://breakingpoint.gg/players/30/TJHaLy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/TJHaLy",
+        "https://breakingpoint.gg/match/185289"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 30,
+        "archiveRosterId": "bp-2025-72-26",
+        "archiveAliasHandles": [
+          "TJHaLy"
+        ]
+      }
+    },
+    {
+      "id": "gp-cf6132aa4539cd",
+      "handle": "Traixx",
+      "birthDate": "2003-12-11",
+      "countryCode": "AR",
+      "country": "الأرجنتين",
+      "role": "SMG",
+      "teamId": "archive:miami heretics",
+      "team": "Miami Heretics",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/231/Traixx",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Traix",
+        "https://breakingpoint.gg/match/214797"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 231,
+        "archiveRosterId": "bp-2026-100-27",
+        "archiveAliasHandles": [
+          "Traixx"
+        ]
+      }
+    },
+    {
+      "id": "gp-ea4cf1b41298c5",
+      "handle": "Vikul",
+      "birthDate": "2003-04-04",
+      "countryCode": "ES",
+      "country": "إسبانيا",
+      "role": "AR",
+      "teamId": "archive:miami heretics",
+      "team": "Miami Heretics",
+      "teamBasis": "archive",
+      "teamDate": "2024-07-18",
+      "sources": [
+        "https://breakingpoint.gg/players/46/Vikul",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Vikul",
+        "https://breakingpoint.gg/match/91830"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 46,
+        "archiveRosterId": "bp-2024-49-27",
+        "archiveAliasHandles": [
+          "Vikul"
+        ]
+      }
+    },
+    {
+      "id": "gp-35785ee5068545",
+      "handle": "Vivid",
+      "birthDate": "1999-12-24",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:cloud9 new york",
+      "team": "Cloud9 New York",
+      "teamBasis": "archive",
+      "teamDate": "2025-12-06",
+      "sources": [
+        "https://breakingpoint.gg/players/31/Vivid",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Vivid",
+        "https://breakingpoint.gg/match/214799"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 31,
+        "archiveRosterId": "bp-2026-100-63",
+        "archiveAliasHandles": [
+          "Vivid"
+        ]
+      }
+    },
+    {
+      "id": "gp-0a791156f81062",
+      "handle": "Wrecks",
+      "birthDate": "2000-03-12",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "AR",
+      "teamId": "archive:carolina royal ravens",
+      "team": "Carolina Royal Ravens",
+      "teamBasis": "archive",
+      "teamDate": "2025-06-26",
+      "sources": [
+        "https://breakingpoint.gg/players/164/Wrecks",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Wrecks",
+        "https://breakingpoint.gg/match/185289"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 164,
+        "archiveRosterId": "bp-2025-72-26",
+        "archiveAliasHandles": [
+          "Wrecks"
+        ]
+      }
+    },
+    {
+      "id": "gp-12a12ac0dd8002",
+      "handle": "Zaptius",
+      "birthDate": "1999-03-13",
+      "countryCode": "US",
+      "country": "الولايات المتحدة",
+      "role": "SMG",
+      "teamId": "archive:midnight",
+      "team": "Midnight",
+      "teamBasis": "archive",
+      "teamDate": "2019-08-18",
+      "sources": [
+        "https://breakingpoint.gg/players/91/Zaptius",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Zaptius",
+        "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2019-08-18-champs.csv"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 91,
+        "archiveRosterId": "eef8ad5fc04b",
+        "archiveAliasHandles": [
+          "Zaptius"
+        ]
+      }
+    },
+    {
+      "id": "gp-1b23ea0fd8cebb",
+      "handle": "Zed",
+      "birthDate": "1997-09-13",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "SMG",
+      "teamId": "archive:paris legion",
+      "team": "Paris Legion",
+      "teamBasis": "archive",
+      "teamDate": "2020-08-19",
+      "sources": [
+        "https://breakingpoint.gg/players/92/Zed",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Zed",
+        "https://breakingpoint.gg/match/203477"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 92,
+        "archiveRosterId": "bp-2020-91-15",
+        "archiveAliasHandles": [
+          "Zed"
+        ]
+      }
+    },
+    {
+      "id": "gp-9e17432fa08c1a",
+      "handle": "Zer0",
+      "birthDate": "1997-08-02",
+      "countryCode": "GB",
+      "country": "المملكة المتحدة",
+      "role": "AR",
+      "teamId": "archive:london royal ravens",
+      "team": "London Royal Ravens",
+      "teamBasis": "archive",
+      "teamDate": "2022-12-03",
+      "sources": [
+        "https://breakingpoint.gg/players/32/Zer0",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Zer0",
+        "https://breakingpoint.gg/match/5904"
+      ],
+      "verifiedAsOf": "2026-10-18",
+      "evidence": {
+        "bpPlayerId": 32,
+        "archiveRosterId": "bp-2023-17-9",
+        "archiveAliasHandles": [
+          "Zer0"
+        ]
+      }
+    }
+  ],
+  "teamMeaning": "Dated verified team per player: original snapshot records or latest appearance in our roster archive; never asserted to be the current or final career team."
+}

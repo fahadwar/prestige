@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "2017-champs",
+    "filename": "data-2017-08-13-champs.csv",
+    "event": "CWL Championship 2017",
+    "season": 2017,
+    "title": "IW",
+    "startDate": "2017-08-09",
+    "endDate": "2017-08-13",
+    "sha256": "db4a14580884f43ccf883214075ec32b5e376fd3b955ea75a15d63f57a091cfc"
+  },
+  {
+    "slug": "2018-dallas",
+    "filename": "data-2017-12-10-dallas.csv",
+    "event": "CWL Dallas 2017",
+    "season": 2018,
+    "title": "WWII",
+    "startDate": "2017-12-08",
+    "endDate": "2017-12-10",
+    "sha256": "786812003e9e3b150aebe445e993b729f4d0672459e686f80155f4f3e0690037"
+  },
+  {
+    "slug": "2018-neworleans",
+    "filename": "data-2018-01-14-neworleans.csv",
+    "event": "CWL New Orleans 2018",
+    "season": 2018,
+    "title": "WWII",
+    "startDate": "2018-01-12",
+    "endDate": "2018-01-14",
+    "sha256": "e608f4656fc207ca55f67be0b274890a01186f3a4255c2d34f15fcb60a86bfdb"
+  },
+  {
+    "slug": "2018-proleague1",
+    "filename": "data-2018-04-08-proleague1.csv",
+    "event": "CWL Pro League 2018 Stage 1",
+    "season": 2018,
+    "title": "WWII",
+    "startDate": "2018-01-23",
+    "endDate": "2018-04-08",
+    "sha256": "6e24895e2d436b1e81d9d8398d97f41b0d9ff914127ae0d0a7dfc852d33188e2"
+  },
+  {
+    "slug": "2018-atlanta",
+    "filename": "data-2018-03-11-atlanta.csv",
+    "event": "CWL Atlanta 2018",
+    "season": 2018,
+    "title": "WWII",
+    "startDate": "2018-03-09",
+    "endDate": "2018-03-11",
+    "sha256": "8d0252a3810207f579eb0798618ac1fd3bad6dc48be4b70ccb876148b78982b8"
+  },
+  {
+    "slug": "2018-birmingham",
+    "filename": "data-2018-04-01-birmingham.csv",
+    "event": "CWL Birmingham 2018",
+    "season": 2018,
+    "title": "WWII",
+    "startDate": "2018-03-30",
+    "endDate": "2018-04-01",
+    "sha256": "39e132e4acb93a1ddaef2f2a454b9388476e0f5f99e76c2207220472dad3ba69"
+  },
+  {
+    "slug": "2018-relegation",
+    "filename": "data-2018-04-19-relegation.csv",
+    "event": "CWL Pro League 2018 Relegation",
+    "season": 2018,
+    "title": "WWII",
+    "startDate": "2018-04-19",
+    "endDate": "2018-04-19",
+    "sha256": "c13b47102bdc9c49fa58644d5849a6eb9e1304fe9a51e0a2ebd4472ece64959b"
+  },
+  {
+    "slug": "2018-seattle",
+    "filename": "data-2018-04-22-seattle.csv",
+    "event": "CWL Seattle 2018",
+    "season": 2018,
+    "title": "WWII",
+    "startDate": "2018-04-20",
+    "endDate": "2018-04-22",
+    "sha256": "a509811efb252229d53640f9aac5b50eec92113aee718c1dd5c98f39ad9cb6c4"
+  },
+  {
+    "slug": "2018-anaheim",
+    "filename": "data-2018-06-17-anaheim.csv",
+    "event": "CWL Anaheim 2018",
+    "season": 2018,
+    "title": "WWII",
+    "startDate": "2018-06-15",
+    "endDate": "2018-06-17",
+    "sha256": "b79a0d48261e7920568f6e536be9fd78985a78def7e1e88c70ab857dbad3e2c8"
+  },
+  {
+    "slug": "2018-proleague2",
+    "filename": "data-2018-07-29-proleague2.csv",
+    "event": "CWL Pro League 2018 Stage 2",
+    "season": 2018,
+    "title": "WWII",
+    "startDate": "2018-05-15",
+    "endDate": "2018-07-29",
+    "sha256": "eb6fa6a961d7354e025ef67b65402c8f5a50df672d2d1f2215153468d2eba074"
+  },
+  {
+    "slug": "2018-champs",
+    "filename": "data-2018-08-19-champs.csv",
+    "event": "CWL Championship 2018",
+    "season": 2018,
+    "title": "WWII",
+    "startDate": "2018-08-15",
+    "endDate": "2018-08-19",
+    "sha256": "88ec432d8365224fdb7dfcec5e76042704559a104a90fe59dc16022843c38837"
+  },
+  {
+    "slug": "2019-proleague-qual",
+    "filename": "data-2019-01-20-proleague-qual.csv",
+    "event": "CWL Pro League 2019 Qualifier",
+    "season": 2019,
+    "title": "BO4",
+    "startDate": "2019-01-16",
+    "endDate": "2019-01-20",
+    "sha256": "929be0248ad11bec8f5a6dc53ef299f84c8e43206d3c86bf04c1a8be1e5e3f7c"
+  },
+  {
+    "slug": "2019-proleague",
+    "filename": "data-2019-07-05-proleague.csv",
+    "event": "CWL Pro League 2019",
+    "season": 2019,
+    "title": "BO4",
+    "startDate": "2019-02-04",
+    "endDate": "2019-07-05",
+    "sha256": "0b47d17e65f852c5deca23f577357c7efd727bf60890bb769ec48c67d56f6639"
+  },
+  {
+    "slug": "2019-fortworth",
+    "filename": "data-2019-03-17-fortworth.csv",
+    "event": "CWL Fort Worth 2019",
+    "season": 2019,
+    "title": "BO4",
+    "startDate": "2019-03-15",
+    "endDate": "2019-03-17",
+    "sha256": "cd875e0f1a4e39213bdca81a220b506a0143428aad132f09073741b7ccee6eb4"
+  },
+  {
+    "slug": "2019-london",
+    "filename": "data-2019-05-05-london.csv",
+    "event": "CWL London 2019",
+    "season": 2019,
+    "title": "BO4",
+    "startDate": "2019-05-03",
+    "endDate": "2019-05-05",
+    "sha256": "fb61206294bd36cbfdc7a6bed96ba7e1537a903ae6e6a580cb1d19baf124825a"
+  },
+  {
+    "slug": "2019-anaheim",
+    "filename": "data-2019-06-16-anaheim.csv",
+    "event": "CWL Anaheim 2019",
+    "season": 2019,
+    "title": "BO4",
+    "startDate": "2019-06-14",
+    "endDate": "2019-06-16",
+    "sha256": "a9dc31e6ae9d4659a306e653a9e465f4b9e1179e19cfeefa82b5e786094a2f36"
+  },
+  {
+    "slug": "2019-proleague-finals",
+    "filename": "data-2019-07-21-proleague-finals.csv",
+    "event": "CWL Pro League 2019 Finals",
+    "season": 2019,
+    "title": "BO4",
+    "startDate": "2019-07-19",
+    "endDate": "2019-07-21",
+    "sha256": "f14e1773e696cdb63b9e86e5183561a01cf71c631ec457e4bc5b9d0c769c884e"
+  },
+  {
+    "slug": "2019-champs",
+    "filename": "data-2019-08-18-champs.csv",
+    "event": "CWL Championship 2019",
+    "season": 2019,
+    "title": "BO4",
+    "startDate": "2019-08-14",
+    "endDate": "2019-08-18",
+    "sha256": "c05e22069cea237d4930f955b1172f6dad33f6826578803c72a97042f72cb13e"
+  }
+]

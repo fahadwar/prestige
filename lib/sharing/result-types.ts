@@ -1,0 +1,4 @@
+export type ShareGame='roster'|'guess-player'|'missing-player'|'connections'|'ranking'|'time-machine';
+export type GameSubmission={game?:ShareGame;id:string;guesses:string[]|number[]|string[][];hints?:number;surrender:boolean;mode:string;date:string};
+export type ResultCard={game:ShareGame;title:string;date:string;mode:string;won:boolean;score:number;maxScore:number;summary:string;subject?:string;players:{handle:string;tag:string;correct:boolean}[]};
+export function resultCaption(value:ResultCard){return `لعبت ${value.title} في برستيج!\n${value.mode==='daily'?'تحدي اليوم':'تدريب'} · ${value.won?'نجحت في التحدي':'انتهت الجولة'}\n${value.summary}\nنتيجتي: ${new Intl.NumberFormat('ar-SA',{useGrouping:false}).format(value.score)} من ${new Intl.NumberFormat('ar-SA',{useGrouping:false}).format(value.maxScore)}\nتقدر تتفوق علي؟`}

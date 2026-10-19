@@ -1,0 +1,1669 @@
+{
+  "checkedOn": "2026-10-18",
+  "players": [
+    {
+      "playerId": 1,
+      "handle": "Scump",
+      "bpBirthDate": "1995-06-30",
+      "wikiBirthDate": "1995-06-30",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2023-17-4",
+      "sources": [
+        "https://breakingpoint.gg/players/1/Scump",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Scump",
+        "https://breakingpoint.gg/match/5901"
+      ]
+    },
+    {
+      "playerId": 2,
+      "handle": "aBeZy",
+      "bpBirthDate": "1999-11-03",
+      "wikiBirthDate": "1999-11-03",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-110-2",
+      "sources": [
+        "https://breakingpoint.gg/players/2/aBeZy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/ABeZy",
+        "https://breakingpoint.gg/match/215022"
+      ]
+    },
+    {
+      "playerId": 3,
+      "handle": "Accuracy",
+      "bpBirthDate": "1996-08-02",
+      "wikiBirthDate": "1996-08-02",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-39-11",
+      "sources": [
+        "https://breakingpoint.gg/players/3/Accuracy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Accuracy",
+        "https://breakingpoint.gg/match/27197"
+      ]
+    },
+    {
+      "playerId": 4,
+      "handle": "Afro",
+      "bpBirthDate": "2001-07-19",
+      "wikiBirthDate": "2001-07-19",
+      "wikiCountry": "United Kingdom",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-63",
+      "sources": [
+        "https://breakingpoint.gg/players/4/Afro",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Afro",
+        "https://breakingpoint.gg/match/214799"
+      ]
+    },
+    {
+      "playerId": 5,
+      "handle": "Arcitys",
+      "bpBirthDate": "1998-07-09",
+      "wikiBirthDate": "1998-07-09",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-39-3",
+      "sources": [
+        "https://breakingpoint.gg/players/5/Arcitys",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Arcitys",
+        "https://breakingpoint.gg/match/27194"
+      ]
+    },
+    {
+      "playerId": 6,
+      "handle": "Bance",
+      "bpBirthDate": "1997-10-14",
+      "wikiBirthDate": "1997-10-14",
+      "wikiCountry": "United Kingdom",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2023-27-11",
+      "sources": [
+        "https://breakingpoint.gg/players/6/Bance",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Bance",
+        "https://breakingpoint.gg/match/20921"
+      ]
+    },
+    {
+      "playerId": 7,
+      "handle": "Cammy",
+      "bpBirthDate": "1999-10-10",
+      "wikiBirthDate": "1999-10-10",
+      "wikiCountry": "Scotland",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-6",
+      "sources": [
+        "https://breakingpoint.gg/players/7/Cammy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Cammy",
+        "https://breakingpoint.gg/match/214795"
+      ]
+    },
+    {
+      "playerId": 8,
+      "handle": "Cellium",
+      "bpBirthDate": "2000-12-24",
+      "wikiBirthDate": "2000-12-24",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-62",
+      "sources": [
+        "https://breakingpoint.gg/players/8/Cellium",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Cellium",
+        "https://breakingpoint.gg/match/215022"
+      ]
+    },
+    {
+      "playerId": 9,
+      "handle": "CleanX",
+      "bpBirthDate": "2000-08-11",
+      "wikiBirthDate": "2000-08-11",
+      "wikiCountry": "Denmark",
+      "role": "SMG",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-110-12",
+      "sources": [
+        "https://breakingpoint.gg/players/9/CleanX",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/CleanX",
+        "https://breakingpoint.gg/match/215021"
+      ]
+    },
+    {
+      "playerId": 10,
+      "handle": "Crimsix",
+      "bpBirthDate": "1993-05-29",
+      "wikiBirthDate": "1993-05-29",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2022-1-5",
+      "sources": [
+        "https://breakingpoint.gg/players/10/Crimsix",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Crimsix",
+        "https://breakingpoint.gg/match/23396"
+      ]
+    },
+    {
+      "playerId": 11,
+      "handle": "Dashy",
+      "bpBirthDate": "1999-04-19",
+      "wikiBirthDate": "1999-04-19",
+      "wikiCountry": "Canada",
+      "role": "AR",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-110-4",
+      "sources": [
+        "https://breakingpoint.gg/players/11/Dashy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Dashy",
+        "https://breakingpoint.gg/match/215020"
+      ]
+    },
+    {
+      "playerId": 12,
+      "handle": "Drazah",
+      "bpBirthDate": "2001-05-09",
+      "wikiBirthDate": "2001-05-09",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-1",
+      "sources": [
+        "https://breakingpoint.gg/players/12/Drazah",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Drazah",
+        "https://breakingpoint.gg/match/215023"
+      ]
+    },
+    {
+      "playerId": 13,
+      "handle": "Envoy",
+      "bpBirthDate": "2000-01-19",
+      "wikiBirthDate": "2000-01-19",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-11",
+      "sources": [
+        "https://breakingpoint.gg/players/13/Envoy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Envoy",
+        "https://breakingpoint.gg/match/215023"
+      ]
+    },
+    {
+      "playerId": 15,
+      "handle": "HyDra",
+      "bpBirthDate": "2002-02-11",
+      "wikiBirthDate": "2002-02-11",
+      "wikiCountry": "France",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-2",
+      "sources": [
+        "https://breakingpoint.gg/players/15/HyDra",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/HyDra",
+        "https://breakingpoint.gg/match/215022"
+      ]
+    },
+    {
+      "playerId": 16,
+      "handle": "iLLeY",
+      "bpBirthDate": "2001-10-20",
+      "wikiBirthDate": "2001-10-20",
+      "wikiCountry": "Canada",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-39-3",
+      "sources": [
+        "https://breakingpoint.gg/players/16/iLLeY",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/ILLeY",
+        "https://breakingpoint.gg/match/27194"
+      ]
+    },
+    {
+      "playerId": 17,
+      "handle": "Insight",
+      "bpBirthDate": "1999-10-31",
+      "wikiBirthDate": "1999-10-31",
+      "wikiCountry": "uk",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-12",
+      "sources": [
+        "https://breakingpoint.gg/players/17/Insight",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Insight",
+        "https://breakingpoint.gg/match/215021"
+      ]
+    },
+    {
+      "playerId": 18,
+      "handle": "Kenny",
+      "bpBirthDate": "1999-09-02",
+      "wikiBirthDate": "1999-09-02",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-2",
+      "sources": [
+        "https://breakingpoint.gg/players/18/Kenny",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Kenny",
+        "https://breakingpoint.gg/match/214796"
+      ]
+    },
+    {
+      "playerId": 19,
+      "handle": "KiSMET",
+      "bpBirthDate": "1999-11-11",
+      "wikiBirthDate": "1999-11-11",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-62",
+      "sources": [
+        "https://breakingpoint.gg/players/19/KiSMET",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/KiSMET",
+        "https://breakingpoint.gg/match/215022"
+      ]
+    },
+    {
+      "playerId": 20,
+      "handle": "Mack",
+      "bpBirthDate": "2001-11-21",
+      "wikiBirthDate": "2001-11-21",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-63",
+      "sources": [
+        "https://breakingpoint.gg/players/20/Mack",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Mack",
+        "https://breakingpoint.gg/match/214799"
+      ]
+    },
+    {
+      "playerId": 21,
+      "handle": "Methodz",
+      "bpBirthDate": "1997-08-15",
+      "wikiBirthDate": "1997-08-15",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2023-17-6",
+      "sources": [
+        "https://breakingpoint.gg/players/21/Methodz",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Methodz",
+        "https://breakingpoint.gg/match/5899"
+      ]
+    },
+    {
+      "playerId": 22,
+      "handle": "Nastie",
+      "bpBirthDate": "1999-07-03",
+      "wikiBirthDate": "1999-07-03",
+      "wikiCountry": "United Kingdom",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-11",
+      "sources": [
+        "https://breakingpoint.gg/players/22/Nastie",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Nastie",
+        "https://breakingpoint.gg/match/215023"
+      ]
+    },
+    {
+      "playerId": 23,
+      "handle": "Nero",
+      "bpBirthDate": "2002-05-30",
+      "wikiBirthDate": "2002-05-30",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-26",
+      "sources": [
+        "https://breakingpoint.gg/players/23/Nero",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Nero",
+        "https://breakingpoint.gg/match/214795"
+      ]
+    },
+    {
+      "playerId": 24,
+      "handle": "Octane",
+      "bpBirthDate": "1997-06-23",
+      "wikiBirthDate": "1997-06-23",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2023-27-2",
+      "sources": [
+        "https://breakingpoint.gg/players/24/Octane",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Octane",
+        "https://breakingpoint.gg/match/20924"
+      ]
+    },
+    {
+      "playerId": 25,
+      "handle": "PaulEhx",
+      "bpBirthDate": "2002-01-21",
+      "wikiBirthDate": "2002-01-21",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-54-11",
+      "sources": [
+        "https://breakingpoint.gg/players/25/PaulEhx",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/PaulEhx",
+        "https://breakingpoint.gg/match/93815"
+      ]
+    },
+    {
+      "playerId": 26,
+      "handle": "Pred",
+      "bpBirthDate": "2001-08-19",
+      "wikiBirthDate": "2001-08-19",
+      "wikiCountry": "Australia",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-62",
+      "sources": [
+        "https://breakingpoint.gg/players/26/Pred",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Pred",
+        "https://breakingpoint.gg/match/214794"
+      ]
+    },
+    {
+      "playerId": 27,
+      "handle": "Shotzzy",
+      "bpBirthDate": "2001-07-04",
+      "wikiBirthDate": "2001-07-04",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-110-4",
+      "sources": [
+        "https://breakingpoint.gg/players/27/Shotzzy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Shotzzy",
+        "https://breakingpoint.gg/match/215020"
+      ]
+    },
+    {
+      "playerId": 28,
+      "handle": "Sib",
+      "bpBirthDate": "2002-02-03",
+      "wikiBirthDate": "2002-02-03",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-743",
+      "sources": [
+        "https://breakingpoint.gg/players/28/Sib",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Sib",
+        "https://breakingpoint.gg/match/215021"
+      ]
+    },
+    {
+      "playerId": 29,
+      "handle": "Simp",
+      "bpBirthDate": "2001-02-06",
+      "wikiBirthDate": "2001-02-06",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-110-1",
+      "sources": [
+        "https://breakingpoint.gg/players/29/Simp",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Simp",
+        "https://breakingpoint.gg/match/215023"
+      ]
+    },
+    {
+      "playerId": 30,
+      "handle": "TJHaLy",
+      "bpBirthDate": "1999-07-19",
+      "wikiBirthDate": "1999-07-19",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-72-26",
+      "sources": [
+        "https://breakingpoint.gg/players/30/TJHaLy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/TJHaLy",
+        "https://breakingpoint.gg/match/185289"
+      ]
+    },
+    {
+      "playerId": 31,
+      "handle": "Vivid",
+      "bpBirthDate": "1999-12-24",
+      "wikiBirthDate": "1999-12-24",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-63",
+      "sources": [
+        "https://breakingpoint.gg/players/31/Vivid",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Vivid",
+        "https://breakingpoint.gg/match/214799"
+      ]
+    },
+    {
+      "playerId": 32,
+      "handle": "Zer0",
+      "bpBirthDate": "1997-08-02",
+      "wikiBirthDate": "1997-08-02",
+      "wikiCountry": "United Kingdom",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2023-17-9",
+      "sources": [
+        "https://breakingpoint.gg/players/32/Zer0",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Zer0",
+        "https://breakingpoint.gg/match/5904"
+      ]
+    },
+    {
+      "playerId": 34,
+      "handle": "Priestahh",
+      "bpBirthDate": "1998-06-27",
+      "wikiBirthDate": "1998-06-27",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-54-61",
+      "sources": [
+        "https://breakingpoint.gg/players/34/Priestahh",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Priestahh",
+        "https://breakingpoint.gg/match/93815"
+      ]
+    },
+    {
+      "playerId": 35,
+      "handle": "SlasheR",
+      "bpBirthDate": "1994-09-02",
+      "wikiBirthDate": "1994-09-02",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-26",
+      "sources": [
+        "https://breakingpoint.gg/players/35/SlasheR",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/SlasheR",
+        "https://breakingpoint.gg/match/214795"
+      ]
+    },
+    {
+      "playerId": 36,
+      "handle": "Capsidal",
+      "bpBirthDate": "2002-08-19",
+      "wikiBirthDate": "2002-08-19",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-39-6",
+      "sources": [
+        "https://breakingpoint.gg/players/36/Capsidal",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Capsidal",
+        "https://breakingpoint.gg/match/27193"
+      ]
+    },
+    {
+      "playerId": 37,
+      "handle": "Owakening",
+      "bpBirthDate": "2000-12-18",
+      "wikiBirthDate": "2000-12-18",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-72-6",
+      "sources": [
+        "https://breakingpoint.gg/players/37/Owakening",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Owakening",
+        "https://breakingpoint.gg/match/185286"
+      ]
+    },
+    {
+      "playerId": 38,
+      "handle": "Attach",
+      "bpBirthDate": "1997-01-04",
+      "wikiBirthDate": "1997-01-04",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-54-63",
+      "sources": [
+        "https://breakingpoint.gg/players/38/Attach",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Attach",
+        "https://breakingpoint.gg/match/93822"
+      ]
+    },
+    {
+      "playerId": 40,
+      "handle": "Ghosty",
+      "bpBirthDate": "2002-04-24",
+      "wikiBirthDate": "2002-04-24",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-743",
+      "sources": [
+        "https://breakingpoint.gg/players/40/Ghosty",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Ghosty",
+        "https://breakingpoint.gg/match/215021"
+      ]
+    },
+    {
+      "playerId": 41,
+      "handle": "Skyz",
+      "bpBirthDate": "1999-07-08",
+      "wikiBirthDate": "1999-07-08",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-11",
+      "sources": [
+        "https://breakingpoint.gg/players/41/Skyz",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Skyz",
+        "https://breakingpoint.gg/match/215023"
+      ]
+    },
+    {
+      "playerId": 42,
+      "handle": "Beans",
+      "bpBirthDate": "2000-05-16",
+      "wikiBirthDate": "2000-05-16",
+      "wikiCountry": "United Kingdom",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-63",
+      "sources": [
+        "https://breakingpoint.gg/players/42/Beans",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Beans",
+        "https://breakingpoint.gg/match/214799"
+      ]
+    },
+    {
+      "playerId": 43,
+      "handle": "Kremp",
+      "bpBirthDate": "2002-11-19",
+      "wikiBirthDate": "2002-11-19",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-110-11",
+      "sources": [
+        "https://breakingpoint.gg/players/43/Kremp",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Kremp",
+        "https://breakingpoint.gg/match/215023"
+      ]
+    },
+    {
+      "playerId": 44,
+      "handle": "Brack",
+      "bpBirthDate": "1999-05-26",
+      "wikiBirthDate": "1999-05-26",
+      "wikiCountry": "United States",
+      "role": "Flex",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2023-17-7",
+      "sources": [
+        "https://breakingpoint.gg/players/44/Brack",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Brack",
+        "https://breakingpoint.gg/match/5906"
+      ]
+    },
+    {
+      "playerId": 46,
+      "handle": "Vikul",
+      "bpBirthDate": "2003-04-04",
+      "wikiBirthDate": "2003-04-04",
+      "wikiCountry": "Spain",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-49-27",
+      "sources": [
+        "https://breakingpoint.gg/players/46/Vikul",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Vikul",
+        "https://breakingpoint.gg/match/91830"
+      ]
+    },
+    {
+      "playerId": 47,
+      "handle": "Clayster",
+      "bpBirthDate": "1992-05-07",
+      "wikiBirthDate": "1992-05-07",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-39-26",
+      "sources": [
+        "https://breakingpoint.gg/players/47/Clayster",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Clayster",
+        "https://breakingpoint.gg/match/27196"
+      ]
+    },
+    {
+      "playerId": 48,
+      "handle": "Standy",
+      "bpBirthDate": "2001-06-12",
+      "wikiBirthDate": "2001-06-12",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-39-8",
+      "sources": [
+        "https://breakingpoint.gg/players/48/Standy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Standy",
+        "https://breakingpoint.gg/match/27197"
+      ]
+    },
+    {
+      "playerId": 49,
+      "handle": "Temp",
+      "bpBirthDate": "1999-07-10",
+      "wikiBirthDate": "1999-07-10",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2023-17-8",
+      "sources": [
+        "https://breakingpoint.gg/players/49/Temp",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Temp",
+        "https://breakingpoint.gg/match/5900"
+      ]
+    },
+    {
+      "playerId": 50,
+      "handle": "Asim",
+      "bpBirthDate": "2000-02-10",
+      "wikiBirthDate": "2000-02-10",
+      "wikiCountry": "Canada",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2023-17-9",
+      "sources": [
+        "https://breakingpoint.gg/players/50/Asim",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Asim",
+        "https://breakingpoint.gg/match/5904"
+      ]
+    },
+    {
+      "playerId": 51,
+      "handle": "Skrapz",
+      "bpBirthDate": "1997-05-30",
+      "wikiBirthDate": "1997-05-30",
+      "wikiCountry": "United Kingdom",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-29-15",
+      "sources": [
+        "https://breakingpoint.gg/players/51/Skrapz",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Skrapz",
+        "https://breakingpoint.gg/match/22725"
+      ]
+    },
+    {
+      "playerId": 53,
+      "handle": "Assault",
+      "bpBirthDate": "1996-07-10",
+      "wikiBirthDate": "1996-07-10",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-39-10",
+      "sources": [
+        "https://breakingpoint.gg/players/53/Assault",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Assault",
+        "https://breakingpoint.gg/match/27198"
+      ]
+    },
+    {
+      "playerId": 54,
+      "handle": "Exceed",
+      "bpBirthDate": "2001-06-11",
+      "wikiBirthDate": "2001-06-11",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2020-91-11",
+      "sources": [
+        "https://breakingpoint.gg/players/54/Exceed",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Exceed",
+        "https://breakingpoint.gg/match/203480"
+      ]
+    },
+    {
+      "playerId": 55,
+      "handle": "JoeDeceives",
+      "bpBirthDate": "2004-09-23",
+      "wikiBirthDate": "2004-09-23",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-110-743",
+      "sources": [
+        "https://breakingpoint.gg/players/55/JoeDeceives",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/JoeDeceives",
+        "https://breakingpoint.gg/match/215021"
+      ]
+    },
+    {
+      "playerId": 56,
+      "handle": "Fame",
+      "bpBirthDate": "2000-05-30",
+      "wikiBirthDate": "2000-05-30",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-49-10",
+      "sources": [
+        "https://breakingpoint.gg/players/56/Fame",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Fame",
+        "https://breakingpoint.gg/match/91832"
+      ]
+    },
+    {
+      "playerId": 57,
+      "handle": "Hicksy",
+      "bpBirthDate": "1999-10-25",
+      "wikiBirthDate": "1999-10-25",
+      "wikiCountry": "United Kingdom",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-54-3",
+      "sources": [
+        "https://breakingpoint.gg/players/57/Hicksy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Hicksy",
+        "https://breakingpoint.gg/match/93821"
+      ]
+    },
+    {
+      "playerId": 58,
+      "handle": "Scrap",
+      "bpBirthDate": "2002-07-01",
+      "wikiBirthDate": "2002-07-01",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-2",
+      "sources": [
+        "https://breakingpoint.gg/players/58/Scrap",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Scrappy",
+        "https://breakingpoint.gg/match/215022"
+      ]
+    },
+    {
+      "playerId": 60,
+      "handle": "Alexx",
+      "bpBirthDate": "1999-05-06",
+      "wikiBirthDate": "1999-05-06",
+      "wikiCountry": "United Kingdom",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-29-9",
+      "sources": [
+        "https://breakingpoint.gg/players/60/Alexx",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Alexx",
+        "https://breakingpoint.gg/match/22209"
+      ]
+    },
+    {
+      "playerId": 61,
+      "handle": "Apathy",
+      "bpBirthDate": "1994-04-15",
+      "wikiBirthDate": "1994-04-15",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-29-10",
+      "sources": [
+        "https://breakingpoint.gg/players/61/Apathy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Apathy",
+        "https://breakingpoint.gg/match/22206"
+      ]
+    },
+    {
+      "playerId": 62,
+      "handle": "Aqua",
+      "bpBirthDate": "1996-09-12",
+      "wikiBirthDate": "1996-09-12",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-29-15",
+      "sources": [
+        "https://breakingpoint.gg/players/62/Aqua",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/AquA",
+        "https://breakingpoint.gg/match/22725"
+      ]
+    },
+    {
+      "playerId": 63,
+      "handle": "Chino",
+      "bpBirthDate": "1997-07-08",
+      "wikiBirthDate": "1997-07-08",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "cd218b652d01",
+      "sources": [
+        "https://breakingpoint.gg/players/63/Chino",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Cheen",
+        "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2019-08-18-champs.csv"
+      ]
+    },
+    {
+      "playerId": 65,
+      "handle": "Davpadie",
+      "bpBirthDate": "2000-08-31",
+      "wikiBirthDate": "2000-08-31",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2022-3-7",
+      "sources": [
+        "https://breakingpoint.gg/players/65/Davpadie",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Davpadie",
+        "https://breakingpoint.gg/match/23200"
+      ]
+    },
+    {
+      "playerId": 66,
+      "handle": "Decemate",
+      "bpBirthDate": "1997-11-24",
+      "wikiBirthDate": "1997-11-24",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2020-91-10",
+      "sources": [
+        "https://breakingpoint.gg/players/66/Decemate",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Decemate",
+        "https://breakingpoint.gg/match/203478"
+      ]
+    },
+    {
+      "playerId": 67,
+      "handle": "Diamondcon",
+      "bpBirthDate": "2000-04-16",
+      "wikiBirthDate": "2000-04-16",
+      "wikiCountry": "Canada",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-49-10",
+      "sources": [
+        "https://breakingpoint.gg/players/67/Diamondcon",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Diamondcon",
+        "https://breakingpoint.gg/match/91832"
+      ]
+    },
+    {
+      "playerId": 69,
+      "handle": "Fire",
+      "bpBirthDate": "2002-03-20",
+      "wikiBirthDate": "2002-03-20",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-29-15",
+      "sources": [
+        "https://breakingpoint.gg/players/69/Fire",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Fear",
+        "https://breakingpoint.gg/match/22725"
+      ]
+    },
+    {
+      "playerId": 70,
+      "handle": "FormaL",
+      "bpBirthDate": "1994-12-19",
+      "wikiBirthDate": "1994-12-19",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-38-17",
+      "sources": [
+        "https://breakingpoint.gg/players/70/FormaL",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/FormaL",
+        "https://breakingpoint.gg/match/22953"
+      ]
+    },
+    {
+      "playerId": 72,
+      "handle": "Gunless",
+      "bpBirthDate": "1997-11-24",
+      "wikiBirthDate": "1997-11-24",
+      "wikiCountry": "Canada",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2022-3-10",
+      "sources": [
+        "https://breakingpoint.gg/players/72/Gunless",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Gunless",
+        "https://breakingpoint.gg/match/23201"
+      ]
+    },
+    {
+      "playerId": 75,
+      "handle": "Havok",
+      "bpBirthDate": "1998-02-19",
+      "wikiBirthDate": "1998-02-19",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2023-17-7",
+      "sources": [
+        "https://breakingpoint.gg/players/75/Havok",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Havok",
+        "https://breakingpoint.gg/match/5906"
+      ]
+    },
+    {
+      "playerId": 77,
+      "handle": "John",
+      "bpBirthDate": "1996-03-28",
+      "wikiBirthDate": "1996-03-28",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-38-2",
+      "sources": [
+        "https://breakingpoint.gg/players/77/John",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/John",
+        "https://breakingpoint.gg/match/22329"
+      ]
+    },
+    {
+      "playerId": 79,
+      "handle": "Loony",
+      "bpBirthDate": "1993-05-31",
+      "wikiBirthDate": "1993-05-31",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-29-3",
+      "sources": [
+        "https://breakingpoint.gg/players/79/Loony",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Loony",
+        "https://breakingpoint.gg/match/22724"
+      ]
+    },
+    {
+      "playerId": 81,
+      "handle": "Neptune",
+      "bpBirthDate": "2002-04-09",
+      "wikiBirthDate": "2002-04-09",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-743",
+      "sources": [
+        "https://breakingpoint.gg/players/81/Neptune",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Neptune",
+        "https://breakingpoint.gg/match/214798"
+      ]
+    },
+    {
+      "playerId": 82,
+      "handle": "Parasite",
+      "bpBirthDate": "1994-07-21",
+      "wikiBirthDate": "1994-07-21",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-29-9",
+      "sources": [
+        "https://breakingpoint.gg/players/82/Parasite",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Parasite",
+        "https://breakingpoint.gg/match/22209"
+      ]
+    },
+    {
+      "playerId": 83,
+      "handle": "Prestinni",
+      "bpBirthDate": "1998-07-09",
+      "wikiBirthDate": "1998-07-09",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-29-3",
+      "sources": [
+        "https://breakingpoint.gg/players/83/Prestinni",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Prestinni",
+        "https://breakingpoint.gg/match/22724"
+      ]
+    },
+    {
+      "playerId": 84,
+      "handle": "Prolute",
+      "bpBirthDate": "2001-06-29",
+      "wikiBirthDate": "2001-06-29",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2023-17-8",
+      "sources": [
+        "https://breakingpoint.gg/players/84/Prolute",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Prolute",
+        "https://breakingpoint.gg/match/5900"
+      ]
+    },
+    {
+      "playerId": 86,
+      "handle": "Seany",
+      "bpBirthDate": "1998-11-04",
+      "wikiBirthDate": "1998-11-04",
+      "wikiCountry": "Scotland",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-29-9",
+      "sources": [
+        "https://breakingpoint.gg/players/86/Seany",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Seany",
+        "https://breakingpoint.gg/match/22209"
+      ]
+    },
+    {
+      "playerId": 88,
+      "handle": "Slacked",
+      "bpBirthDate": "1997-05-20",
+      "wikiBirthDate": "1997-05-20",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2021-29-7",
+      "sources": [
+        "https://breakingpoint.gg/players/88/Slacked",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Slacked",
+        "https://breakingpoint.gg/match/22207"
+      ]
+    },
+    {
+      "playerId": 89,
+      "handle": "Spart",
+      "bpBirthDate": "2001-05-24",
+      "wikiBirthDate": "2001-05-24",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2023-17-10",
+      "sources": [
+        "https://breakingpoint.gg/players/89/Spart",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Spart",
+        "https://breakingpoint.gg/match/5902"
+      ]
+    },
+    {
+      "playerId": 91,
+      "handle": "Zaptius",
+      "bpBirthDate": "1999-03-13",
+      "wikiBirthDate": "1999-03-13",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "eef8ad5fc04b",
+      "sources": [
+        "https://breakingpoint.gg/players/91/Zaptius",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Zaptius",
+        "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2019-08-18-champs.csv"
+      ]
+    },
+    {
+      "playerId": 92,
+      "handle": "Zed",
+      "bpBirthDate": "1997-09-13",
+      "wikiBirthDate": "1997-09-13",
+      "wikiCountry": "United Kingdom",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2020-91-15",
+      "sources": [
+        "https://breakingpoint.gg/players/92/Zed",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Zed",
+        "https://breakingpoint.gg/match/203477"
+      ]
+    },
+    {
+      "playerId": 93,
+      "handle": "Lucky",
+      "bpBirthDate": "1999-09-04",
+      "wikiBirthDate": "1999-09-04",
+      "wikiCountry": "Spain",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-54-27",
+      "sources": [
+        "https://breakingpoint.gg/players/93/Lucky",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Lucky",
+        "https://breakingpoint.gg/match/93819"
+      ]
+    },
+    {
+      "playerId": 94,
+      "handle": "MettalZ",
+      "bpBirthDate": "2000-09-19",
+      "wikiBirthDate": "2000-09-19",
+      "wikiCountry": "Spain",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-27",
+      "sources": [
+        "https://breakingpoint.gg/players/94/MettalZ",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/MettalZ",
+        "https://breakingpoint.gg/match/215020"
+      ]
+    },
+    {
+      "playerId": 95,
+      "handle": "JurNii",
+      "bpBirthDate": "2000-02-07",
+      "wikiBirthDate": "2000-02-07",
+      "wikiCountry": "Spain",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-39-27",
+      "sources": [
+        "https://breakingpoint.gg/players/95/JurNii",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/JurNii",
+        "https://breakingpoint.gg/match/27196"
+      ]
+    },
+    {
+      "playerId": 97,
+      "handle": "Abuzah",
+      "bpBirthDate": "2000-07-13",
+      "wikiBirthDate": "2000-07-13",
+      "wikiCountry": "Belgium",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-1",
+      "sources": [
+        "https://breakingpoint.gg/players/97/Abuzah",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Abuzah",
+        "https://breakingpoint.gg/match/215023"
+      ]
+    },
+    {
+      "playerId": 98,
+      "handle": "Purj",
+      "bpBirthDate": "2003-03-03",
+      "wikiBirthDate": "2003-03-03",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-6",
+      "sources": [
+        "https://breakingpoint.gg/players/98/Purj",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Purj",
+        "https://breakingpoint.gg/match/214795"
+      ]
+    },
+    {
+      "playerId": 99,
+      "handle": "Lynz",
+      "bpBirthDate": "2004-08-06",
+      "wikiBirthDate": "2004-08-06",
+      "wikiCountry": "France",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-54-61",
+      "sources": [
+        "https://breakingpoint.gg/players/99/Lynz",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Lynz",
+        "https://breakingpoint.gg/match/93815"
+      ]
+    },
+    {
+      "playerId": 101,
+      "handle": "Gwinn",
+      "bpBirthDate": "2002-05-02",
+      "wikiBirthDate": "2002-05-02",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-100-3",
+      "sources": [
+        "https://breakingpoint.gg/players/101/Gwinn",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Gwinn",
+        "https://breakingpoint.gg/match/214798"
+      ]
+    },
+    {
+      "playerId": 104,
+      "handle": "ReeaL",
+      "bpBirthDate": "2003-12-11",
+      "wikiBirthDate": "2003-12-11",
+      "wikiCountry": "Spain",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-27",
+      "sources": [
+        "https://breakingpoint.gg/players/104/ReeaL",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/ReeaL",
+        "https://breakingpoint.gg/match/215020"
+      ]
+    },
+    {
+      "playerId": 106,
+      "handle": "Snoopy",
+      "bpBirthDate": "2004-09-25",
+      "wikiBirthDate": "2004-09-25",
+      "wikiCountry": "Mexico",
+      "role": "SMG",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-100-6",
+      "sources": [
+        "https://breakingpoint.gg/players/106/Snoopy",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Snoopy",
+        "https://breakingpoint.gg/match/214795"
+      ]
+    },
+    {
+      "playerId": 107,
+      "handle": "Estreal",
+      "bpBirthDate": "2002-12-17",
+      "wikiBirthDate": "2002-12-17",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-743",
+      "sources": [
+        "https://breakingpoint.gg/players/107/Estreal",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Estreal",
+        "https://breakingpoint.gg/match/215021"
+      ]
+    },
+    {
+      "playerId": 110,
+      "handle": "Gio",
+      "bpBirthDate": "2003-09-02",
+      "wikiBirthDate": "2003-09-02",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-54-11",
+      "sources": [
+        "https://breakingpoint.gg/players/110/Gio",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Gio",
+        "https://breakingpoint.gg/match/93815"
+      ]
+    },
+    {
+      "playerId": 112,
+      "handle": "Flames",
+      "bpBirthDate": "2003-04-15",
+      "wikiBirthDate": "2003-04-15",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2024-49-10",
+      "sources": [
+        "https://breakingpoint.gg/players/112/Flames",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Flames",
+        "https://breakingpoint.gg/match/91832"
+      ]
+    },
+    {
+      "playerId": 113,
+      "handle": "Pentagrxm",
+      "bpBirthDate": "2000-03-08",
+      "wikiBirthDate": "2000-03-08",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "020e86518993",
+      "sources": [
+        "https://breakingpoint.gg/players/113/Pentagrxm",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Pentagrxm",
+        "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2019-08-18-champs.csv"
+      ]
+    },
+    {
+      "playerId": 114,
+      "handle": "04",
+      "bpBirthDate": "2004-08-02",
+      "wikiBirthDate": "2004-08-02",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-1",
+      "sources": [
+        "https://breakingpoint.gg/players/114/04",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/04",
+        "https://breakingpoint.gg/match/215023"
+      ]
+    },
+    {
+      "playerId": 134,
+      "handle": "RenKoR",
+      "bpBirthDate": "2002-07-29",
+      "wikiBirthDate": "2002-07-29",
+      "wikiCountry": "Spain",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-27",
+      "sources": [
+        "https://breakingpoint.gg/players/134/RenKoR",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/RenKoR",
+        "https://breakingpoint.gg/match/215020"
+      ]
+    },
+    {
+      "playerId": 135,
+      "handle": "SupeR",
+      "bpBirthDate": "2001-01-30",
+      "wikiBirthDate": "2001-01-30",
+      "wikiCountry": "Spain",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-27",
+      "sources": [
+        "https://breakingpoint.gg/players/135/SupeR",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/SupeR",
+        "https://breakingpoint.gg/match/215020"
+      ]
+    },
+    {
+      "playerId": 137,
+      "handle": "Khhx",
+      "bpBirthDate": "2001-04-20",
+      "wikiBirthDate": "2001-04-20",
+      "wikiCountry": "Saudi Arabia",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-54-62",
+      "sources": [
+        "https://breakingpoint.gg/players/137/Khhx",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Khhx",
+        "https://breakingpoint.gg/match/93817"
+      ]
+    },
+    {
+      "playerId": 138,
+      "handle": "Exnid",
+      "bpBirthDate": "2002-10-28",
+      "wikiBirthDate": "2002-10-28",
+      "wikiCountry": "Saudi Arabia",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-62",
+      "sources": [
+        "https://breakingpoint.gg/players/138/Exnid",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Exnid",
+        "https://breakingpoint.gg/match/215022"
+      ]
+    },
+    {
+      "playerId": 139,
+      "handle": "KingAbody",
+      "bpBirthDate": "2000-02-06",
+      "wikiBirthDate": "2000-02-06",
+      "wikiCountry": "Saudi Arabia",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-54-62",
+      "sources": [
+        "https://breakingpoint.gg/players/139/KingAbody",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/KingAbody",
+        "https://breakingpoint.gg/match/93817"
+      ]
+    },
+    {
+      "playerId": 140,
+      "handle": "Roxas",
+      "bpBirthDate": "1999-03-28",
+      "wikiBirthDate": "1999-03-28",
+      "wikiCountry": "Saudi Arabia",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-54-62",
+      "sources": [
+        "https://breakingpoint.gg/players/140/Roxas",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Roxas",
+        "https://breakingpoint.gg/match/93817"
+      ]
+    },
+    {
+      "playerId": 163,
+      "handle": "Lunarz",
+      "bpBirthDate": "2003-08-22",
+      "wikiBirthDate": "2003-08-22",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-3",
+      "sources": [
+        "https://breakingpoint.gg/players/163/Lunarz",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Lunarz",
+        "https://breakingpoint.gg/match/214798"
+      ]
+    },
+    {
+      "playerId": 164,
+      "handle": "Wrecks",
+      "bpBirthDate": "2000-03-12",
+      "wikiBirthDate": "2000-03-12",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2025-72-26",
+      "sources": [
+        "https://breakingpoint.gg/players/164/Wrecks",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Wrecks",
+        "https://breakingpoint.gg/match/185289"
+      ]
+    },
+    {
+      "playerId": 172,
+      "handle": "Mercules",
+      "bpBirthDate": "2003-07-14",
+      "wikiBirthDate": "2003-07-14",
+      "wikiCountry": "US",
+      "role": "AR",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-110-4",
+      "sources": [
+        "https://breakingpoint.gg/players/172/Mercules",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Mercules",
+        "https://breakingpoint.gg/match/215020"
+      ]
+    },
+    {
+      "playerId": 178,
+      "handle": "Abe",
+      "bpBirthDate": "2005-06-22",
+      "wikiBirthDate": "2005-06-22",
+      "wikiCountry": "United States",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-12",
+      "sources": [
+        "https://breakingpoint.gg/players/178/Abe",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Abe",
+        "https://breakingpoint.gg/match/215021"
+      ]
+    },
+    {
+      "playerId": 189,
+      "handle": "Mamba",
+      "bpBirthDate": "2002-03-13",
+      "wikiBirthDate": "2002-03-13",
+      "wikiCountry": "Mexico",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-11",
+      "sources": [
+        "https://breakingpoint.gg/players/189/Mamba",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Mamba",
+        "https://breakingpoint.gg/match/214799"
+      ]
+    },
+    {
+      "playerId": 192,
+      "handle": "Nium",
+      "bpBirthDate": "2002-07-23",
+      "wikiBirthDate": "2002-07-23",
+      "wikiCountry": "United States",
+      "role": "AR",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-110-2",
+      "sources": [
+        "https://breakingpoint.gg/players/192/Nium",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Nium",
+        "https://breakingpoint.gg/match/215022"
+      ]
+    },
+    {
+      "playerId": 231,
+      "handle": "Traixx",
+      "bpBirthDate": "2003-12-11",
+      "wikiBirthDate": "2003-12-11",
+      "wikiCountry": "Argentina",
+      "role": "SMG",
+      "teamBasis": "archive",
+      "archiveRosterId": "bp-2026-100-27",
+      "sources": [
+        "https://breakingpoint.gg/players/231/Traixx",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Traix",
+        "https://breakingpoint.gg/match/214797"
+      ]
+    },
+    {
+      "playerId": 235,
+      "handle": "Kips",
+      "bpBirthDate": "2006-02-17",
+      "wikiBirthDate": "2006-02-17",
+      "wikiCountry": "us",
+      "role": "AR",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-110-12",
+      "sources": [
+        "https://breakingpoint.gg/players/235/Kips",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Kips",
+        "https://breakingpoint.gg/match/215021"
+      ]
+    },
+    {
+      "playerId": 399,
+      "handle": "Alluka",
+      "bpBirthDate": "2007-06-27",
+      "wikiBirthDate": "2007-06-27",
+      "wikiCountry": "de",
+      "role": "SMG",
+      "teamBasis": "profile",
+      "archiveRosterId": "bp-2026-110-62",
+      "sources": [
+        "https://breakingpoint.gg/players/399/Alluka",
+        "https://breakingpoint.gg/stats/advanced?modes=1&timePeriod=2026",
+        "https://liquipedia.net/callofduty/Alluka",
+        "https://breakingpoint.gg/match/215022"
+      ]
+    }
+  ]
+}

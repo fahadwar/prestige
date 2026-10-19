@@ -1,0 +1,482 @@
+[
+  {
+    "id": "224ad8d8f960",
+    "team": "Brash",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Benji",
+      "Nevo",
+      "TDylan",
+      "dReal"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "2dcf78dcabca",
+    "team": "Complexity",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Blazt",
+      "Censor",
+      "Dashy",
+      "Ricky"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "c615d6f17228",
+    "team": "EZG",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Apox",
+      "Atura",
+      "Parzelion",
+      "RobbieB3319"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "5f7d7acdce6f",
+    "team": "Echo Fox",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Aqua",
+      "Faccento",
+      "Saints",
+      "Temp"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "1ddc1dcc7ccc",
+    "team": "Elevate",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "MajorManiak",
+      "Maux",
+      "Proto",
+      "SpaceLy"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "cf56a989890b",
+    "team": "Enigma6",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Abezy",
+      "Diabolic",
+      "General",
+      "Sender"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "b1e645a8c213",
+    "team": "Epsilon",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Dqvee",
+      "Hawqeh",
+      "Reedy",
+      "Vortex"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "6c5328a6f5b9",
+    "team": "Evil Geniuses",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Aches",
+      "Apathy",
+      "Assault",
+      "Silly"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "585e137471b6",
+    "team": "FaZe Clan",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Attach",
+      "Priestah",
+      "Replays",
+      "Zoomaa"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "e95d401536fe",
+    "team": "Ghost Gaming",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "GodRx",
+      "Lacefield",
+      "Pandur",
+      "Parasite"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "46e332055d4d",
+    "team": "Havok",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Beehzy",
+      "Fastballa",
+      "MRuiz",
+      "Remy"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "a2dfe79623a8",
+    "team": "Heretics",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "JurNii",
+      "Lucky",
+      "MethodZsick",
+      "Sukry"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "66f6f975db23",
+    "team": "Lethal Gaming",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Ramby",
+      "Super",
+      "Teddyrecks",
+      "Zaptius"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "88db2f076261",
+    "team": "Lightning Pandas",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Goonjar",
+      "Royalty",
+      "Theory",
+      "Xotic"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "04ed30fe4f09",
+    "team": "Luminosity",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Formal",
+      "JKap",
+      "John",
+      "Slacked"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "0a9da2ff953b",
+    "team": "Mentality",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Demise",
+      "GRVTY",
+      "Hate",
+      "Tisch"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "67edc560aa58",
+    "team": "Mindfreak",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Buzzo",
+      "Denz",
+      "Fighta",
+      "Shockz"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "33627200a9cc",
+    "team": "Morituri eSports",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Mayhem",
+      "Nova",
+      "Phantomz",
+      "Spoof"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "95335ed18943",
+    "team": "OpTic Gaming",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Crimsix",
+      "Methodz",
+      "Octane",
+      "Scump"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "c6c3047fe3c0",
+    "team": "Red Reserve",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Joee",
+      "Rated",
+      "Skrapz",
+      "Zer0"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "1db843afcb9d",
+    "team": "Rise Nation",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Gunless",
+      "Loony",
+      "Slasher",
+      "TJHaly"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "d0d4a4d767cd",
+    "team": "Splyce",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Bance",
+      "Joshh",
+      "Jurd",
+      "MadCat"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "c8322b083cb6",
+    "team": "Supremacy",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Atlas",
+      "Breszy",
+      "Eazy",
+      "Natshay"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "ab19975ef50a",
+    "team": "Tainted Minds",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Damage",
+      "Nimble",
+      "Swiftazor",
+      "Swifty"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "30d48296611d",
+    "team": "Team Envy",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Chino",
+      "Classic",
+      "Decemate",
+      "Huke"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "fbe8ab829550",
+    "team": "Team Kaliber",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Accuracy",
+      "Enable",
+      "Fero",
+      "Kenny"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "d7f3c6b45994",
+    "team": "Team Prismatic",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Malls",
+      "TonyJs",
+      "Wailers",
+      "Zayrox"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "8741f7495a5f",
+    "team": "Team Sween",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Moose",
+      "Peatie",
+      "QwiKeR",
+      "Weeman"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "1f631fade9e0",
+    "team": "Team Vitality",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Chain",
+      "Denza",
+      "Maple",
+      "Tommey"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "0606ddff290d",
+    "team": "Unilad",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Alex",
+      "Seany",
+      "Wuskin",
+      "Zed"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "45cc6c788d4b",
+    "team": "ZoneGG",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Bidz",
+      "Cammy",
+      "Defrag",
+      "Enduraaa"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "9e0308a30335",
+    "team": "eUnited",
+    "season": 2018,
+    "title": "WWII",
+    "event": "CWL Champs 2018",
+    "players": [
+      "Arcitys",
+      "Clayster",
+      "Felony",
+      "Prestinni"
+    ],
+    "source": "https://github.com/WillTufff/COD-DataAnalysis/blob/c9b6b4e46fc4c742ebc75c15af20a28dd3d98ccd/pipeline/snapshots/cwl-archive/data-2018-08-19-champs.csv",
+    "license": "BSD-3-Clause"
+  }
+]

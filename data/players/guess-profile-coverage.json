@@ -1,0 +1,1052 @@
+{
+  "checkedOn": "2026-10-18",
+  "candidates": 222,
+  "accepted": 104,
+  "excluded": [
+    {
+      "handle": "Gismo",
+      "playerId": 14,
+      "reasons": [
+        "birthdate_conflict"
+      ]
+    },
+    {
+      "handle": "MajorManiak",
+      "playerId": 33,
+      "reasons": [
+        "birthdate_conflict"
+      ]
+    },
+    {
+      "handle": "Huke",
+      "playerId": 39,
+      "reasons": [
+        "birthdate_conflict"
+      ]
+    },
+    {
+      "handle": "FeLo",
+      "playerId": 45,
+      "reasons": [
+        "birthdate_conflict"
+      ]
+    },
+    {
+      "handle": "Classic",
+      "playerId": 64,
+      "reasons": [
+        "birthdate_conflict"
+      ]
+    },
+    {
+      "handle": "DylanCOD",
+      "playerId": 68,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified"
+      ]
+    },
+    {
+      "handle": "GRVTY",
+      "playerId": 71,
+      "reasons": [
+        "birthdate_conflict"
+      ]
+    },
+    {
+      "handle": "Royalty",
+      "playerId": 85,
+      "reasons": [
+        "birthdate_not_cross_checked"
+      ]
+    },
+    {
+      "handle": "SiLLY",
+      "playerId": 87,
+      "reasons": [
+        "birthdate_conflict"
+      ]
+    },
+    {
+      "handle": "Breszy",
+      "playerId": 111,
+      "reasons": [
+        "birthdate_conflict"
+      ]
+    },
+    {
+      "handle": "YaKo",
+      "playerId": 136,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Detain",
+      "playerId": 142,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Keza",
+      "playerId": 143,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Niall",
+      "playerId": 144,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Vortex",
+      "playerId": 146,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Weeman",
+      "playerId": 147,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Denza",
+      "playerId": 149,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "GloFrosty",
+      "playerId": 165,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Craze",
+      "playerId": 167,
+      "reasons": [
+        "birthdate_not_cross_checked"
+      ]
+    },
+    {
+      "handle": "Mock",
+      "playerId": 168,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Hollow",
+      "playerId": 171,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Xotic",
+      "playerId": 177,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Lurqxx",
+      "playerId": 190,
+      "reasons": [
+        "birthdate_conflict"
+      ]
+    },
+    {
+      "handle": "Phantomz",
+      "playerId": 191,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "ACHES",
+      "playerId": 251,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Atura",
+      "playerId": 252,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Blazt",
+      "playerId": 253,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Censor",
+      "playerId": 254,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Denz",
+      "playerId": 255,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Enable",
+      "playerId": 256,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Fero",
+      "playerId": 257,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Frosty",
+      "playerId": 258,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "General",
+      "playerId": 259,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Goonjar",
+      "playerId": 260,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Happy",
+      "playerId": 261,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "JKap",
+      "playerId": 262,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Jurd",
+      "playerId": 264,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Karma",
+      "playerId": 265,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Lacefield",
+      "playerId": 266,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Louqa",
+      "playerId": 267,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "MadCat",
+      "playerId": 270,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Maux",
+      "playerId": 271,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Mayhem",
+      "playerId": 272,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Pandur",
+      "playerId": 274,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Proto",
+      "playerId": 275,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Rated",
+      "playerId": 276,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Saints",
+      "playerId": 277,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Sender",
+      "playerId": 279,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Shockz",
+      "playerId": 280,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Theory",
+      "playerId": 282,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Tisch",
+      "playerId": 283,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Tommey",
+      "playerId": 284,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "ZooMaa",
+      "playerId": 286,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "wuskin",
+      "playerId": 287,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Setzyy",
+      "playerId": 290,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Fighta",
+      "playerId": 291,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Apox",
+      "playerId": 309,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Beehzy",
+      "playerId": 310,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Believe",
+      "playerId": 311,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Bidz",
+      "playerId": 312,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Braaain",
+      "playerId": 313,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "BuZZO",
+      "playerId": 314,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Chain",
+      "playerId": 316,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Charullz",
+      "playerId": 317,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Cookie",
+      "playerId": 318,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Creza",
+      "playerId": 319,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Crowder",
+      "playerId": 320,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Damage",
+      "playerId": 321,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Deelo",
+      "playerId": 323,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Demise",
+      "playerId": 325,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Destiny",
+      "playerId": 326,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Diabolic",
+      "playerId": 327,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Dqvee",
+      "playerId": 328,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "DraMa",
+      "playerId": 329,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Excite",
+      "playerId": 331,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "FA5TBALLA",
+      "playerId": 332,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Faccento",
+      "playerId": 333,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Hawqeh",
+      "playerId": 336,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "JetLi",
+      "playerId": 338,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Jintroid",
+      "playerId": 339,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Joee",
+      "playerId": 340,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Joshh",
+      "playerId": 341,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Kade",
+      "playerId": 342,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Knight",
+      "playerId": 344,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Linney",
+      "playerId": 346,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "LlamaGod",
+      "playerId": 347,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "MethodZsick",
+      "playerId": 348,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Mosh",
+      "playerId": 349,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "MRuiz",
+      "playerId": 350,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Nagafen",
+      "playerId": 351,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Natshay",
+      "playerId": 352,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Newbz",
+      "playerId": 353,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Nimble",
+      "playerId": 354,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Nolson",
+      "playerId": 355,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Nova",
+      "playerId": 356,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Parzelion",
+      "playerId": 357,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Peatie",
+      "playerId": 359,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Piero",
+      "playerId": 362,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "ProFeeZy",
+      "playerId": 363,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "QwiKeR",
+      "playerId": 365,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Ramby",
+      "playerId": 366,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Ricky",
+      "playerId": 368,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Rizk",
+      "playerId": 369,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "RobbieB3319",
+      "playerId": 370,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "SpaceLy",
+      "playerId": 374,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Spoof",
+      "playerId": 375,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Stamino",
+      "playerId": 376,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Sukry",
+      "playerId": 377,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Swiftazor",
+      "playerId": 379,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Swifty",
+      "playerId": 380,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "TeddyRecks",
+      "playerId": 381,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Vicious",
+      "playerId": 383,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Wailers",
+      "playerId": 384,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Wartex",
+      "playerId": 385,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Zeeked",
+      "playerId": 387,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Lqgend",
+      "playerId": 393,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Benji",
+      "playerId": 431,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    },
+    {
+      "handle": "Bevils",
+      "playerId": 432,
+      "reasons": [
+        "birthdate_not_cross_checked",
+        "country_not_verified",
+        "role_not_verified"
+      ]
+    }
+  ],
+  "originalTargetsPreserved": 13,
+  "newTargets": 91,
+  "byTeamBasis": {
+    "profile": 13,
+    "archive": 91
+  }
+}

@@ -1,0 +1,21 @@
+import ts from 'typescript';import fs from 'node:fs';import Module from 'node:module';import assert from 'node:assert/strict';import path from 'node:path';
+const cache=new Map();function load(file){const filename=path.resolve(file);if(cache.has(filename))return cache.get(filename).exports;const m=new Module(filename);m.filename=filename;m.paths=Module._nodeModulePaths(path.dirname(filename));const original=m.require.bind(m);m.require=id=>id.startsWith('.')&&!id.endsWith('.json')?load(path.resolve(path.dirname(filename),id+'.ts')):original(id);cache.set(filename,m);m._compile(ts.transpileModule(fs.readFileSync(filename,'utf8'),{compilerOptions:{target:ts.ScriptTarget.ES2022,module:ts.ModuleKind.CommonJS,resolveJsonModule:true,esModuleInterop:true}}).outputText,filename);return m.exports;}
+const {puzzles,seasons,timePuzzle,timeQuestion,evaluateTime,dailyTime}=load('lib/game/time-machine.ts'),{normalize}=load('lib/game/identity.ts');
+const rosters=JSON.parse(fs.readFileSync('lib/game/rosters.json'));const sig=ps=>ps.map(normalize).sort().join('|');
+assert.equal(puzzles.length,284);assert.equal(new Set(puzzles.map(q=>q.id)).size,284);assert.equal(seasons.length,10);
+for(const q of puzzles){
+ assert.equal(q.players.length,q.rosterSize);assert.ok([4,5].includes(q.rosterSize));assert.equal(new Set(q.players.map(normalize)).size,q.rosterSize);
+ const matches=rosters.filter(r=>sig(r.players)===sig(q.players));assert.deepEqual([...new Set(matches.map(r=>r.season))],[q.season]);
+ for(const e of q.evidence){const r=rosters.find(r=>r.id===e.rosterId);assert.ok(r);assert.equal(r.team,q.team);assert.equal(r.source,e.source);assert.equal(r.event,e.event);assert.equal(r.startDate,e.startDate);assert.equal(r.endDate,e.endDate);assert.equal(sig(r.players),sig(q.players));}
+ assert.deepEqual(Object.keys(timeQuestion(q.id)).sort(),['id','players','rosterSize','team']);
+ const wrong=seasons.filter(y=>y!==q.season);for(const y of wrong){const r=evaluateTime(q.id,[y]);assert.equal(r.done,false);assert.equal(r.answer,undefined);assert.equal(r.rows[0].direction,q.season<y?'earlier':'later');}
+ for(let n=0;n<3;n++){const r=evaluateTime(q.id,[...wrong.slice(0,n),q.season]);assert.equal(r.won,true);assert.equal(r.score,300-n*100);assert.equal(r.answer.season,q.season);}
+ assert.equal(evaluateTime(q.id,wrong.slice(0,3)).done,true);assert.equal(evaluateTime(q.id,wrong.slice(0,3)).score,0);assert.equal(evaluateTime(q.id,[],true).answer.season,q.season);
+ assert.throws(()=>evaluateTime(q.id,[wrong[0],wrong[0]]));assert.throws(()=>evaluateTime(q.id,[q.season,wrong[0]]));assert.throws(()=>evaluateTime(q.id,[2001]));assert.throws(()=>evaluateTime(q.id,[2020.5]));
+}
+const start=new Date('2026-10-18T00:00:00Z');assert.equal(new Set(Array.from({length:284},(_,i)=>dailyTime(new Date(+start+i*86400000)))).size,284);assert.equal(dailyTime(start),dailyTime(new Date('2026-10-18T23:59:59Z')));assert.ok(timePuzzle(dailyTime(new Date(+start-86400000))));
+const api=load('app/api/time-machine/route.ts'),res=await api.GET(new Request('https://test/api/time-machine'));assert.equal(res.headers.get('Cache-Control'),'no-store');const data=await res.json(),q=timePuzzle(data.question.id);assert.equal(data.question.season,undefined);assert.equal(data.question.evidence,undefined);
+const send=body=>api.POST(new Request('https://test/api/time-machine',{method:'POST',body:JSON.stringify(body)}));const answer=await(await send({id:q.id,mode:'daily',guesses:[q.season]})).json();assert.equal(answer.won,true);assert.equal(answer.answer.season,q.season);
+assert.equal((await send({id:puzzles.find(p=>p.id!==q.id).id,mode:'daily',guesses:[]})).status,400);assert.equal((await send({id:q.id,mode:'practice',guesses:[2017,2017]})).status,400);assert.equal((await api.GET(new Request('https://test/api/time-machine?mode=invalid'))).status,400);assert.equal((await api.GET(new Request('https://test/api/time-machine?mode=practice&exclude='+q.id))).status,200);
+assert.equal((await api.POST(new Request('https://test/api/time-machine',{method:'POST',body:'!'}))).status,400);assert.equal((await api.POST(new Request('https://test/api/time-machine',{method:'POST',body:'x'.repeat(2049)}))).status,413);
+console.log('PASS: 284 complete unambiguous lineups, original source evidence, all season comparisons, scoring, privacy, UTC schedule and HTTP validation.');

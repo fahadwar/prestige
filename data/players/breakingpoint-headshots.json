@@ -1,0 +1,2332 @@
+{
+  "checkedOn": "2026-10-17",
+  "directorySource": "https://breakingpoint.gg/cdl/teams-and-players",
+  "candidates": [
+    {
+      "handle": "Abezy",
+      "tag": "aBeZy",
+      "id": 2,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Abezy.webp",
+      "firstName": "Tyler",
+      "lastName": "Pharris",
+      "profile": "https://breakingpoint.gg/players/2/aBeZy",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Accuracy",
+      "tag": "Accuracy",
+      "id": 3,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Accuracy.webp?t=2024-01-23T23%3A29%3A05.945Z",
+      "firstName": "Lamar",
+      "lastName": "Abedi",
+      "profile": "https://breakingpoint.gg/players/3/Accuracy",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Aches",
+      "tag": "ACHES",
+      "id": 251,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/ACHES_CDL_2020.webp",
+      "firstName": "Patrick",
+      "lastName": "Price",
+      "profile": "https://breakingpoint.gg/players/251/ACHES",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Alex",
+      "tag": "Alexx",
+      "id": 60,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Alexx_CDL_2021.webp?t=2024-01-05T20%3A30%3A01.632Z",
+      "firstName": "Alex",
+      "lastName": "Carpenter",
+      "profile": "https://breakingpoint.gg/players/60/Alexx",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Alexx",
+      "tag": "Alexx",
+      "id": 60,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Alexx_CDL_2021.webp?t=2024-01-05T20%3A30%3A01.632Z",
+      "firstName": "Alex",
+      "lastName": "Carpenter",
+      "profile": "https://breakingpoint.gg/players/60/Alexx",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Apathy",
+      "tag": "Apathy",
+      "id": 61,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Apathy_CDL_2021.webp?t=2024-01-05T20%3A32%3A38.900Z",
+      "firstName": "Bryan",
+      "lastName": "Zhelyazkov",
+      "profile": "https://breakingpoint.gg/players/61/Apathy",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Apox",
+      "tag": "Apox",
+      "id": 309,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Apox_PLQ_2019.webp",
+      "firstName": "Michael",
+      "lastName": "Williams",
+      "profile": "https://breakingpoint.gg/players/309/Apox",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Aqua",
+      "tag": "Aqua",
+      "id": 62,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/AquA_CDL_2021.webp?t=2024-01-05T20%3A30%3A18.141Z",
+      "firstName": "Ulysses",
+      "lastName": "Silva",
+      "profile": "https://breakingpoint.gg/players/62/Aqua",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Arcitys",
+      "tag": "Arcitys",
+      "id": 5,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%202-5/Arcitys_425.webp",
+      "firstName": "Alec",
+      "lastName": "Sanderson",
+      "profile": "https://breakingpoint.gg/players/5/Arcitys",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Asim",
+      "tag": "Asim",
+      "id": 50,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Asim12.png?t=2024-02-15T08%3A59%3A28.770Z",
+      "firstName": "Obaid",
+      "lastName": "Asim",
+      "profile": "https://breakingpoint.gg/players/50/Asim",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Assault",
+      "tag": "Assault",
+      "id": 53,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Assault%20(1).webp?t=2024-01-23T23%3A37%3A13.699Z",
+      "firstName": "Adam",
+      "lastName": "Garcia",
+      "profile": "https://breakingpoint.gg/players/53/Assault",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Atlas",
+      "tag": "ATLAS",
+      "id": 430,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2018/ATLAS.webp",
+      "firstName": null,
+      "lastName": null,
+      "profile": "https://breakingpoint.gg/players/430/ATLAS",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Attach",
+      "tag": "Attach",
+      "id": 38,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%201/C9NY/Attach_Cloud9NY_F_Broadcast.webp",
+      "firstName": "Dillon",
+      "lastName": "Price",
+      "profile": "https://breakingpoint.gg/players/38/Attach",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Atura",
+      "tag": "Atura",
+      "id": 252,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Atura.webp",
+      "firstName": "Ricky",
+      "lastName": "Lugo",
+      "profile": "https://breakingpoint.gg/players/252/Atura",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Bance",
+      "tag": "Bance",
+      "id": 6,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/Minnesota%20Rokkr/Bance/Bance_front.png",
+      "firstName": "Ben",
+      "lastName": "Bance",
+      "profile": "https://breakingpoint.gg/players/6/Bance",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Beehzy",
+      "tag": "Beehzy",
+      "id": 310,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Beehzy_Anaheim_2019.webp",
+      "firstName": "Michael",
+      "lastName": "Said",
+      "profile": "https://breakingpoint.gg/players/310/Beehzy",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Believe",
+      "tag": "Believe",
+      "id": 311,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Believe_PLEnd_2019.webp",
+      "firstName": "Austin",
+      "lastName": "Smith",
+      "profile": "https://breakingpoint.gg/players/311/Believe",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Benji",
+      "tag": "Benji",
+      "id": 431,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2018/Benji_Champs_2018.webp",
+      "firstName": "Koen",
+      "lastName": "Haakman",
+      "profile": "https://breakingpoint.gg/players/431/Benji",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Bevils",
+      "tag": "Bevils",
+      "id": 432,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Bevils_2019.webp",
+      "firstName": "Embry",
+      "lastName": "Bevil",
+      "profile": "https://breakingpoint.gg/players/432/Bevils",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Bidz",
+      "tag": "Bidz",
+      "id": 312,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Bidz_CDC_Finals_2020.webp",
+      "firstName": "Luke",
+      "lastName": "Biddle",
+      "profile": "https://breakingpoint.gg/players/312/Bidz",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Blazt",
+      "tag": "Blazt",
+      "id": 253,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Blazt_CDL_2021.webp",
+      "firstName": "Rasim",
+      "lastName": "Ogresevic",
+      "profile": "https://breakingpoint.gg/players/253/Blazt",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Braaain",
+      "tag": "Braaain",
+      "id": 313,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Braaain_PLQ_2019.webp",
+      "firstName": "Brian",
+      "lastName": "Fairlamb",
+      "profile": "https://breakingpoint.gg/players/313/Braaain",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Brack",
+      "tag": "Brack",
+      "id": 44,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/Florida%20Mutineers/Brack/Brack_front.png",
+      "firstName": "Carson",
+      "lastName": "Newberry",
+      "profile": "https://breakingpoint.gg/players/44/Brack",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Breszy",
+      "tag": "Breszy",
+      "id": 111,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Breszy%20(1).png?t=2024-02-15T08%3A34%3A05.608Z",
+      "firstName": "Paul",
+      "lastName": "Breszynski",
+      "profile": "https://breakingpoint.gg/players/111/Breszy",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Buzzo",
+      "tag": "BuZZO",
+      "id": 314,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2018/BuZZO_CODChamps_2018.webp",
+      "firstName": "Mitchell",
+      "lastName": "Mader",
+      "profile": "https://breakingpoint.gg/players/314/BuZZO",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Cammy",
+      "tag": "Cammy",
+      "id": 7,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Cammy.webp",
+      "firstName": "Cameron",
+      "lastName": "McKilligan",
+      "profile": "https://breakingpoint.gg/players/7/Cammy",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Cellium",
+      "tag": "Cellium",
+      "id": 8,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Cellium.webp",
+      "firstName": "McArthur",
+      "lastName": "Jovel",
+      "profile": "https://breakingpoint.gg/players/8/Cellium",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Cells",
+      "tag": "Mock",
+      "id": 168,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/Mock_2023.webp?t=2024-12-10T06%3A18%3A08.218Z",
+      "firstName": "Dylan",
+      "lastName": "Mock",
+      "profile": "https://breakingpoint.gg/players/168/Mock",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Censor",
+      "tag": "Censor",
+      "id": 254,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Censor_2023.webp",
+      "firstName": "Doug",
+      "lastName": "Martin",
+      "profile": "https://breakingpoint.gg/players/254/Censor",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Chain",
+      "tag": "Chain",
+      "id": 316,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Chain_Minnesota_2020.webp",
+      "firstName": "\nSam",
+      "lastName": "Dineley",
+      "profile": "https://breakingpoint.gg/players/316/Chain",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Charullz",
+      "tag": "Charullz",
+      "id": 317,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Charullz_2020.webp",
+      "firstName": "Chase",
+      "lastName": "Brown",
+      "profile": "https://breakingpoint.gg/players/317/Charullz",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Chino",
+      "tag": "Chino",
+      "id": 63,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Chino_CDL_2021.webp?t=2024-01-05T20%3A42%3A14.242Z",
+      "firstName": "Martin",
+      "lastName": "Chino",
+      "profile": "https://breakingpoint.gg/players/63/Chino",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Classic",
+      "tag": "Classic",
+      "id": 64,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/2023%20Photos/CLASSIC_2023.png",
+      "firstName": "Nicholas",
+      "lastName": "DiCostanzo",
+      "profile": "https://breakingpoint.gg/players/64/Classic",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Clayster",
+      "tag": "Clayster",
+      "id": 47,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Clayster.webp",
+      "firstName": "James",
+      "lastName": "Eubanks",
+      "profile": "https://breakingpoint.gg/players/47/Clayster",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "CleanX",
+      "tag": "CleanX",
+      "id": 9,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/CleanX.webp",
+      "firstName": "Tobias",
+      "lastName": "Juul J\u00f8nsson",
+      "profile": "https://breakingpoint.gg/players/9/CleanX",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Cookie",
+      "tag": "Cookie",
+      "id": 318,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Cookie_2019.webp",
+      "firstName": "Sebastian",
+      "lastName": "Schubert",
+      "profile": "https://breakingpoint.gg/players/318/Cookie",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Creza",
+      "tag": "Creza",
+      "id": 319,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Creza_PLQ_2019.webp",
+      "firstName": "Josh",
+      "lastName": "Burman",
+      "profile": "https://breakingpoint.gg/players/319/Creza",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Crimsix",
+      "tag": "Crimsix",
+      "id": 10,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/crimsix.webp?t=2024-01-05T20%3A26%3A23.764Z",
+      "firstName": "Ian",
+      "lastName": "Porter",
+      "profile": "https://breakingpoint.gg/players/10/Crimsix",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Crowder",
+      "tag": "Crowder",
+      "id": 320,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Crowder.webp",
+      "firstName": "James",
+      "lastName": "Crowder",
+      "profile": "https://breakingpoint.gg/players/320/Crowder",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Damage",
+      "tag": "Damage",
+      "id": 321,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Damage_PLQ_2019.webp",
+      "firstName": "Hayden",
+      "lastName": "Handakas",
+      "profile": "https://breakingpoint.gg/players/321/Damage",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Dashy",
+      "tag": "Dashy",
+      "id": 11,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Dashy.webp",
+      "firstName": "Brandon",
+      "lastName": "Otell",
+      "profile": "https://breakingpoint.gg/players/11/Dashy",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Decemate",
+      "tag": "Decemate",
+      "id": 66,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/dece.webp?t=2024-01-05T20%3A33%3A52.603Z",
+      "firstName": "Jacob",
+      "lastName": "Cato",
+      "profile": "https://breakingpoint.gg/players/66/Decemate",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Deelo",
+      "tag": "Deelo",
+      "id": 323,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Deelo_2020.webp",
+      "firstName": "Dylan",
+      "lastName": "Lowry",
+      "profile": "https://breakingpoint.gg/players/323/Deelo",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Defrag",
+      "tag": "Defrag",
+      "id": 324,
+      "headshot": "https://www.twitch.tv/Defragmen7",
+      "firstName": "Adam",
+      "lastName": "Mathews",
+      "profile": "https://breakingpoint.gg/players/324/Defrag",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Demise",
+      "tag": "Demise",
+      "id": 325,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2018/Demise_CODChamps_2018.webp",
+      "firstName": "Devin",
+      "lastName": "Faircloth",
+      "profile": "https://breakingpoint.gg/players/325/Demise",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Denz",
+      "tag": "Denz",
+      "id": 255,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Denz_CDL_2020.webp",
+      "firstName": "Denholm",
+      "lastName": "Taylor",
+      "profile": "https://breakingpoint.gg/players/255/Denz",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Denza",
+      "tag": "Denza",
+      "id": 149,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/2023%20Photos/Denza_2023.png",
+      "firstName": "Bjarne",
+      "lastName": "Sleebus",
+      "profile": "https://breakingpoint.gg/players/149/Denza",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Destiny",
+      "tag": "Destiny",
+      "id": 326,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Destiny_PLQ_2019.webp",
+      "firstName": "Joesph",
+      "lastName": "DeLillo",
+      "profile": "https://breakingpoint.gg/players/326/Destiny",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Diabolic",
+      "tag": "Diabolic",
+      "id": 327,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Diabolic_PL_2019.webp",
+      "firstName": "Steven",
+      "lastName": "Rivero",
+      "profile": "https://breakingpoint.gg/players/327/Diabolic",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Dqvee",
+      "tag": "Dqvee",
+      "id": 328,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/Dqvee_2023.webp",
+      "firstName": "David",
+      "lastName": "Davies",
+      "profile": "https://breakingpoint.gg/players/328/Dqvee",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "DraMa",
+      "tag": "DraMa",
+      "id": 329,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2018/DraMa_CODChamps_2018.webp",
+      "firstName": "Anthony",
+      "lastName": "Padilla",
+      "profile": "https://breakingpoint.gg/players/329/DraMa",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Dylan",
+      "tag": "DylanCOD",
+      "id": 68,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Dylan_CDL_2021.webp?t=2024-01-05T20%3A34%3A19.777Z",
+      "firstName": "Thomas",
+      "lastName": "Henderson",
+      "profile": "https://breakingpoint.gg/players/68/DylanCOD",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Enable",
+      "tag": "Enable",
+      "id": 256,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/100T_Enable_2021.webp",
+      "firstName": "Ian",
+      "lastName": "Wyatt",
+      "profile": "https://breakingpoint.gg/players/256/Enable",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Envoy",
+      "tag": "Envoy",
+      "id": 13,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Envoy.webp",
+      "firstName": "Dylan",
+      "lastName": "Hannon",
+      "profile": "https://breakingpoint.gg/players/13/Envoy",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Exceed",
+      "tag": "Exceed",
+      "id": 54,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Exceed.webp",
+      "firstName": "Kaden",
+      "lastName": "Stockdale",
+      "profile": "https://breakingpoint.gg/players/54/Exceed",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Excite",
+      "tag": "Excite",
+      "id": 331,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2018/Excite_CODChamps_2018.webp",
+      "firstName": "Cody",
+      "lastName": "Rugolo",
+      "profile": "https://breakingpoint.gg/players/331/Excite",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Faccento",
+      "tag": "Faccento",
+      "id": 333,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Faccento_PL_2019.webp",
+      "firstName": "Brice",
+      "lastName": "Faccento",
+      "profile": "https://breakingpoint.gg/players/333/Faccento",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Fastballa",
+      "tag": "FA5TBALLA",
+      "id": 332,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/FA5TBALLA_PLQ_2019.webp",
+      "firstName": "Ethan",
+      "lastName": "Wedgeworth",
+      "profile": "https://breakingpoint.gg/players/332/FA5TBALLA",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Felony",
+      "tag": "FeLo",
+      "id": 45,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%202-5/FeLo_425.webp",
+      "firstName": "Tyler",
+      "lastName": "Johnson",
+      "profile": "https://breakingpoint.gg/players/45/FeLo",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Fero",
+      "tag": "Fero",
+      "id": 257,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Fero_CDL_2020.webp",
+      "firstName": "Maurice",
+      "lastName": "Henriquez",
+      "profile": "https://breakingpoint.gg/players/257/Fero",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Fighta",
+      "tag": "Fighta",
+      "id": 291,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/Fighta_2020.webp",
+      "firstName": "Lincoln",
+      "lastName": "Ferguson",
+      "profile": "https://breakingpoint.gg/players/291/Fighta",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Formal",
+      "tag": "FormaL",
+      "id": 70,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/FormaL_CDL_2021.webp?t=2024-01-05T20%3A34%3A57.407Z",
+      "firstName": "Matthew",
+      "lastName": "Piper",
+      "profile": "https://breakingpoint.gg/players/70/FormaL",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Frosty",
+      "tag": "Frosty",
+      "id": 258,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Frosty_CDL_2020.webp",
+      "firstName": "Bradley",
+      "lastName": "Bergstrom",
+      "profile": "https://breakingpoint.gg/players/258/Frosty",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "GRVTY",
+      "tag": "GRVTY",
+      "id": 71,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/2023%20Photos/GRVTY_2023.png",
+      "firstName": "Thomas",
+      "lastName": "Malin",
+      "profile": "https://breakingpoint.gg/players/71/GRVTY",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "General",
+      "tag": "General",
+      "id": 259,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/General_CDL_2021.webp",
+      "firstName": "Jordon",
+      "lastName": "General",
+      "profile": "https://breakingpoint.gg/players/259/General",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "GloFrosty",
+      "tag": "GloFrosty",
+      "id": 165,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/2023%20Photos/GLOFROSTY_2023.png",
+      "firstName": "Hamza",
+      "lastName": "Shaikh",
+      "profile": "https://breakingpoint.gg/players/165/GloFrosty",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "GodRx",
+      "tag": "GodRx",
+      "id": 102,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/CODMuse/GODRX.png",
+      "firstName": "Adam",
+      "lastName": "Brown",
+      "profile": "https://breakingpoint.gg/players/102/GodRx",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Goonjar",
+      "tag": "Goonjar",
+      "id": 260,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Goonjar_2020.webp",
+      "firstName": "Jevon",
+      "lastName": "Gooljar-Lim",
+      "profile": "https://breakingpoint.gg/players/260/Goonjar",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Gunless",
+      "tag": "Gunless",
+      "id": 72,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Gunless_CDL_2021.webp?t=2024-01-05T20%3A35%3A25.932Z",
+      "firstName": "Peirce",
+      "lastName": "Hillman",
+      "profile": "https://breakingpoint.gg/players/72/Gunless",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Happy",
+      "tag": "Happy",
+      "id": 261,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Happy_CDL_2020.webp",
+      "firstName": "Nick",
+      "lastName": "Suda",
+      "profile": "https://breakingpoint.gg/players/261/Happy",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Havok",
+      "tag": "Havok",
+      "id": 75,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/fk%20swoot.webp",
+      "firstName": "Colt",
+      "lastName": "McLendon",
+      "profile": "https://breakingpoint.gg/players/75/Havok",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Hawqeh",
+      "tag": "Hawqeh",
+      "id": 336,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Hawqeh_CTP_2019.webp",
+      "firstName": "Billy",
+      "lastName": "Harris",
+      "profile": "https://breakingpoint.gg/players/336/Hawqeh",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Hollow",
+      "tag": "Hollow",
+      "id": 171,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/2023%20Photos/HOLLOW_2023.png",
+      "firstName": "Darien",
+      "lastName": "Chverchko",
+      "profile": "https://breakingpoint.gg/players/171/Hollow",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Huke",
+      "tag": "Huke",
+      "id": 39,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Huke.webp",
+      "firstName": "Cuyler",
+      "lastName": "Garland",
+      "profile": "https://breakingpoint.gg/players/39/Huke",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Insight",
+      "tag": "Insight",
+      "id": 17,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Insight.webp",
+      "firstName": "Jamie",
+      "lastName": "Craven",
+      "profile": "https://breakingpoint.gg/players/17/Insight",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "JKap",
+      "tag": "JKap",
+      "id": 262,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/JKap_Coach_2021.webp",
+      "firstName": "Jordan",
+      "lastName": "Kaplan",
+      "profile": "https://breakingpoint.gg/players/262/JKap",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Jetli",
+      "tag": "JetLi",
+      "id": 338,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/JetLi2_PL_2019.webp",
+      "firstName": "Eric",
+      "lastName": "Phan",
+      "profile": "https://breakingpoint.gg/players/338/JetLi",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Jintroid",
+      "tag": "Jintroid",
+      "id": 339,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/Jintroid_2023.webp",
+      "firstName": "Jaylen",
+      "lastName": "Maye",
+      "profile": "https://breakingpoint.gg/players/339/Jintroid",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Joee",
+      "tag": "Joee",
+      "id": 340,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/DEC/TOR/Joee_2025.webp",
+      "firstName": "Joseph",
+      "lastName": "Pinnington",
+      "profile": "https://breakingpoint.gg/players/340/Joee",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "John",
+      "tag": "John",
+      "id": 77,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/LAT_John.webp?t=2024-01-05T20%3A36%3A29.923Z",
+      "firstName": "Johnathan",
+      "lastName": "Perez",
+      "profile": "https://breakingpoint.gg/players/77/John",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Joshh",
+      "tag": "Joshh",
+      "id": 341,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/EWC/EWC_2025_Joshh.webp",
+      "firstName": "Joshua-Lee",
+      "lastName": "Sheppard",
+      "profile": "https://breakingpoint.gg/players/341/Joshh",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "JurNii",
+      "tag": "JurNii",
+      "id": 95,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/Jurnii.webp?t=2024-01-23T22%3A12%3A32.911Z",
+      "firstName": "Juan",
+      "lastName": "Gonz\u00e1lez",
+      "profile": "https://breakingpoint.gg/players/95/JurNii",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Jurd",
+      "tag": "Jurd",
+      "id": 264,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Jurd_CDL_2020.webp",
+      "firstName": "Jordan",
+      "lastName": "Crowley",
+      "profile": "https://breakingpoint.gg/players/264/Jurd",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Kade",
+      "tag": "Kade",
+      "id": 342,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Kade_PL_2019.webp",
+      "firstName": "Kade",
+      "lastName": "Jones",
+      "profile": "https://breakingpoint.gg/players/342/Kade",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Karma",
+      "tag": "Karma",
+      "id": 265,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Karma.webp",
+      "firstName": "Damon",
+      "lastName": "Barlow",
+      "profile": "https://breakingpoint.gg/players/265/Karma",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Kenny",
+      "tag": "Kenny",
+      "id": 18,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Kenny.webp",
+      "firstName": "Kenneth",
+      "lastName": "Williams",
+      "profile": "https://breakingpoint.gg/players/18/Kenny",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Keza",
+      "tag": "Keza",
+      "id": 143,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/Keza_Champs_19.webp?t=2024-12-10T20%3A13%3A34.885Z",
+      "firstName": "Kian",
+      "lastName": "Bonsor",
+      "profile": "https://breakingpoint.gg/players/143/Keza",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Kismet",
+      "tag": "KiSMET",
+      "id": 19,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/KiSMET.webp",
+      "firstName": "Matthew",
+      "lastName": "Tinsley",
+      "profile": "https://breakingpoint.gg/players/19/KiSMET",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Knight",
+      "tag": "Knight",
+      "id": 344,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Knight_PL_2019.webp",
+      "firstName": "Aidan",
+      "lastName": "Provenzano",
+      "profile": "https://breakingpoint.gg/players/344/Knight",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Lacefield",
+      "tag": "Lacefield",
+      "id": 266,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Lacefield_CDL_2020.webp",
+      "firstName": "Andres",
+      "lastName": "Lacefield",
+      "profile": "https://breakingpoint.gg/players/266/Lacefield",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Linney",
+      "tag": "Linney",
+      "id": 346,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Linney_Champs_19.webp",
+      "firstName": "Byron",
+      "lastName": "Linney",
+      "profile": "https://breakingpoint.gg/players/346/Linney",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "LlamaGod",
+      "tag": "LlamaGod",
+      "id": 347,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/LlamaGod_PL2_2019.webp",
+      "firstName": "Devin",
+      "lastName": "Tran",
+      "profile": "https://breakingpoint.gg/players/347/LlamaGod",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Loony",
+      "tag": "Loony",
+      "id": 79,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Loony_CDL_2021.webp?t=2024-01-05T20%3A37%3A06.073Z",
+      "firstName": "Daniel",
+      "lastName": "Loza",
+      "profile": "https://breakingpoint.gg/players/79/Loony",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Louqa",
+      "tag": "Louqa",
+      "id": 267,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Louqa_2020.webp",
+      "firstName": "Luke",
+      "lastName": "Rigas",
+      "profile": "https://breakingpoint.gg/players/267/Louqa",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Lucky",
+      "tag": "Lucky",
+      "id": 93,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%201/MIA/Lucky_MiamiHeretics_F_Broadcast.webp",
+      "firstName": "Alejandro\n",
+      "lastName": "L\u00f3pez",
+      "profile": "https://breakingpoint.gg/players/93/Lucky",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "MRuiz",
+      "tag": "MRuiz",
+      "id": 350,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/MRuiz2_PL_2019.webp",
+      "firstName": "Mike",
+      "lastName": "Ruiz",
+      "profile": "https://breakingpoint.gg/players/350/MRuiz",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "MadCat",
+      "tag": "MadCat",
+      "id": 270,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/MadCat_PLQ_2019.webp",
+      "firstName": "Dylan",
+      "lastName": "Daly",
+      "profile": "https://breakingpoint.gg/players/270/MadCat",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "MajorManiak",
+      "tag": "MajorManiak",
+      "id": 33,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/Florida%20Mutineers/MajorManiak/MajorManiak_front.png",
+      "firstName": "Michael",
+      "lastName": "Szymaniak",
+      "profile": "https://breakingpoint.gg/players/33/MajorManiak",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Maux",
+      "tag": "Maux",
+      "id": 271,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Maux_CDL_2020.webp",
+      "firstName": "Chance",
+      "lastName": "Moncivaez",
+      "profile": "https://breakingpoint.gg/players/271/Maux",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Mayhem",
+      "tag": "Mayhem",
+      "id": 272,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Mayhem.webp",
+      "firstName": "Mehran",
+      "lastName": "Anjomshoa",
+      "profile": "https://breakingpoint.gg/players/272/Mayhem",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "MethodZsick",
+      "tag": "MethodZsick",
+      "id": 348,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/MethodzSick.webp",
+      "firstName": "Jorge",
+      "lastName": "Bancells",
+      "profile": "https://breakingpoint.gg/players/348/MethodZsick",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Methodz",
+      "tag": "Methodz",
+      "id": 21,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Methodz_2023%20(1).webp?t=2024-01-05T20%3A48%3A44.323Z",
+      "firstName": "Anthony",
+      "lastName": "Zinni",
+      "profile": "https://breakingpoint.gg/players/21/Methodz",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Mettalz",
+      "tag": "MettalZ",
+      "id": 94,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/MettalZ.webp",
+      "firstName": "Adrian",
+      "lastName": "Serrano",
+      "profile": "https://breakingpoint.gg/players/94/MettalZ",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Nagafen",
+      "tag": "Nagafen",
+      "id": 351,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Nagafen_PL_2019.webp",
+      "firstName": "Jared",
+      "lastName": "Harrell",
+      "profile": "https://breakingpoint.gg/players/351/Nagafen",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Nastie",
+      "tag": "Nastie",
+      "id": 22,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Nastie.webp",
+      "firstName": "Byron",
+      "lastName": "Plumridge",
+      "profile": "https://breakingpoint.gg/players/22/Nastie",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Natshay",
+      "tag": "Natshay",
+      "id": 352,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Natshay_PL_2019.webp",
+      "firstName": "Nathan",
+      "lastName": "Dupuis",
+      "profile": "https://breakingpoint.gg/players/352/Natshay",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Naux",
+      "tag": "Hollow",
+      "id": 171,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/2023%20Photos/HOLLOW_2023.png",
+      "firstName": "Darien",
+      "lastName": "Chverchko",
+      "profile": "https://breakingpoint.gg/players/171/Hollow",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Newbz",
+      "tag": "Newbz",
+      "id": 353,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/EWC/EWC_2025_Newbz.webp",
+      "firstName": "Edy",
+      "lastName": "Juan",
+      "profile": "https://breakingpoint.gg/players/353/Newbz",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Niall",
+      "tag": "Niall",
+      "id": 144,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/Niall_2024.webp",
+      "firstName": "\tNiall",
+      "lastName": "Sunderland",
+      "profile": "https://breakingpoint.gg/players/144/Niall",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Nimble",
+      "tag": "Nimble",
+      "id": 354,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Nimble_PLQ_2019.webp",
+      "firstName": "Giancarlo",
+      "lastName": "Vagnini",
+      "profile": "https://breakingpoint.gg/players/354/Nimble",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Nolson",
+      "tag": "Nolson",
+      "id": 355,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Nolson_PLQ_2019.webp",
+      "firstName": "Nick",
+      "lastName": "Nolson",
+      "profile": "https://breakingpoint.gg/players/355/Nolson",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Nova",
+      "tag": "Nova",
+      "id": 356,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Nova_29_Anaheim_2019.webp",
+      "firstName": "Dakota ",
+      "lastName": "Williams Blatchford",
+      "profile": "https://breakingpoint.gg/players/356/Nova",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Octane",
+      "tag": "Octane",
+      "id": 24,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/LA%20Thieves/Octane/Octane_front.png",
+      "firstName": "Sam",
+      "lastName": "Larew",
+      "profile": "https://breakingpoint.gg/players/24/Octane",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Owakening",
+      "tag": "Owakening",
+      "id": 37,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Champs/BOS/Owakening_Champs.webp",
+      "firstName": "Joseph",
+      "lastName": "Conley",
+      "profile": "https://breakingpoint.gg/players/37/Owakening",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Pandur",
+      "tag": "Pandur",
+      "id": 274,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Pandur_PL_2019.webp",
+      "firstName": "Casey",
+      "lastName": "Romano",
+      "profile": "https://breakingpoint.gg/players/274/Pandur",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Parasite",
+      "tag": "Parasite",
+      "id": 82,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Parasite_CDL_2021.webp?t=2024-01-05T20%3A38%3A23.818Z",
+      "firstName": "Christopher",
+      "lastName": "Duarte",
+      "profile": "https://breakingpoint.gg/players/82/Parasite",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Parzelion",
+      "tag": "Parzelion",
+      "id": 357,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Parzelion_PL2_2019.webp",
+      "firstName": "Saul",
+      "lastName": "Masse-Siguenza",
+      "profile": "https://breakingpoint.gg/players/357/Parzelion",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Peatie",
+      "tag": "Peatie",
+      "id": 359,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Peatie_Minnesota_2020.webp",
+      "firstName": "Adam",
+      "lastName": "Peate",
+      "profile": "https://breakingpoint.gg/players/359/Peatie",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Pentagrxm",
+      "tag": "Pentagrxm",
+      "id": 113,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2024/Photos/BOS_Pentagrxm_2024.png?t=2024-05-21T22%3A13%3A30.343Z",
+      "firstName": "Nathaniel",
+      "lastName": "Thomas",
+      "profile": "https://breakingpoint.gg/players/113/Pentagrxm",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Phantomz",
+      "tag": "Phantomz",
+      "id": 191,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/2023%20Photos/PHANTOMZ_2023.png",
+      "firstName": "Timothy",
+      "lastName": "Landis",
+      "profile": "https://breakingpoint.gg/players/191/Phantomz",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Piero",
+      "tag": "Piero",
+      "id": 362,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Piero_2019.webp",
+      "firstName": "Piero",
+      "lastName": "Fazio",
+      "profile": "https://breakingpoint.gg/players/362/Piero",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Prestinni",
+      "tag": "Prestinni",
+      "id": 83,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Prestinni_2023.webp?t=2024-01-05T20%3A38%3A41.010Z",
+      "firstName": "Preston",
+      "lastName": "Sanderson",
+      "profile": "https://breakingpoint.gg/players/83/Prestinni",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Priestah",
+      "tag": "Priestahh",
+      "id": 34,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%202-5/Priestahh_425.webp",
+      "firstName": "Preston",
+      "lastName": "Greiner",
+      "profile": "https://breakingpoint.gg/players/34/Priestahh",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Priestahh",
+      "tag": "Priestahh",
+      "id": 34,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Major%202-5/Priestahh_425.webp",
+      "firstName": "Preston",
+      "lastName": "Greiner",
+      "profile": "https://breakingpoint.gg/players/34/Priestahh",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Profeezy",
+      "tag": "ProFeeZy",
+      "id": 363,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/ProFeeZy_PL_2019.webp",
+      "firstName": "Christopher",
+      "lastName": "Astudillo",
+      "profile": "https://breakingpoint.gg/players/363/ProFeeZy",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Proto",
+      "tag": "Proto",
+      "id": 275,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Proto_CDL_2020.webp",
+      "firstName": "Nicholas",
+      "lastName": "Maldonado",
+      "profile": "https://breakingpoint.gg/players/275/Proto",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "QwiKeR",
+      "tag": "QwiKeR",
+      "id": 365,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/QwiKeR_PLQ_2019.webp",
+      "firstName": "Shea",
+      "lastName": "Sweeney",
+      "profile": "https://breakingpoint.gg/players/365/QwiKeR",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Ramby",
+      "tag": "Ramby",
+      "id": 366,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Ramby_PLQ_2019.webp",
+      "firstName": "Vlad",
+      "lastName": "Sanchez",
+      "profile": "https://breakingpoint.gg/players/366/Ramby",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Rated",
+      "tag": "Rated",
+      "id": 276,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/100T_Rated.webp",
+      "firstName": "Rhys",
+      "lastName": "Price",
+      "profile": "https://breakingpoint.gg/players/276/Rated",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Replays",
+      "tag": "Crowder",
+      "id": 320,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Crowder.webp",
+      "firstName": "James",
+      "lastName": "Crowder",
+      "profile": "https://breakingpoint.gg/players/320/Crowder",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Ricky",
+      "tag": "Ricky",
+      "id": 368,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Ricky_CDL_2020.webp",
+      "firstName": "Richard",
+      "lastName": "Stacy",
+      "profile": "https://breakingpoint.gg/players/368/Ricky",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Rizk",
+      "tag": "Rizk",
+      "id": 369,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/RizK_PL_2019.webp",
+      "firstName": "Lucas",
+      "lastName": "Derambure",
+      "profile": "https://breakingpoint.gg/players/369/Rizk",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "RobbieB3319",
+      "tag": "RobbieB3319",
+      "id": 370,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/RobbieB3319_PL_2019.webp",
+      "firstName": "Robert",
+      "lastName": "Brugnoli",
+      "profile": "https://breakingpoint.gg/players/370/RobbieB3319",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Royalty",
+      "tag": "Royalty",
+      "id": 85,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Royalty_PLEnd_2019.webp?t=2024-01-05T20%3A38%3A57.191Z",
+      "firstName": "Matthew",
+      "lastName": "Faithfull",
+      "profile": "https://breakingpoint.gg/players/85/Royalty",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Saints",
+      "tag": "Saints",
+      "id": 277,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Saints_PLEnd_2019.webp",
+      "firstName": "Renato",
+      "lastName": "Forza",
+      "profile": "https://breakingpoint.gg/players/277/Saints",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Scump",
+      "tag": "Scump",
+      "id": 1,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/OpTic%20Texas/Scump/Scump_front.png",
+      "firstName": "Seth",
+      "lastName": "Abner",
+      "profile": "https://breakingpoint.gg/players/1/Scump",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Seany",
+      "tag": "Seany",
+      "id": 86,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Seany.webp",
+      "firstName": "Sean",
+      "lastName": "O'Connor",
+      "profile": "https://breakingpoint.gg/players/86/Seany",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Sender",
+      "tag": "Sender",
+      "id": 279,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/LAT_Sender_2025.webp",
+      "firstName": "Troy",
+      "lastName": "Michaels",
+      "profile": "https://breakingpoint.gg/players/279/Sender",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Setzy",
+      "tag": "Setzyy",
+      "id": 290,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/Setzy_2020.webp",
+      "firstName": "Jayden",
+      "lastName": "Hewitt",
+      "profile": "https://breakingpoint.gg/players/290/Setzyy",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Setzyy",
+      "tag": "Setzyy",
+      "id": 290,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/Setzy_2020.webp",
+      "firstName": "Jayden",
+      "lastName": "Hewitt",
+      "profile": "https://breakingpoint.gg/players/290/Setzyy",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Shockz",
+      "tag": "Shockz",
+      "id": 280,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Shockz_CDL_2020.webp",
+      "firstName": "Conrad",
+      "lastName": "Rymarek",
+      "profile": "https://breakingpoint.gg/players/280/Shockz",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Silly",
+      "tag": "SiLLY",
+      "id": 87,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/SiLLY_CDL_2021.webp?t=2024-01-05T20%3A39%3A39.348Z",
+      "firstName": "Justin",
+      "lastName": "Fargo-Palmer",
+      "profile": "https://breakingpoint.gg/players/87/SiLLY",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Simp",
+      "tag": "Simp",
+      "id": 29,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Simp.webp",
+      "firstName": "Chris",
+      "lastName": "Lehr",
+      "profile": "https://breakingpoint.gg/players/29/Simp",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Skrapz",
+      "tag": "Skrapz",
+      "id": 51,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Skrapz_CDL_2021.webp?t=2024-01-05T20%3A50%3A52.370Z",
+      "firstName": "Matthew",
+      "lastName": "Marshall",
+      "profile": "https://breakingpoint.gg/players/51/Skrapz",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Skyz",
+      "tag": "Skyz",
+      "id": 41,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Skyz.webp",
+      "firstName": "Cesar",
+      "lastName": "Bueno",
+      "profile": "https://breakingpoint.gg/players/41/Skyz",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Slacked",
+      "tag": "Slacked",
+      "id": 88,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Slacked_CDL_2020.webp?t=2024-01-05T20%3A39%3A59.568Z",
+      "firstName": "Josiah",
+      "lastName": "Berry",
+      "profile": "https://breakingpoint.gg/players/88/Slacked",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Slasher",
+      "tag": "SlasheR",
+      "id": 35,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1_quals/SlasheR.webp",
+      "firstName": "Austin",
+      "lastName": "Liddicoat",
+      "profile": "https://breakingpoint.gg/players/35/SlasheR",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "SpaceLy",
+      "tag": "SpaceLy",
+      "id": 374,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Spacely_PL_2019.webp",
+      "firstName": "Michael",
+      "lastName": "Schmale",
+      "profile": "https://breakingpoint.gg/players/374/SpaceLy",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Spoof",
+      "tag": "Spoof",
+      "id": 375,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/CDC_Launch_Spoof.webp",
+      "firstName": "Tristan",
+      "lastName": "Green",
+      "profile": "https://breakingpoint.gg/players/375/Spoof",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Stamino",
+      "tag": "Stamino",
+      "id": 376,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/CDC_Launch_Stamino.webp",
+      "firstName": "Steven",
+      "lastName": "Damiano",
+      "profile": "https://breakingpoint.gg/players/376/Stamino",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Sukry",
+      "tag": "Sukry",
+      "id": 377,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2021/Sukry_2021.webp",
+      "firstName": "Endika",
+      "lastName": "Andres",
+      "profile": "https://breakingpoint.gg/players/377/Sukry",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Super",
+      "tag": "SupeR",
+      "id": 135,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/SupeR.webp",
+      "firstName": "Diego",
+      "lastName": "Escudero",
+      "profile": "https://breakingpoint.gg/players/135/SupeR",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Swiftazor",
+      "tag": "Swiftazor",
+      "id": 379,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Swiftazor_PLQ_2019.webp",
+      "firstName": "Kainen",
+      "lastName": "Kini",
+      "profile": "https://breakingpoint.gg/players/379/Swiftazor",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Swifty",
+      "tag": "Swifty",
+      "id": 380,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Swifty_2020.webp",
+      "firstName": "Daniel",
+      "lastName": "Hickey",
+      "profile": "https://breakingpoint.gg/players/380/Swifty",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "TDylan",
+      "tag": "DylanCOD",
+      "id": 68,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Dylan_CDL_2021.webp?t=2024-01-05T20%3A34%3A19.777Z",
+      "firstName": "Thomas",
+      "lastName": "Henderson",
+      "profile": "https://breakingpoint.gg/players/68/DylanCOD",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "TISCH47",
+      "tag": "Tisch",
+      "id": 283,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Tisch_CDL_2020.webp",
+      "firstName": "Paul",
+      "lastName": "Tischler",
+      "profile": "https://breakingpoint.gg/players/283/Tisch",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "TJHaly",
+      "tag": "TJHaLy",
+      "id": 30,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/TJHaLy.webp",
+      "firstName": "Thomas",
+      "lastName": "Haly",
+      "profile": "https://breakingpoint.gg/players/30/TJHaLy",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Teddyrecks",
+      "tag": "TeddyRecks",
+      "id": 381,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Teddyrecks_2020.webp",
+      "firstName": "Ted",
+      "lastName": "Kim",
+      "profile": "https://breakingpoint.gg/players/381/TeddyRecks",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Temp",
+      "tag": "Temp",
+      "id": 49,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/Las%20Vegas%20Legion/Temp/Temp_front.png",
+      "firstName": "Donovan",
+      "lastName": "Laroda",
+      "profile": "https://breakingpoint.gg/players/49/Temp",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Theory",
+      "tag": "Theory",
+      "id": 282,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Theory_2022.webp",
+      "firstName": "Dylan",
+      "lastName": "McGee",
+      "profile": "https://breakingpoint.gg/players/282/Theory",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Tisch",
+      "tag": "Tisch",
+      "id": 283,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Tisch_CDL_2020.webp",
+      "firstName": "Paul",
+      "lastName": "Tischler",
+      "profile": "https://breakingpoint.gg/players/283/Tisch",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Tommey",
+      "tag": "Tommey",
+      "id": 284,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Tommey_CDL_2020.webp",
+      "firstName": "Thomas",
+      "lastName": "Trewren",
+      "profile": "https://breakingpoint.gg/players/284/Tommey",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Vicious",
+      "tag": "Vicious",
+      "id": 383,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Vicious_PLQ_2019.webp",
+      "firstName": "Michael",
+      "lastName": "Santos",
+      "profile": "https://breakingpoint.gg/players/383/Vicious",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Vivid",
+      "tag": "Vivid",
+      "id": 31,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2026/m1/Vivid.webp",
+      "firstName": "Reece",
+      "lastName": "Drost",
+      "profile": "https://breakingpoint.gg/players/31/Vivid",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Vortex",
+      "tag": "Vortex",
+      "id": 146,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/Vortex_2023.webp?t=2024-12-10T20%3A17%3A47.655Z",
+      "firstName": "Stephen",
+      "lastName": "Allan",
+      "profile": "https://breakingpoint.gg/players/146/Vortex",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Wailers",
+      "tag": "Wailers",
+      "id": 384,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Wailers_PL_2019.webp",
+      "firstName": "Wailers",
+      "lastName": "Locart",
+      "profile": "https://breakingpoint.gg/players/384/Wailers",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Wallers",
+      "tag": "Wailers",
+      "id": 384,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Wailers_PL_2019.webp",
+      "firstName": "Wailers",
+      "lastName": "Locart",
+      "profile": "https://breakingpoint.gg/players/384/Wailers",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Wartex",
+      "tag": "Wartex",
+      "id": 385,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/EWC/EWC_2025_Wartex.webp",
+      "firstName": "Ronaldo",
+      "lastName": "Lavado",
+      "profile": "https://breakingpoint.gg/players/385/Wartex",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Weeman",
+      "tag": "Weeman",
+      "id": 147,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/Weeman_2024.webp?t=2024-12-10T20%3A19%3A14.743Z",
+      "firstName": "\tConnor",
+      "lastName": "Chilton",
+      "profile": "https://breakingpoint.gg/players/147/Weeman",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Wrecks",
+      "tag": "Wrecks",
+      "id": 164,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2025/Champs/CAR/Wrecks_Champs.webp",
+      "firstName": "Dillon",
+      "lastName": "Slotter",
+      "profile": "https://breakingpoint.gg/players/164/Wrecks",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Wuskin",
+      "tag": "wuskin",
+      "id": 287,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/Wuskin_CDL_2020.webp",
+      "firstName": "Bradley",
+      "lastName": "Marshall",
+      "profile": "https://breakingpoint.gg/players/287/wuskin",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Xotic",
+      "tag": "Xotic",
+      "id": 177,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/2023%20Photos/XOTIC_2023.png",
+      "firstName": "\tJohn",
+      "lastName": "Bruno",
+      "profile": "https://breakingpoint.gg/players/177/Xotic",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Yako",
+      "tag": "YaKo",
+      "id": 136,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/2023%20Photos/YaKo_2023.png",
+      "firstName": "Iv\u00e1n",
+      "lastName": "Rodr\u00edguez",
+      "profile": "https://breakingpoint.gg/players/136/YaKo",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Zaptius",
+      "tag": "Zaptius",
+      "id": 91,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/Zaptius2_CDL_2021.webp?t=2024-01-05T20%3A40%3A47.160Z",
+      "firstName": "Alex",
+      "lastName": "Bonilla",
+      "profile": "https://breakingpoint.gg/players/91/Zaptius",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Zed",
+      "tag": "Zed",
+      "id": 92,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2022/BOS_2022_Zed%20(1).webp?t=2024-01-05T20%3A51%3A17.530Z",
+      "firstName": "Zach",
+      "lastName": "Denyer",
+      "profile": "https://breakingpoint.gg/players/92/Zed",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Zeeked",
+      "tag": "Zeeked",
+      "id": 387,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/ZeeK_PL_2019.webp",
+      "firstName": "Ryan",
+      "lastName": "Lapierre",
+      "profile": "https://breakingpoint.gg/players/387/Zeeked",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Zer0",
+      "tag": "Zer0",
+      "id": 32,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/London%20Royal%20Ravens/Zer0/Zer0_front.png",
+      "firstName": "Trei",
+      "lastName": "Morris",
+      "profile": "https://breakingpoint.gg/players/32/Zer0",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "Zero",
+      "tag": "Zer0",
+      "id": 32,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2023/London%20Royal%20Ravens/Zer0/Zer0_front.png",
+      "firstName": "Trei",
+      "lastName": "Morris",
+      "profile": "https://breakingpoint.gg/players/32/Zer0",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Zooma",
+      "tag": "ZooMaa",
+      "id": 286,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/ZooMaa_CDL_2020.webp",
+      "firstName": "Thomas",
+      "lastName": "Paparatto",
+      "profile": "https://breakingpoint.gg/players/286/ZooMaa",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "Zoomaa",
+      "tag": "ZooMaa",
+      "id": 286,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2020/ZooMaa_CDL_2020.webp",
+      "firstName": "Thomas",
+      "lastName": "Paparatto",
+      "profile": "https://breakingpoint.gg/players/286/ZooMaa",
+      "matching": "documented_handle_alias"
+    },
+    {
+      "handle": "detain",
+      "tag": "Detain",
+      "id": 142,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/CDC/2023%20Photos/DETAIN_2023.png",
+      "firstName": "Jed",
+      "lastName": "Mulcahy",
+      "profile": "https://breakingpoint.gg/players/142/Detain",
+      "matching": "same_gamertag"
+    },
+    {
+      "handle": "mosh",
+      "tag": "Mosh",
+      "id": 349,
+      "headshot": "https://dfpiiufxcciujugzjvgx.supabase.co/storage/v1/object/public/players/2019/Mosh_PLQ_2019.webp",
+      "firstName": "Tanner",
+      "lastName": "Clark",
+      "profile": "https://breakingpoint.gg/players/349/Mosh",
+      "matching": "same_gamertag"
+    }
+  ],
+  "unavailable": [
+    {
+      "handle": "Beastn",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Blfire",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Blfire",
+      "bpId": 433
+    },
+    {
+      "handle": "Carbines",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Colechan",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "DREEALL",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "DREAL",
+      "bpId": 435
+    },
+    {
+      "handle": "Deleo",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Desire",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Dimi",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Dimi",
+      "bpId": 434
+    },
+    {
+      "handle": "EFatal",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "EFatal",
+      "bpId": 330
+    },
+    {
+      "handle": "Eazy",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Eazy",
+      "bpId": 436
+    },
+    {
+      "handle": "Enduraaa",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Enduraaa",
+      "bpId": 437
+    },
+    {
+      "handle": "Envidian",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "envdiaN",
+      "bpId": 421
+    },
+    {
+      "handle": "Evas1on",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Foncho",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Foncho",
+      "bpId": 334
+    },
+    {
+      "handle": "Gabi",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Gabi",
+      "bpId": 439
+    },
+    {
+      "handle": "GefKid",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Glory",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Glory",
+      "bpId": 335
+    },
+    {
+      "handle": "Gunshy",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Gunshy",
+      "bpId": 440
+    },
+    {
+      "handle": "Hate",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Hate",
+      "bpId": 441
+    },
+    {
+      "handle": "Holler",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Holler",
+      "bpId": 442
+    },
+    {
+      "handle": "Hopey",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "HumanJesus",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "HumanJesus",
+      "bpId": 337
+    },
+    {
+      "handle": "Inven",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Jhaze",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Jhaze",
+      "bpId": 443
+    },
+    {
+      "handle": "Johnny",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Johnny",
+      "bpId": 444
+    },
+    {
+      "handle": "Juju",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "JuJu",
+      "bpId": 179
+    },
+    {
+      "handle": "Katru",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "KlinK",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "KlinK",
+      "bpId": 343
+    },
+    {
+      "handle": "Landxn",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Landxn",
+      "bpId": 345
+    },
+    {
+      "handle": "Legal",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Legal",
+      "bpId": 445
+    },
+    {
+      "handle": "Malls",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Malls",
+      "bpId": 446
+    },
+    {
+      "handle": "Maple",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Maple",
+      "bpId": 447
+    },
+    {
+      "handle": "MarkyB",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "MarkyB",
+      "bpId": 448
+    },
+    {
+      "handle": "Mizuno",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Mochila",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Mochila",
+      "bpId": 158
+    },
+    {
+      "handle": "Moose",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Moose",
+      "bpId": 449
+    },
+    {
+      "handle": "Nameless",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "NAMELESS",
+      "bpId": 450
+    },
+    {
+      "handle": "Nathan",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Nathan",
+      "bpId": 451
+    },
+    {
+      "handle": "Nels",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Nelson",
+      "bpId": 453
+    },
+    {
+      "handle": "Nelson",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Nelson",
+      "bpId": 453
+    },
+    {
+      "handle": "Nevo",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Nevo",
+      "bpId": 454
+    },
+    {
+      "handle": "Novo",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Nevo",
+      "bpId": 454
+    },
+    {
+      "handle": "Oney",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Pazy",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Pazy",
+      "bpId": 358
+    },
+    {
+      "handle": "Pemby",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Pemby",
+      "bpId": 455
+    },
+    {
+      "handle": "Pepo",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Phantom",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Phantom",
+      "bpId": 360
+    },
+    {
+      "handle": "Phenom",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Phenom",
+      "bpId": 361
+    },
+    {
+      "handle": "Prophet",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Puni",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Pure",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Pure",
+      "bpId": 364
+    },
+    {
+      "handle": "Reaper",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Reaper",
+      "bpId": 367
+    },
+    {
+      "handle": "Reedy",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Reedy",
+      "bpId": 423
+    },
+    {
+      "handle": "Reign",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Remy",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Remy",
+      "bpId": 457
+    },
+    {
+      "handle": "Riskin",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Ryza",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Ryza",
+      "bpId": 371
+    },
+    {
+      "handle": "Sammy",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Shane",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Sharko",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Sharko",
+      "bpId": 372
+    },
+    {
+      "handle": "Slater",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Slater",
+      "bpId": 691
+    },
+    {
+      "handle": "Study",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "StuDyy",
+      "bpId": 458
+    },
+    {
+      "handle": "Stump",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Stump",
+      "bpId": 459
+    },
+    {
+      "handle": "Subsist",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "SunnyB",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Supraaz",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "SupremeAgility",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "SupremeAgility",
+      "bpId": 460
+    },
+    {
+      "handle": "Swarley",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Swarley",
+      "bpId": 461
+    },
+    {
+      "handle": "SyVortex",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "TcM",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "TcM",
+      "bpId": 462
+    },
+    {
+      "handle": "Tojor",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "TojoR",
+      "bpId": 513
+    },
+    {
+      "handle": "TonyJs",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "TonyJs",
+      "bpId": 463
+    },
+    {
+      "handle": "Turnup2ez",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Turnup2ez",
+      "bpId": 382
+    },
+    {
+      "handle": "Twizz",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Twizz",
+      "bpId": 128
+    },
+    {
+      "handle": "Urban",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Urban",
+      "bpId": 465
+    },
+    {
+      "handle": "Verdict",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Watson",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Willett",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Willett",
+      "bpId": 386
+    },
+    {
+      "handle": "Yohanson",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Zayrox",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "Zayrox",
+      "bpId": 466
+    },
+    {
+      "handle": "Zepa",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Zerg",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "Zinx",
+      "reason": "no_matching_profile",
+      "bpTag": null,
+      "bpId": null
+    },
+    {
+      "handle": "dReal",
+      "reason": "placeholder_or_no_photo",
+      "bpTag": "DREAL",
+      "bpId": 435
+    }
+  ]
+}

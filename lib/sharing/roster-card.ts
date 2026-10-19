@@ -1,0 +1,18 @@
+import {getPortrait} from '../game/portraits';
+import {arabicNumber,playerWasFound,type RosterShare} from './roster-share';
+export function loadImage(src:string):Promise<HTMLImageElement|null>{return new Promise(resolve=>{const img=new Image();const timer=window.setTimeout(()=>resolve(null),8000);img.onload=()=>{clearTimeout(timer);resolve(img)};img.onerror=()=>{clearTimeout(timer);resolve(null)};img.src=src})}
+export function text(ctx:CanvasRenderingContext2D,value:string,x:number,y:number,size=28,color='#f3f1df',align:CanvasTextAlign='right',maxWidth=1050){ctx.save();ctx.direction=align==='right'?'rtl':'ltr';ctx.textAlign=align;ctx.font=`700 ${size}px Tahoma, Arial, sans-serif`;ctx.fillStyle=color;ctx.fillText(value,x,y,maxWidth);ctx.restore()}
+export async function renderRosterCard(value:RosterShare,showPlayers:boolean):Promise<Blob>{
+ await document.fonts.ready;
+ const images=await Promise.all([loadImage('/prestige-wordmark-concept.png'),...value.answers.map(p=>loadImage(showPlayers?(getPortrait(p)?.image||'/players/silhouette.svg'):'/players/silhouette.svg'))]);
+ const canvas=document.createElement('canvas');canvas.width=1200;canvas.height=840;const c=canvas.getContext('2d');if(!c)throw Error('تعذر إنشاء بطاقة النتيجة');
+ c.fillStyle='#10171b';c.fillRect(0,0,1200,840);c.strokeStyle='#26342c';c.lineWidth=1;for(let x=0;x<1200;x+=40){c.beginPath();c.moveTo(x,0);c.lineTo(x,840);c.stroke()}for(let y=0;y<840;y+=40){c.beginPath();c.moveTo(0,y);c.lineTo(1200,y);c.stroke()}c.fillStyle='#10171be8';c.fillRect(32,32,1136,776);c.fillStyle='#c1ff12';c.fillRect(54,45,100,5);
+ if(images[0]){const im=images[0],h=86;c.drawImage(im,1118-h*im.width/im.height,54,h*im.width/im.height,h)}else text(c,'برستيج',1118,110,42);
+ text(c,'تحدي التشكيلة',78,102,31,'#e7efd9','left');text(c,value.mode==='daily'?'تحدي اليوم':'تدريب',78,140,21,'#9aab94','left');
+ text(c,value.won?'اكتملت التشكيلة!':'انتهت الجولة',600,218,37,'#c1ff63','center');text(c,showPlayers?`${value.team} · ${arabicNumber(value.season)}`:'تقدر تعرف التشكيلة؟',600,262,25,'#dde6d7','center');
+ const count=value.answers.length,gap=14,w=Math.min(235,(1040-(count-1)*gap)/Math.max(count,1)),total=count*w+(count-1)*gap,left=(1200-total)/2;
+ for(let i=0;i<count;i++){const p=value.answers[i],found=playerWasFound(value,p),x=left+(count-1-i)*(w+gap),y=298,h=245; c.fillStyle=found?'#263b25':'#20282d';c.fillRect(x,y,w,h);c.strokeStyle=found?'#90b75a':'#47554e';c.strokeRect(x,y,w,h);const im=images[i+1];if(im){c.save();c.beginPath();c.rect(x+6,y+6,w-12,170);c.clip();const scale=Math.max((w-12)/im.width,170/im.height);c.drawImage(im,x+(w-im.width*scale)/2,y+6,im.width*scale,im.height*scale);c.restore()}text(c,showPlayers?p:'؟',x+w/2,y+205,showPlayers?24:38,'#f2efdf','center',w-16);text(c,found?'عرفته':showPlayers?'تم كشفه':'لم أعرفه',x+w/2,y+232,17,found?'#c1ff63':'#9caaa0','center',w-14);}
+ text(c,`${arabicNumber(value.score)} / ${arabicNumber(value.maxScore)}`,600,617,51,'#c1ff12','center');text(c,`عرفت ${arabicNumber(value.correct.length)} من ${arabicNumber(count)} لاعبين · الأخطاء: ${arabicNumber(value.wrong)}`,600,660,24,'#c5d0c0','center');
+ c.fillStyle='#354335';c.fillRect(78,705,1044,1);text(c,'مقدّم لكم من CDL Arabic',1118,754,20,'#b2c2a8');text(c,value.mode==='daily'?new Date(value.date+'T12:00:00Z').toLocaleDateString('ar-SA',{calendar:'gregory',year:'numeric',month:'long',day:'numeric'}):'تحدي أصدقائك',78,754,20,'#9ba993','left');text(c,'برستيج · اختبر ذاكرتك',600,795,19,'#829078','center');
+ return new Promise((resolve,reject)=>canvas.toBlob(blob=>blob?resolve(blob):reject(Error('تعذر حفظ الصورة')),'image/png'));
+}

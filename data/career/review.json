@@ -1,0 +1,3924 @@
+{
+  "checkedOn": "2026-10-18",
+  "scope": "Call of Duty team and role history only; excludes careers in other games",
+  "policy": "Only a complete reviewed career, including Challengers, academy, substitute, free-agent, retirement and post-playing roles where applicable, can become playable. Never publish a partial career.",
+  "candidates": [
+    {
+      "handle": "Scump",
+      "source": "https://breakingpoint.gg/players/1/Scump",
+      "playerId": 1,
+      "currentTeamId": 4,
+      "retired": true,
+      "currentRole": {
+        "id": "e54b8f8f-cb86-40f9-bc69-3bdf4ad0c970",
+        "role": "Streamer",
+        "short_name": ""
+      },
+      "history": [
+        {
+          "roster_change_id": 19914,
+          "team_id": 80,
+          "team_name": "Team Obey",
+          "start_date": "2011-01-01",
+          "end_date": "2011-02-14",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19915,
+          "team_id": 91,
+          "team_name": "LeveraGe",
+          "start_date": "2011-02-14",
+          "end_date": "2011-03-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19916,
+          "team_id": 90,
+          "team_name": "Quantic LeveraGe",
+          "start_date": "2011-03-01",
+          "end_date": "2011-11-20",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19917,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2011-11-20",
+          "end_date": "2011-12-01",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19918,
+          "team_id": 712,
+          "team_name": "OpTic Gaming",
+          "start_date": "2011-12-01",
+          "end_date": "2012-03-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19919,
+          "team_id": 95,
+          "team_name": "ApeX eSports NA",
+          "start_date": "2012-03-01",
+          "end_date": "2012-05-24",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19920,
+          "team_id": 712,
+          "team_name": "OpTic Gaming",
+          "start_date": "2012-05-24",
+          "end_date": "2019-10-12",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19921,
+          "team_id": 712,
+          "team_name": "OpTic Gaming",
+          "start_date": "2014-01-20",
+          "end_date": "2019-10-12",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19922,
+          "team_id": 226,
+          "team_name": "Chicago Huntsmen",
+          "start_date": "2019-10-24",
+          "end_date": "2020-11-11",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19923,
+          "team_id": 17,
+          "team_name": "OpTic Chicago",
+          "start_date": "2020-11-11",
+          "end_date": "2021-11-08",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19924,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2021-11-08",
+          "end_date": "2023-01-17",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19925,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2023-01-17",
+          "end_date": null,
+          "role_name": "Streamer",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Crimsix",
+      "source": "https://breakingpoint.gg/players/10/Crimsix",
+      "playerId": 10,
+      "currentTeamId": 4,
+      "retired": true,
+      "currentRole": {
+        "id": "06e28ab6-f88c-4a04-9cb1-e911308badb6",
+        "role": "Content Creator",
+        "short_name": "CC"
+      },
+      "history": [
+        {
+          "roster_change_id": 20274,
+          "team_id": 102,
+          "team_name": "Quantic Gaming",
+          "start_date": "2012-11-01",
+          "end_date": "2012-12-10",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20275,
+          "team_id": 105,
+          "team_name": "CompLexity Gaming",
+          "start_date": "2012-12-12",
+          "end_date": "2014-05-06",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20276,
+          "team_id": 204,
+          "team_name": "Evil Geniuses",
+          "start_date": "2014-05-06",
+          "end_date": "2014-11-14",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20277,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2014-11-14",
+          "end_date": "2023-02-07",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20278,
+          "team_id": 712,
+          "team_name": "OpTic Gaming",
+          "start_date": "2014-11-14",
+          "end_date": "2019-10-18",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20279,
+          "team_id": 14,
+          "team_name": "Dallas Empire",
+          "start_date": "2019-10-18",
+          "end_date": "2021-10-22",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24457,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2021-10-22",
+          "end_date": "2022-08-14",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20280,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2022-08-14",
+          "end_date": "2023-02-07",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20281,
+          "team_id": 99,
+          "team_name": "FaZe Esports",
+          "start_date": "2023-02-07",
+          "end_date": "2024-11-11",
+          "role_name": "Content Creator",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20282,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2024-11-11",
+          "end_date": "2024-12-04",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20283,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2024-12-04",
+          "end_date": null,
+          "role_name": "Content Creator",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Karma",
+      "source": "https://breakingpoint.gg/players/265/Karma",
+      "playerId": 265,
+      "currentTeamId": null,
+      "retired": true,
+      "currentRole": {
+        "id": "5445b297-182e-4ec6-8870-f387c5fbe3e2",
+        "role": "Head Coach",
+        "short_name": null
+      },
+      "history": [],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "no_team_history"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "FormaL",
+      "source": "https://breakingpoint.gg/players/70/FormaL",
+      "playerId": 70,
+      "currentTeamId": null,
+      "retired": true,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 22477,
+          "team_id": 240,
+          "team_name": "Primal",
+          "start_date": "2013-11-17",
+          "end_date": "2013-11-27",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22478,
+          "team_id": 89,
+          "team_name": "Team FeaR",
+          "start_date": "2013-11-29",
+          "end_date": "2014-01-07",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22479,
+          "team_id": 145,
+          "team_name": "Team Kaliber",
+          "start_date": "2014-01-09",
+          "end_date": "2014-03-31",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22480,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2014-03-31",
+          "end_date": "2014-04-05",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22481,
+          "team_id": 33,
+          "team_name": "FaZe Black",
+          "start_date": "2014-04-05",
+          "end_date": null,
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22482,
+          "team_id": 712,
+          "team_name": "OpTic Gaming",
+          "start_date": "2014-11-06",
+          "end_date": "2018-05-06",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22484,
+          "team_id": 178,
+          "team_name": "Luminosity Gaming",
+          "start_date": "2018-05-06",
+          "end_date": "2019-10-24",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22483,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2018-05-06",
+          "end_date": null,
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22485,
+          "team_id": 226,
+          "team_name": "Chicago Huntsmen",
+          "start_date": "2019-10-24",
+          "end_date": "2020-11-11",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22486,
+          "team_id": 17,
+          "team_name": "OpTic Chicago",
+          "start_date": "2020-11-11",
+          "end_date": "2021-08-28",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22487,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2021-08-28",
+          "end_date": null,
+          "role_name": "Retired",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals",
+        "history_and_profile_role_disagree"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Octane",
+      "source": "https://breakingpoint.gg/players/24/Octane",
+      "playerId": 24,
+      "currentTeamId": 2,
+      "retired": true,
+      "currentRole": {
+        "id": "35bb9305-0e02-462a-8fa2-ef174459ad79",
+        "role": "Retired",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 20920,
+          "team_id": 306,
+          "team_name": "ISolation eSports",
+          "start_date": "2014-11-09",
+          "end_date": "2014-12-05",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20921,
+          "team_id": 355,
+          "team_name": "Dream Team",
+          "start_date": "2014-12-06",
+          "end_date": "2015-03-23",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20922,
+          "team_id": 242,
+          "team_name": "Team JusTus",
+          "start_date": "2015-02-08",
+          "end_date": "2015-05-23",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20923,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2015-03-23",
+          "end_date": "2021-09-09",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20924,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2015-05-23",
+          "end_date": "2021-09-09",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20925,
+          "team_id": 354,
+          "team_name": "Prophecy",
+          "start_date": "2015-05-23",
+          "end_date": "2015-06-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20926,
+          "team_id": 96,
+          "team_name": "Envy",
+          "start_date": "2015-06-25",
+          "end_date": "2015-09-23",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20927,
+          "team_id": 21,
+          "team_name": "Elevate",
+          "start_date": "2015-09-23",
+          "end_date": "2015-10-25",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20928,
+          "team_id": 143,
+          "team_name": "Rise Nation",
+          "start_date": "2015-10-25",
+          "end_date": "2016-10-28",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20929,
+          "team_id": 178,
+          "team_name": "Luminosity Gaming",
+          "start_date": "2016-10-28",
+          "end_date": "2018-05-06",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20930,
+          "team_id": 712,
+          "team_name": "OpTic Gaming",
+          "start_date": "2018-05-06",
+          "end_date": "2018-08-31",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20931,
+          "team_id": 713,
+          "team_name": "100 Thieves",
+          "start_date": "2018-08-31",
+          "end_date": "2019-10-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20932,
+          "team_id": 3,
+          "team_name": "Vancouver Surge",
+          "start_date": "2019-10-21",
+          "end_date": "2021-08-20",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20933,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2021-08-20",
+          "end_date": "2021-09-09",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20934,
+          "team_id": 2,
+          "team_name": "Los Angeles Thieves",
+          "start_date": "2021-09-09",
+          "end_date": "2023-06-27",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20935,
+          "team_id": 2,
+          "team_name": "Los Angeles Thieves",
+          "start_date": "2023-06-27",
+          "end_date": null,
+          "role_name": "Content Creator",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals",
+        "historical_branding_needs_review"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "ZooMaa",
+      "source": "https://breakingpoint.gg/players/286/ZooMaa",
+      "playerId": 286,
+      "currentTeamId": null,
+      "retired": true,
+      "currentRole": {
+        "id": "35bb9305-0e02-462a-8fa2-ef174459ad79",
+        "role": "Retired",
+        "short_name": null
+      },
+      "history": [],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "no_team_history"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Apathy",
+      "source": "https://breakingpoint.gg/players/61/Apathy",
+      "playerId": 61,
+      "currentTeamId": 10,
+      "retired": true,
+      "currentRole": {
+        "id": "35bb9305-0e02-462a-8fa2-ef174459ad79",
+        "role": "Retired",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 20013,
+          "team_id": 84,
+          "team_name": "vVv Fly Society",
+          "start_date": "2011-05-20",
+          "end_date": "2011-06-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20014,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2011-06-15",
+          "end_date": "2011-08-07",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20015,
+          "team_id": 82,
+          "team_name": "ApeX.Collapse",
+          "start_date": "2011-08-07",
+          "end_date": "2011-09-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20016,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2011-09-01",
+          "end_date": "2011-10-17",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20017,
+          "team_id": 82,
+          "team_name": "ApeX.Collapse",
+          "start_date": "2011-10-17",
+          "end_date": "2012-04-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20018,
+          "team_id": 92,
+          "team_name": "Collapse",
+          "start_date": "2012-04-16",
+          "end_date": "2012-05-09",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20019,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2012-05-09",
+          "end_date": "2013-03-01",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20020,
+          "team_id": 108,
+          "team_name": "Dare Rising",
+          "start_date": "2013-03-01",
+          "end_date": "2013-03-13",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20021,
+          "team_id": 109,
+          "team_name": "Curse",
+          "start_date": "2013-03-13",
+          "end_date": "2013-04-08",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20022,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2013-04-08",
+          "end_date": "2013-10-27",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20023,
+          "team_id": 136,
+          "team_name": "Strictly Business Gaming",
+          "start_date": "2013-10-27",
+          "end_date": "2014-04-05",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20024,
+          "team_id": 145,
+          "team_name": "Team Kaliber",
+          "start_date": "2014-04-08",
+          "end_date": "2014-06-24",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20025,
+          "team_id": 99,
+          "team_name": "FaZe Esports",
+          "start_date": "2014-06-24",
+          "end_date": "2015-01-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20026,
+          "team_id": 242,
+          "team_name": "Team JusTus",
+          "start_date": "2015-01-21",
+          "end_date": "2015-02-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20027,
+          "team_id": 33,
+          "team_name": "FaZe Black",
+          "start_date": "2015-02-01",
+          "end_date": "2015-04-02",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20028,
+          "team_id": 354,
+          "team_name": "Prophecy",
+          "start_date": "2015-04-08",
+          "end_date": "2015-05-23",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20029,
+          "team_id": 354,
+          "team_name": "Prophecy",
+          "start_date": "2015-05-25",
+          "end_date": "2015-06-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20030,
+          "team_id": 21,
+          "team_name": "Elevate",
+          "start_date": "2015-06-25",
+          "end_date": "2015-07-14",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20031,
+          "team_id": 143,
+          "team_name": "Rise Nation",
+          "start_date": "2015-07-14",
+          "end_date": "2015-09-20",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20032,
+          "team_id": 145,
+          "team_name": "Team Kaliber",
+          "start_date": "2015-09-22",
+          "end_date": "2015-10-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20033,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2015-10-26",
+          "end_date": "2015-11-10",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20034,
+          "team_id": 314,
+          "team_name": "Enigma6 Gold",
+          "start_date": "2015-11-10",
+          "end_date": "2016-02-03",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20035,
+          "team_id": 21,
+          "team_name": "Elevate",
+          "start_date": "2015-12-30",
+          "end_date": "2016-03-24",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20036,
+          "team_id": 360,
+          "team_name": "Team Liquid",
+          "start_date": "2016-01-06",
+          "end_date": "2016-04-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20037,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2016-02-03",
+          "end_date": "2016-04-16",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20038,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2016-03-24",
+          "end_date": "2016-04-16",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20039,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2016-04-16",
+          "end_date": "2017-09-21",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20040,
+          "team_id": 96,
+          "team_name": "Envy",
+          "start_date": "2016-04-16",
+          "end_date": "2017-08-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20041,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2017-08-26",
+          "end_date": "2017-09-21",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20042,
+          "team_id": 204,
+          "team_name": "Evil Geniuses",
+          "start_date": "2017-09-21",
+          "end_date": "2018-09-22",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20043,
+          "team_id": 96,
+          "team_name": "Envy",
+          "start_date": "2018-09-22",
+          "end_date": "2019-04-18",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20044,
+          "team_id": 204,
+          "team_name": "Evil Geniuses",
+          "start_date": "2019-04-18",
+          "end_date": "2019-10-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20045,
+          "team_id": 3,
+          "team_name": "Vancouver Surge",
+          "start_date": "2019-10-21",
+          "end_date": "2020-09-04",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20046,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2020-09-04",
+          "end_date": "2020-10-12",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20047,
+          "team_id": 10,
+          "team_name": "Los Angeles Guerrillas",
+          "start_date": "2020-10-12",
+          "end_date": "2021-08-29",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20048,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2021-08-29",
+          "end_date": "2021-10-05",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20049,
+          "team_id": 10,
+          "team_name": "Los Angeles Guerrillas",
+          "start_date": "2021-10-05",
+          "end_date": null,
+          "role_name": "Content Creator",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals",
+        "historical_branding_needs_review"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "ACHES",
+      "source": "https://breakingpoint.gg/players/251/ACHES",
+      "playerId": 251,
+      "currentTeamId": null,
+      "retired": true,
+      "currentRole": {
+        "id": "35bb9305-0e02-462a-8fa2-ef174459ad79",
+        "role": "Retired",
+        "short_name": null
+      },
+      "history": [],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "no_team_history"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Enable",
+      "source": "https://breakingpoint.gg/players/256/Enable",
+      "playerId": 256,
+      "currentTeamId": null,
+      "retired": true,
+      "currentRole": {
+        "id": "35bb9305-0e02-462a-8fa2-ef174459ad79",
+        "role": "Retired",
+        "short_name": null
+      },
+      "history": [],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "no_team_history"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Attach",
+      "source": "https://breakingpoint.gg/players/38/Attach",
+      "playerId": 38,
+      "currentTeamId": null,
+      "retired": false,
+      "currentRole": {
+        "id": "35bb9305-0e02-462a-8fa2-ef174459ad79",
+        "role": "Retired",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 21058,
+          "team_id": 106,
+          "team_name": "Young Legacy",
+          "start_date": "2013-06-15",
+          "end_date": "2013-07-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21059,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2013-07-01",
+          "end_date": "2013-10-01",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21060,
+          "team_id": 139,
+          "team_name": "Termination",
+          "start_date": "2013-10-01",
+          "end_date": "2013-10-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21061,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2013-10-21",
+          "end_date": "2013-11-29",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21062,
+          "team_id": 21,
+          "team_name": "Elevate",
+          "start_date": "2013-11-29",
+          "end_date": "2014-01-12",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21063,
+          "team_id": 391,
+          "team_name": "Curse Youth",
+          "start_date": "2014-01-12",
+          "end_date": "2014-04-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21064,
+          "team_id": 169,
+          "team_name": "Curse Orange",
+          "start_date": "2014-04-15",
+          "end_date": "2014-06-25",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21065,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2014-06-25",
+          "end_date": "2014-07-12",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21066,
+          "team_id": 143,
+          "team_name": "Rise Nation",
+          "start_date": "2014-07-12",
+          "end_date": "2014-10-30",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21067,
+          "team_id": 148,
+          "team_name": "Denial Esports",
+          "start_date": "2014-10-31",
+          "end_date": "2015-06-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21068,
+          "team_id": 99,
+          "team_name": "FaZe Esports",
+          "start_date": "2015-06-16",
+          "end_date": "2019-03-08",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21069,
+          "team_id": 204,
+          "team_name": "Evil Geniuses",
+          "start_date": "2019-03-08",
+          "end_date": "2019-08-18",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21070,
+          "team_id": 99,
+          "team_name": "FaZe Esports",
+          "start_date": "2019-08-18",
+          "end_date": "2019-09-27",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21071,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2019-09-27",
+          "end_date": "2020-09-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21072,
+          "team_id": 11,
+          "team_name": "G2 Minnesota",
+          "start_date": "2020-09-15",
+          "end_date": "2022-08-23",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21073,
+          "team_id": 11,
+          "team_name": "G2 Minnesota",
+          "start_date": "2022-08-25",
+          "end_date": "2023-03-28",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21074,
+          "team_id": 11,
+          "team_name": "G2 Minnesota",
+          "start_date": "2023-03-28",
+          "end_date": "2023-05-16",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21075,
+          "team_id": 11,
+          "team_name": "G2 Minnesota",
+          "start_date": "2023-05-16",
+          "end_date": "2023-06-25",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21076,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2023-06-25",
+          "end_date": "2023-11-12",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21077,
+          "team_id": 8,
+          "team_name": "Las Vegas Legion",
+          "start_date": "2023-11-12",
+          "end_date": "2024-08-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21078,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2024-08-21",
+          "end_date": "2024-10-24",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21079,
+          "team_id": 63,
+          "team_name": "Cloud9 New York",
+          "start_date": "2024-10-24",
+          "end_date": "2025-05-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24163,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-05-01",
+          "end_date": "2025-05-26",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24295,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-05-26",
+          "end_date": null,
+          "role_name": "Retired",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "unexplained_intervals",
+        "historical_branding_needs_review"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Clayster",
+      "source": "https://breakingpoint.gg/players/47/Clayster",
+      "playerId": 47,
+      "currentTeamId": 62,
+      "retired": true,
+      "currentRole": {
+        "id": "b848f83f-e020-4f6a-9dea-1c926658d802",
+        "role": "Substitute",
+        "short_name": "Sub"
+      },
+      "history": [
+        {
+          "roster_change_id": 19880,
+          "team_id": 72,
+          "team_name": "Smkd",
+          "start_date": "2007-11-05",
+          "end_date": "2008-01-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19881,
+          "team_id": 73,
+          "team_name": "Crowned Victorious",
+          "start_date": "2008-01-01",
+          "end_date": "2008-06-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19882,
+          "team_id": 75,
+          "team_name": "Art of eXecution",
+          "start_date": "2008-06-15",
+          "end_date": "2010-11-08",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19883,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2010-11-08",
+          "end_date": "2011-01-01",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19884,
+          "team_id": 79,
+          "team_name": "Fly Society",
+          "start_date": "2011-01-01",
+          "end_date": "2011-05-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19885,
+          "team_id": 78,
+          "team_name": "Team Violent Apprehension",
+          "start_date": "2011-01-01",
+          "end_date": null,
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19886,
+          "team_id": 86,
+          "team_name": "vVv Gaming",
+          "start_date": "2011-05-01",
+          "end_date": "2011-08-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19887,
+          "team_id": 80,
+          "team_name": "Team Obey",
+          "start_date": "2011-08-01",
+          "end_date": "2011-09-04",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19888,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2011-09-04",
+          "end_date": "2012-10-26",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19889,
+          "team_id": 88,
+          "team_name": "OpTic Nation",
+          "start_date": "2012-10-26",
+          "end_date": "2012-11-20",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19890,
+          "team_id": 100,
+          "team_name": "Team TaKeOver",
+          "start_date": "2012-11-20",
+          "end_date": "2012-12-12",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19891,
+          "team_id": 104,
+          "team_name": "RoughNeX",
+          "start_date": "2012-12-12",
+          "end_date": "2013-01-18",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19892,
+          "team_id": 97,
+          "team_name": "Thrust Nation",
+          "start_date": "2013-01-22",
+          "end_date": "2013-02-06",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19893,
+          "team_id": 98,
+          "team_name": "UNiTE Gaming",
+          "start_date": "2013-02-06",
+          "end_date": "2013-04-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19894,
+          "team_id": 105,
+          "team_name": "CompLexity Gaming",
+          "start_date": "2013-04-15",
+          "end_date": "2013-12-10",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19895,
+          "team_id": 145,
+          "team_name": "Team Kaliber",
+          "start_date": "2013-12-11",
+          "end_date": "2014-01-07",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19896,
+          "team_id": 712,
+          "team_name": "OpTic Gaming",
+          "start_date": "2014-01-07",
+          "end_date": "2014-11-06",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19897,
+          "team_id": 96,
+          "team_name": "Envy",
+          "start_date": "2014-11-06",
+          "end_date": "2015-01-17",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19898,
+          "team_id": 148,
+          "team_name": "Denial Esports",
+          "start_date": "2015-01-17",
+          "end_date": "2015-06-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19899,
+          "team_id": 99,
+          "team_name": "FaZe Esports",
+          "start_date": "2015-06-16",
+          "end_date": "2017-06-23",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19900,
+          "team_id": 195,
+          "team_name": "eUnited",
+          "start_date": "2017-06-23",
+          "end_date": "2019-10-14",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19901,
+          "team_id": 14,
+          "team_name": "Dallas Empire",
+          "start_date": "2019-10-14",
+          "end_date": "2020-09-18",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19902,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2020-09-18",
+          "end_date": "2021-07-19",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19903,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2021-07-19",
+          "end_date": "2021-08-12",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19904,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2021-08-12",
+          "end_date": "2022-03-18",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19905,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2022-03-18",
+          "end_date": "2022-08-15",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19906,
+          "team_id": 350,
+          "team_name": "WhateverItTakes",
+          "start_date": "2022-06-13",
+          "end_date": "2022-07-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19907,
+          "team_id": 440,
+          "team_name": "Team Xposed",
+          "start_date": "2022-07-01",
+          "end_date": "2022-08-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19908,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2022-08-15",
+          "end_date": "2022-10-07",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19909,
+          "team_id": 8,
+          "team_name": "Las Vegas Legion",
+          "start_date": "2022-10-07",
+          "end_date": "2023-06-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19910,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2023-06-21",
+          "end_date": "2023-11-09",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19911,
+          "team_id": 26,
+          "team_name": "Carolina Royal Ravens",
+          "start_date": "2023-11-09",
+          "end_date": "2024-07-06",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 19912,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2024-07-06",
+          "end_date": "2024-11-14",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 25152,
+          "team_id": 62,
+          "team_name": "Riyadh Falcons",
+          "start_date": "2024-11-14",
+          "end_date": null,
+          "role_name": "Head Coach",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals",
+        "historical_branding_needs_review"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Dashy",
+      "source": "https://breakingpoint.gg/players/11/Dashy",
+      "playerId": 11,
+      "currentTeamId": 4,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 21828,
+          "team_id": 285,
+          "team_name": "FLARE eSports",
+          "start_date": "2017-05-31",
+          "end_date": "2017-06-12",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21829,
+          "team_id": 251,
+          "team_name": "Str8 Rippin",
+          "start_date": "2017-06-12",
+          "end_date": "2017-09-22",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21830,
+          "team_id": 159,
+          "team_name": "Enigma6 Group",
+          "start_date": "2017-09-22",
+          "end_date": "2018-01-19",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21831,
+          "team_id": 105,
+          "team_name": "CompLexity Gaming",
+          "start_date": "2018-01-20",
+          "end_date": "2018-09-27",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21832,
+          "team_id": 712,
+          "team_name": "OpTic Gaming",
+          "start_date": "2018-09-27",
+          "end_date": "2019-10-24",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21833,
+          "team_id": 16,
+          "team_name": "OpTic Gaming Los Angeles",
+          "start_date": "2019-10-24",
+          "end_date": "2020-07-10",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21834,
+          "team_id": 16,
+          "team_name": "OpTic Gaming Los Angeles",
+          "start_date": "2020-07-10",
+          "end_date": "2020-09-08",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21835,
+          "team_id": 226,
+          "team_name": "Chicago Huntsmen",
+          "start_date": "2020-09-14",
+          "end_date": "2020-11-11",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21836,
+          "team_id": 17,
+          "team_name": "OpTic Chicago",
+          "start_date": "2020-11-11",
+          "end_date": "2021-11-08",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21837,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2021-11-08",
+          "end_date": "2022-12-28",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21838,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2022-12-28",
+          "end_date": "2023-01-17",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21839,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2023-01-17",
+          "end_date": null,
+          "role_name": "Player",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "unexplained_intervals"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Shotzzy",
+      "source": "https://breakingpoint.gg/players/27/Shotzzy",
+      "playerId": 27,
+      "currentTeamId": 4,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 23113,
+          "team_id": 302,
+          "team_name": "Splyce Black",
+          "start_date": "2018-10-11",
+          "end_date": "2019-10-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23114,
+          "team_id": 14,
+          "team_name": "Dallas Empire",
+          "start_date": "2019-10-15",
+          "end_date": "2021-11-08",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23115,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2021-11-08",
+          "end_date": null,
+          "role_name": "Player",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Simp",
+      "source": "https://breakingpoint.gg/players/29/Simp",
+      "playerId": 29,
+      "currentTeamId": 1,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 23069,
+          "team_id": 472,
+          "team_name": "eUnited Cadets",
+          "start_date": "2017-11-30",
+          "end_date": "2019-03-08",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23070,
+          "team_id": 195,
+          "team_name": "eUnited",
+          "start_date": "2019-03-08",
+          "end_date": "2019-03-14",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23071,
+          "team_id": 234,
+          "team_name": "FC Black",
+          "start_date": "2019-03-14",
+          "end_date": "2019-03-19",
+          "role_name": "Player",
+          "notes": "On loan"
+        },
+        {
+          "roster_change_id": 23072,
+          "team_id": 195,
+          "team_name": "eUnited",
+          "start_date": "2019-03-19",
+          "end_date": "2019-10-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23073,
+          "team_id": 1,
+          "team_name": "FaZe Vegas",
+          "start_date": "2019-10-26",
+          "end_date": null,
+          "role_name": "Player",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "historical_branding_needs_review"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "aBeZy",
+      "source": "https://breakingpoint.gg/players/2/aBeZy",
+      "playerId": 2,
+      "currentTeamId": 2,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 23075,
+          "team_id": 651,
+          "team_name": "Wildcard Gaming",
+          "start_date": "2017-12-01",
+          "end_date": "2018-01-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23076,
+          "team_id": 159,
+          "team_name": "Enigma6 Group",
+          "start_date": "2018-01-22",
+          "end_date": "2018-10-11",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23077,
+          "team_id": 195,
+          "team_name": "eUnited",
+          "start_date": "2018-10-11",
+          "end_date": "2019-10-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23078,
+          "team_id": 1,
+          "team_name": "FaZe Vegas",
+          "start_date": "2019-10-26",
+          "end_date": "2025-07-31",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24430,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-07-31",
+          "end_date": "2025-09-25",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24452,
+          "team_id": 2,
+          "team_name": "Los Angeles Thieves",
+          "start_date": "2025-09-25",
+          "end_date": null,
+          "role_name": "Player",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "unexplained_intervals",
+        "historical_branding_needs_review"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Cellium",
+      "source": "https://breakingpoint.gg/players/8/Cellium",
+      "playerId": 8,
+      "currentTeamId": 51,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 23062,
+          "team_id": 472,
+          "team_name": "eUnited Cadets",
+          "start_date": "2017-11-30",
+          "end_date": "2018-12-22",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23063,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2018-12-22",
+          "end_date": "2023-06-30",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23064,
+          "team_id": 99,
+          "team_name": "FaZe Esports",
+          "start_date": "2018-12-22",
+          "end_date": "2019-03-14",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23065,
+          "team_id": 234,
+          "team_name": "FC Black",
+          "start_date": "2019-03-14",
+          "end_date": "2019-04-20",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23066,
+          "team_id": 99,
+          "team_name": "FaZe Esports",
+          "start_date": "2019-04-20",
+          "end_date": "2019-10-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23067,
+          "team_id": 1,
+          "team_name": "FaZe Vegas",
+          "start_date": "2019-10-26",
+          "end_date": "2019-10-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23068,
+          "team_id": 1,
+          "team_name": "FaZe Vegas",
+          "start_date": "2023-06-30",
+          "end_date": "2025-07-29",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24395,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-07-29",
+          "end_date": "2025-09-09",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24449,
+          "team_id": 62,
+          "team_name": "Riyadh Falcons",
+          "start_date": "2025-09-09",
+          "end_date": null,
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 25465,
+          "team_id": 51,
+          "team_name": "Team Falcons",
+          "start_date": "2025-11-30",
+          "end_date": null,
+          "role_name": "Player",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals",
+        "historical_branding_needs_review"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "HyDra",
+      "source": "https://breakingpoint.gg/players/15/HyDra",
+      "playerId": 15,
+      "currentTeamId": 2,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 22739,
+          "team_id": 167,
+          "team_name": "Team Overtime",
+          "start_date": "2016-12-02",
+          "end_date": "2017-01-29",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22740,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2017-01-29",
+          "end_date": "2017-03-12",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22741,
+          "team_id": 318,
+          "team_name": "Team Requiem",
+          "start_date": "2017-03-12",
+          "end_date": "2017-05-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22742,
+          "team_id": 445,
+          "team_name": "Supremacy Academy",
+          "start_date": "2017-05-27",
+          "end_date": "2017-10-28",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22743,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2017-10-28",
+          "end_date": "2017-11-09",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22744,
+          "team_id": 331,
+          "team_name": "RedWorld Hope",
+          "start_date": "2017-11-09",
+          "end_date": "2018-04-14",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22745,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2018-01-17",
+          "end_date": "2020-02-28",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22746,
+          "team_id": 287,
+          "team_name": "Monaco eSports Academy",
+          "start_date": "2018-04-14",
+          "end_date": "2018-10-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22747,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2018-10-01",
+          "end_date": "2020-02-28",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22748,
+          "team_id": 430,
+          "team_name": "TrainHard Esport",
+          "start_date": "2020-02-28",
+          "end_date": "2020-08-17",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22749,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2020-08-17",
+          "end_date": "2020-10-09",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22750,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2020-10-09",
+          "end_date": "2021-01-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22751,
+          "team_id": 508,
+          "team_name": "GANGSTERZ",
+          "start_date": "2021-01-16",
+          "end_date": "2021-02-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22752,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2021-01-22",
+          "end_date": "2021-02-16",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22754,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2021-02-16",
+          "end_date": "2021-03-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22753,
+          "team_id": 430,
+          "team_name": "TrainHard Esport",
+          "start_date": "2021-02-16",
+          "end_date": "2021-02-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22755,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2021-02-26",
+          "end_date": "2021-03-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22756,
+          "team_id": 274,
+          "team_name": "Subliners Academy",
+          "start_date": "2021-03-16",
+          "end_date": "2021-04-19",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22757,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2021-04-19",
+          "end_date": "2021-04-24",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22758,
+          "team_id": 5,
+          "team_name": "New York Subliners",
+          "start_date": "2021-04-24",
+          "end_date": "2024-08-10",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22759,
+          "team_id": 63,
+          "team_name": "Cloud9 New York",
+          "start_date": "2024-08-10",
+          "end_date": "2024-09-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22760,
+          "team_id": 2,
+          "team_name": "Los Angeles Thieves",
+          "start_date": "2024-09-26",
+          "end_date": "2026-10-13",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 25529,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2026-10-13",
+          "end_date": null,
+          "role_name": "Free Agent",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals",
+        "history_and_profile_team_disagree",
+        "history_and_profile_role_disagree"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Scrap",
+      "source": "https://breakingpoint.gg/players/58/Scrap",
+      "playerId": 58,
+      "currentTeamId": 2,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 25150,
+          "team_id": 198,
+          "team_name": "UYU",
+          "start_date": "2022-01-15",
+          "end_date": "2022-02-19",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 25149,
+          "team_id": 119,
+          "team_name": "Toronto Ultra Academy NA",
+          "start_date": "2022-02-25",
+          "end_date": "2022-09-09",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 25148,
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "start_date": "2022-04-10",
+          "end_date": "2024-09-25",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 25147,
+          "team_id": 2,
+          "team_name": "Los Angeles Thieves",
+          "start_date": "2024-09-26",
+          "end_date": "2026-10-13",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 25528,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2026-10-13",
+          "end_date": null,
+          "role_name": "Free Agent",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals",
+        "historical_branding_needs_review",
+        "history_and_profile_team_disagree",
+        "history_and_profile_role_disagree"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Insight",
+      "source": "https://breakingpoint.gg/players/17/Insight",
+      "playerId": 17,
+      "currentTeamId": 12,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 21323,
+          "team_id": 261,
+          "team_name": "Rift Gaming",
+          "start_date": "2015-02-03",
+          "end_date": "2015-04-03",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21324,
+          "team_id": 261,
+          "team_name": "Rift Gaming",
+          "start_date": "2015-04-16",
+          "end_date": "2015-05-17",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21325,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2015-05-17",
+          "end_date": "2015-06-09",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21326,
+          "team_id": 261,
+          "team_name": "Rift Gaming",
+          "start_date": "2015-06-09",
+          "end_date": "2015-09-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21327,
+          "team_id": 264,
+          "team_name": "Excel Esports",
+          "start_date": "2015-09-12",
+          "end_date": "2015-10-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21328,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2015-09-21",
+          "end_date": "2015-11-06",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21329,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2015-10-26",
+          "end_date": "2015-11-06",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21330,
+          "team_id": 244,
+          "team_name": "Riot Gaming",
+          "start_date": "2015-11-06",
+          "end_date": "2015-12-31",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21331,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2015-12-31",
+          "end_date": "2016-01-18",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21332,
+          "team_id": 176,
+          "team_name": "Millenium",
+          "start_date": "2016-01-18",
+          "end_date": "2016-10-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21333,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2016-10-26",
+          "end_date": "2017-12-17",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21334,
+          "team_id": 160,
+          "team_name": "BC Brotherhood",
+          "start_date": "2017-12-17",
+          "end_date": "2018-02-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21335,
+          "team_id": 395,
+          "team_name": "Against All authority",
+          "start_date": "2018-02-16",
+          "end_date": "2018-04-23",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21336,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2018-04-23",
+          "end_date": "2018-11-21",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21337,
+          "team_id": 292,
+          "team_name": "Movistar Riders",
+          "start_date": "2018-04-23",
+          "end_date": "2018-09-19",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21338,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2018-09-19",
+          "end_date": "2018-11-21",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21339,
+          "team_id": 580,
+          "team_name": "Black Forest Games",
+          "start_date": "2018-11-21",
+          "end_date": "2019-01-20",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21340,
+          "team_id": 224,
+          "team_name": "Team Singularity",
+          "start_date": "2019-01-22",
+          "end_date": "2020-10-17",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21341,
+          "team_id": 201,
+          "team_name": "Fuego Gaming",
+          "start_date": "2019-06-10",
+          "end_date": "2019-06-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21342,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2019-06-16",
+          "end_date": "2020-10-17",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21343,
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "start_date": "2020-10-17",
+          "end_date": "2021-01-18",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21344,
+          "team_id": 507,
+          "team_name": "Slammed",
+          "start_date": "2021-01-18",
+          "end_date": "2021-02-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21345,
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "start_date": "2021-02-21",
+          "end_date": "2021-03-19",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 21346,
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "start_date": "2021-03-19",
+          "end_date": "2025-08-12",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24436,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-08-12",
+          "end_date": "2025-10-08",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24456,
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "start_date": "2025-10-08",
+          "end_date": "2026-08-18",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 25508,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2026-08-18",
+          "end_date": null,
+          "role_name": "Free Agent",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals",
+        "historical_branding_needs_review",
+        "history_and_profile_team_disagree",
+        "history_and_profile_role_disagree"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "CleanX",
+      "source": "https://breakingpoint.gg/players/9/CleanX",
+      "playerId": 9,
+      "currentTeamId": 12,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 20670,
+          "team_id": 342,
+          "team_name": "Electus eSport",
+          "start_date": "2018-03-01",
+          "end_date": "2018-04-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20671,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2018-04-01",
+          "end_date": "2018-10-12",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20672,
+          "team_id": 224,
+          "team_name": "Team Singularity",
+          "start_date": "2018-10-12",
+          "end_date": "2019-02-24",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20673,
+          "team_id": 224,
+          "team_name": "Team Singularity",
+          "start_date": "2019-02-24",
+          "end_date": "2019-04-11",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20674,
+          "team_id": 541,
+          "team_name": "Lagoon7 Gaming",
+          "start_date": "2019-04-11",
+          "end_date": "2019-04-22",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20675,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2019-04-22",
+          "end_date": null,
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20676,
+          "team_id": 482,
+          "team_name": "Legion Nation",
+          "start_date": "2019-04-22",
+          "end_date": "2019-05-06",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20677,
+          "team_id": 224,
+          "team_name": "Team Singularity",
+          "start_date": "2019-04-22",
+          "end_date": "2019-07-12",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20678,
+          "team_id": 224,
+          "team_name": "Team Singularity",
+          "start_date": "2019-05-06",
+          "end_date": "2019-07-12",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20679,
+          "team_id": 224,
+          "team_name": "Team Singularity",
+          "start_date": "2019-07-12",
+          "end_date": "2019-10-24",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20680,
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "start_date": "2019-10-24",
+          "end_date": "2020-01-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20681,
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "start_date": "2020-01-21",
+          "end_date": "2020-06-18",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20682,
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "start_date": "2020-06-18",
+          "end_date": null,
+          "role_name": "Player",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "historical_branding_needs_review"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Hicksy",
+      "source": "https://breakingpoint.gg/players/57/Hicksy",
+      "playerId": 57,
+      "currentTeamId": null,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 22658,
+          "team_id": 447,
+          "team_name": "Aerox eSports",
+          "start_date": "2018-01-02",
+          "end_date": "2018-04-02",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22659,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2018-04-02",
+          "end_date": "2019-02-11",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22660,
+          "team_id": 229,
+          "team_name": "The Atlas Lions",
+          "start_date": "2019-02-11",
+          "end_date": "2019-09-23",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22661,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2019-09-23",
+          "end_date": "2020-01-21",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22662,
+          "team_id": 429,
+          "team_name": "Mythos Gaming",
+          "start_date": "2020-01-21",
+          "end_date": "2020-02-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22663,
+          "team_id": 428,
+          "team_name": "Team Elitist",
+          "start_date": "2020-02-15",
+          "end_date": "2020-05-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22664,
+          "team_id": 387,
+          "team_name": "Obtained Esports",
+          "start_date": "2020-05-26",
+          "end_date": "2020-06-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22665,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2020-06-21",
+          "end_date": "2020-08-15",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22666,
+          "team_id": 567,
+          "team_name": "HyperBoom eSports",
+          "start_date": "2020-08-15",
+          "end_date": "2020-08-17",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22667,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2020-08-17",
+          "end_date": "2020-10-18",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22668,
+          "team_id": 387,
+          "team_name": "Obtained Esports",
+          "start_date": "2020-10-18",
+          "end_date": "2021-03-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22669,
+          "team_id": 536,
+          "team_name": "Passion",
+          "start_date": "2021-03-13",
+          "end_date": "2021-04-09",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22670,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2021-03-15",
+          "end_date": "2021-10-19",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22671,
+          "team_id": 21,
+          "team_name": "Elevate",
+          "start_date": "2021-04-09",
+          "end_date": "2021-09-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22672,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2021-09-01",
+          "end_date": "2021-10-19",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22673,
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "start_date": "2021-10-19",
+          "end_date": "2023-02-18",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22674,
+          "team_id": 184,
+          "team_name": "UT Crew",
+          "start_date": "2021-10-20",
+          "end_date": "2021-12-10",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22675,
+          "team_id": 198,
+          "team_name": "UYU",
+          "start_date": "2021-12-10",
+          "end_date": "2022-01-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22676,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2022-01-15",
+          "end_date": "2022-02-25",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22677,
+          "team_id": 119,
+          "team_name": "Toronto Ultra Academy NA",
+          "start_date": "2022-02-25",
+          "end_date": "2022-11-01",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22678,
+          "team_id": 282,
+          "team_name": "RVNG",
+          "start_date": "2022-10-27",
+          "end_date": "2023-01-11",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22679,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2022-11-01",
+          "end_date": "2024-01-14",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22680,
+          "team_id": 32,
+          "team_name": "OMiT Brooklyn",
+          "start_date": "2023-01-11",
+          "end_date": "2023-02-10",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22681,
+          "team_id": 597,
+          "team_name": "Twisted Theory",
+          "start_date": "2023-02-10",
+          "end_date": "2023-02-18",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22682,
+          "team_id": 12,
+          "team_name": "Toronto KOI",
+          "start_date": "2023-02-18",
+          "end_date": "2023-06-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22683,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2023-06-26",
+          "end_date": "2024-01-14",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22684,
+          "team_id": 191,
+          "team_name": "Team WaR",
+          "start_date": "2024-01-14",
+          "end_date": "2024-03-08",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22685,
+          "team_id": 53,
+          "team_name": "OMiT EU",
+          "start_date": "2024-03-08",
+          "end_date": "2024-07-23",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22686,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2024-07-23",
+          "end_date": "2024-10-31",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22687,
+          "team_id": 3,
+          "team_name": "Vancouver Surge",
+          "start_date": "2024-10-31",
+          "end_date": "2025-02-06",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23902,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-02-06",
+          "end_date": "2025-02-09",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23908,
+          "team_id": 43,
+          "team_name": "OMiT",
+          "start_date": "2025-02-09",
+          "end_date": "2025-02-18",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23934,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-02-18",
+          "end_date": "2025-02-25",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23951,
+          "team_id": 122,
+          "team_name": "KC Pioneers",
+          "start_date": "2025-02-25",
+          "end_date": "2025-03-28",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24076,
+          "team_id": 40,
+          "team_name": "Lore Gaming",
+          "start_date": "2025-03-28",
+          "end_date": "2025-04-18",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24190,
+          "team_id": 667,
+          "team_name": "Royal Spartans",
+          "start_date": "2025-04-18",
+          "end_date": "2025-04-30",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24191,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-04-30",
+          "end_date": "2025-05-17",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24265,
+          "team_id": 698,
+          "team_name": "FiveFears White",
+          "start_date": "2025-05-17",
+          "end_date": "2025-06-30",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24388,
+          "team_id": 686,
+          "team_name": "FiveFears",
+          "start_date": "2025-06-30",
+          "end_date": "2025-08-07",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24466,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-08-07",
+          "end_date": null,
+          "role_name": "Retired",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals",
+        "historical_branding_needs_review",
+        "history_and_profile_role_disagree"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Pred",
+      "source": "https://breakingpoint.gg/players/26/Pred",
+      "playerId": 26,
+      "currentTeamId": 62,
+      "retired": false,
+      "currentRole": {
+        "id": "6193502c-0b49-4135-93e8-7f1c2ef5773f",
+        "role": "Benched",
+        "short_name": "Bench"
+      },
+      "history": [
+        {
+          "roster_change_id": 20908,
+          "team_id": 308,
+          "team_name": "Team Skyfire",
+          "start_date": "2015-06-15",
+          "end_date": "2015-07-15",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20909,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2015-07-15",
+          "end_date": "2018-06-01",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20910,
+          "team_id": 150,
+          "team_name": "Frontline Esport",
+          "start_date": "2018-06-01",
+          "end_date": "2018-08-31",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20911,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2018-08-31",
+          "end_date": "2018-12-11",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20912,
+          "team_id": 500,
+          "team_name": "Venom Gaming",
+          "start_date": "2018-12-11",
+          "end_date": "2019-01-05",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20913,
+          "team_id": 571,
+          "team_name": "Prodigy eSports",
+          "start_date": "2019-01-05",
+          "end_date": "2019-05-30",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20914,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2019-05-30",
+          "end_date": "2020-01-16",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20915,
+          "team_id": 437,
+          "team_name": "Renegades",
+          "start_date": "2020-01-16",
+          "end_date": "2021-09-20",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20916,
+          "team_id": 3,
+          "team_name": "Vancouver Surge",
+          "start_date": "2021-09-20",
+          "end_date": "2023-07-03",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20917,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2023-07-30",
+          "end_date": "2024-12-12",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20918,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2024-12-12",
+          "end_date": "2025-02-06",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20919,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2025-02-06",
+          "end_date": "2025-03-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24050,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-03-26",
+          "end_date": "2025-04-01",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24108,
+          "team_id": 62,
+          "team_name": "Riyadh Falcons",
+          "start_date": "2025-04-01",
+          "end_date": "2026-07-09",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 25367,
+          "team_id": 62,
+          "team_name": "Riyadh Falcons",
+          "start_date": "2026-07-09",
+          "end_date": null,
+          "role_name": "Benched",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "unexplained_intervals",
+        "historical_branding_needs_review"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "Huke",
+      "source": "https://breakingpoint.gg/players/39/Huke",
+      "playerId": 39,
+      "currentTeamId": 4,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 20803,
+          "team_id": 173,
+          "team_name": "Carnage Esports",
+          "start_date": "2014-09-04",
+          "end_date": "2014-12-04",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20804,
+          "team_id": 99,
+          "team_name": "FaZe Esports",
+          "start_date": "2014-12-04",
+          "end_date": "2015-06-16",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20805,
+          "team_id": 172,
+          "team_name": "Stunner Gaming",
+          "start_date": "2014-12-05",
+          "end_date": "2015-02-17",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20806,
+          "team_id": 357,
+          "team_name": "Aware Gaming NA",
+          "start_date": "2015-01-21",
+          "end_date": "2015-03-10",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20807,
+          "team_id": 354,
+          "team_name": "Prophecy",
+          "start_date": "2015-01-21",
+          "end_date": null,
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20808,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2015-02-17",
+          "end_date": "2015-04-07",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20809,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2015-03-10",
+          "end_date": "2015-04-07",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20810,
+          "team_id": 99,
+          "team_name": "FaZe Esports",
+          "start_date": "2015-04-07",
+          "end_date": "2015-06-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20811,
+          "team_id": 148,
+          "team_name": "Denial Esports",
+          "start_date": "2015-06-17",
+          "end_date": "2015-10-25",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20812,
+          "team_id": 159,
+          "team_name": "Enigma6 Group",
+          "start_date": "2015-10-25",
+          "end_date": "2015-12-13",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20813,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2015-12-13",
+          "end_date": "2017-11-04",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20814,
+          "team_id": 96,
+          "team_name": "Envy",
+          "start_date": "2017-11-04",
+          "end_date": "2019-06-20",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20815,
+          "team_id": 200,
+          "team_name": "Splyce",
+          "start_date": "2019-06-20",
+          "end_date": "2019-08-21",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20816,
+          "team_id": 96,
+          "team_name": "Envy",
+          "start_date": "2019-08-21",
+          "end_date": "2019-10-16",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20817,
+          "team_id": 14,
+          "team_name": "Dallas Empire",
+          "start_date": "2019-10-16",
+          "end_date": "2021-04-22",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20818,
+          "team_id": 14,
+          "team_name": "Dallas Empire",
+          "start_date": "2021-04-22",
+          "end_date": "2021-05-04",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20819,
+          "team_id": 2,
+          "team_name": "Los Angeles Thieves",
+          "start_date": "2021-05-04",
+          "end_date": "2021-05-24",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20820,
+          "team_id": 2,
+          "team_name": "Los Angeles Thieves",
+          "start_date": "2021-05-24",
+          "end_date": "2021-06-09",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20821,
+          "team_id": 2,
+          "team_name": "Los Angeles Thieves",
+          "start_date": "2021-06-09",
+          "end_date": "2021-06-24",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20822,
+          "team_id": 2,
+          "team_name": "Los Angeles Thieves",
+          "start_date": "2021-06-24",
+          "end_date": "2021-09-06",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20823,
+          "team_id": 10,
+          "team_name": "Los Angeles Guerrillas",
+          "start_date": "2021-09-06",
+          "end_date": "2023-01-03",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20824,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2023-01-08",
+          "end_date": "2023-06-26",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20825,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2023-06-26",
+          "end_date": "2023-10-16",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20826,
+          "team_id": 3,
+          "team_name": "Vancouver Surge",
+          "start_date": "2023-10-16",
+          "end_date": "2024-08-11",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20827,
+          "team_id": 3,
+          "team_name": "Vancouver Surge",
+          "start_date": "2024-08-11",
+          "end_date": "2024-08-28",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20828,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2024-08-28",
+          "end_date": "2024-12-12",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20829,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2024-12-12",
+          "end_date": "2025-02-06",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 20830,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-02-06",
+          "end_date": "2025-03-26",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24049,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2025-03-26",
+          "end_date": null,
+          "role_name": "Player",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals",
+        "historical_branding_needs_review"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    },
+    {
+      "handle": "iLLeY",
+      "source": "https://breakingpoint.gg/players/16/iLLeY",
+      "playerId": 16,
+      "currentTeamId": null,
+      "retired": false,
+      "currentRole": {
+        "id": "dc088cb8-37f5-4cfd-8448-2c18ec11bbe1",
+        "role": "Player",
+        "short_name": null
+      },
+      "history": [
+        {
+          "roster_change_id": 22835,
+          "team_id": 472,
+          "team_name": "eUnited Cadets",
+          "start_date": "2017-11-30",
+          "end_date": "2019-10-17",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22836,
+          "team_id": 14,
+          "team_name": "Dallas Empire",
+          "start_date": "2019-10-17",
+          "end_date": "2021-11-08",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22837,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2021-11-08",
+          "end_date": "2022-04-30",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22838,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2022-04-30",
+          "end_date": "2022-05-05",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22839,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2022-05-05",
+          "end_date": "2022-06-29",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22840,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2022-05-05",
+          "end_date": "2022-06-29",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22841,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2022-06-29",
+          "end_date": "2022-08-17",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22842,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2022-08-18",
+          "end_date": "2023-02-09",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22843,
+          "team_id": 4,
+          "team_name": "OpTic Texas",
+          "start_date": "2023-02-09",
+          "end_date": "2023-10-16",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22844,
+          "team_id": 3,
+          "team_name": "Vancouver Surge",
+          "start_date": "2023-10-16",
+          "end_date": "2024-02-14",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22845,
+          "team_id": 3,
+          "team_name": "Vancouver Surge",
+          "start_date": "2024-02-14",
+          "end_date": "2024-04-09",
+          "role_name": "Substitute",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22846,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2024-04-09",
+          "end_date": "2024-12-06",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22847,
+          "team_id": 122,
+          "team_name": "KC Pioneers",
+          "start_date": "2024-12-06",
+          "end_date": "2025-01-25",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 22848,
+          "team_id": 667,
+          "team_name": "Royal Spartans",
+          "start_date": "2025-01-25",
+          "end_date": "2025-02-09",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 23906,
+          "team_id": 43,
+          "team_name": "OMiT",
+          "start_date": "2025-02-09",
+          "end_date": "2025-03-11",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24019,
+          "team_id": 680,
+          "team_name": "Stallions",
+          "start_date": "2025-03-11",
+          "end_date": "2025-05-05",
+          "role_name": "Player",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24242,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-05-05",
+          "end_date": "2025-05-23",
+          "role_name": "Free Agent",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24296,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-05-23",
+          "end_date": "2025-07-29",
+          "role_name": "Retired",
+          "notes": null
+        },
+        {
+          "roster_change_id": 24399,
+          "team_id": null,
+          "team_name": null,
+          "start_date": "2025-07-29",
+          "end_date": null,
+          "role_name": "Free Agent",
+          "notes": null
+        }
+      ],
+      "reviewStatus": "pending",
+      "eligible": false,
+      "issues": [
+        "overlapping_records",
+        "unexplained_intervals",
+        "historical_branding_needs_review",
+        "history_and_profile_role_disagree"
+      ],
+      "checks": {
+        "firstCodTeamVerified": false,
+        "allStintsVerified": false,
+        "allGapsExplained": false,
+        "challengersAndAcademyVerified": false,
+        "historicalNamesVerified": false,
+        "latestStatusVerified": false,
+        "retirementVerifiedIfApplicable": false
+      },
+      "evidence": [],
+      "reviewNote": "No certification of complete career yet. Structural continuity is insufficient to prove the first team, all amateur/Challengers spells, or current status."
+    }
+  ]
+}

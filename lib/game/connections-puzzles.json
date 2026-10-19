@@ -1,0 +1,4802 @@
+[
+  {
+    "id": "cn-4d8151a8ea5cfc",
+    "season": 2025,
+    "tiles": [
+      "Cellium",
+      "KiSMET",
+      "Lynz",
+      "Cammy",
+      "Snoopy",
+      "Skyz",
+      "Purj",
+      "Drazah",
+      "RenKoR",
+      "MettalZ",
+      "Simp",
+      "Lucky",
+      "Priestahh",
+      "ReeaL",
+      "aBeZy",
+      "Owakening"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2025-54-61",
+        "team": "LA Guerrillas M8",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "KiSMET",
+          "Lynz",
+          "Priestahh",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/93815"
+      },
+      {
+        "rosterId": "bp-2025-54-6",
+        "team": "Boston Breach",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Cammy",
+          "Owakening",
+          "Purj",
+          "Snoopy"
+        ],
+        "source": "https://breakingpoint.gg/match/93816"
+      },
+      {
+        "rosterId": "bp-2025-54-1",
+        "team": "Atlanta FaZe",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "aBeZy",
+          "Cellium",
+          "Drazah",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/93818"
+      },
+      {
+        "rosterId": "bp-2025-54-27",
+        "team": "Miami Heretics",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "Lucky",
+          "MettalZ",
+          "ReeaL",
+          "RenKoR"
+        ],
+        "source": "https://breakingpoint.gg/match/93819"
+      }
+    ]
+  },
+  {
+    "id": "cn-f30528d51134e7",
+    "season": 2026,
+    "tiles": [
+      "RenKoR",
+      "Envoy",
+      "Lqgend",
+      "Afro",
+      "MettalZ",
+      "Abe",
+      "Traixx",
+      "Beans",
+      "Ghosty",
+      "Lunarz",
+      "Neptune",
+      "Gwinn",
+      "Vivid",
+      "Mack",
+      "Sib",
+      "SupeR"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2026-100-27",
+        "team": "Miami Heretics",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "MettalZ",
+          "RenKoR",
+          "SupeR",
+          "Traixx"
+        ],
+        "source": "https://breakingpoint.gg/match/214797"
+      },
+      {
+        "rosterId": "bp-2026-100-3",
+        "team": "Vancouver Surge",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Abe",
+          "Gwinn",
+          "Lqgend",
+          "Lunarz"
+        ],
+        "source": "https://breakingpoint.gg/match/214798"
+      },
+      {
+        "rosterId": "bp-2026-100-743",
+        "team": "Paris Gentle Mates",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Envoy",
+          "Ghosty",
+          "Neptune",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/214798"
+      },
+      {
+        "rosterId": "bp-2026-100-63",
+        "team": "Cloud9 New York",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Afro",
+          "Beans",
+          "Mack",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/214799"
+      }
+    ]
+  },
+  {
+    "id": "cn-4a071762e36024",
+    "season": 2026,
+    "tiles": [
+      "Kenny",
+      "aBeZy",
+      "JoeDeceives",
+      "Mercules",
+      "Nero",
+      "SlasheR",
+      "Shotzzy",
+      "Lurqxx",
+      "Craze",
+      "HyDra",
+      "Huke",
+      "CleanX",
+      "Dashy",
+      "Scrap",
+      "ReeaL",
+      "Insight"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2026-100-4",
+        "team": "OpTic Texas",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "Dashy",
+          "Huke",
+          "Mercules",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/214794"
+      },
+      {
+        "rosterId": "bp-2026-100-26",
+        "team": "Carolina Royal Ravens",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "Craze",
+          "Lurqxx",
+          "Nero",
+          "SlasheR"
+        ],
+        "source": "https://breakingpoint.gg/match/214795"
+      },
+      {
+        "rosterId": "bp-2026-100-2",
+        "team": "Los Angeles Thieves",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "aBeZy",
+          "HyDra",
+          "Kenny",
+          "Scrap"
+        ],
+        "source": "https://breakingpoint.gg/match/214796"
+      },
+      {
+        "rosterId": "bp-2026-100-12",
+        "team": "Toronto KOI",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "CleanX",
+          "Insight",
+          "JoeDeceives",
+          "ReeaL"
+        ],
+        "source": "https://breakingpoint.gg/match/214797"
+      }
+    ]
+  },
+  {
+    "id": "cn-bdb91353291ab2",
+    "season": 2023,
+    "tiles": [
+      "Scrap",
+      "Spart",
+      "Mack",
+      "Pred",
+      "CleanX",
+      "Standy",
+      "Shotzzy",
+      "Arcitys",
+      "Dashy",
+      "Huke",
+      "iLLeY",
+      "Scump",
+      "Accuracy",
+      "Neptune",
+      "Sib",
+      "Insight"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2023-17-4",
+        "team": "OpTic Texas",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Dashy",
+          "iLLeY",
+          "Scump",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/5901"
+      },
+      {
+        "rosterId": "bp-2023-17-3",
+        "team": "Seattle Surge",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "Accuracy",
+          "Mack",
+          "Pred",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/5902"
+      },
+      {
+        "rosterId": "bp-2023-17-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "Arcitys",
+          "Huke",
+          "Neptune",
+          "Spart"
+        ],
+        "source": "https://breakingpoint.gg/match/5902"
+      },
+      {
+        "rosterId": "bp-2023-17-12",
+        "team": "Toronto Ultra",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "CleanX",
+          "Insight",
+          "Scrap",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/5903"
+      }
+    ]
+  },
+  {
+    "id": "cn-37d36f4e25c8cc",
+    "season": 2022,
+    "tiles": [
+      "Accuracy",
+      "Vivid",
+      "Mack",
+      "Cammy",
+      "Insight",
+      "Envoy",
+      "Davpadie",
+      "Drazah",
+      "CleanX",
+      "Skyz",
+      "Bance",
+      "Octane",
+      "Sib",
+      "Pred",
+      "Owakening",
+      "Kenny"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2022-3-7",
+        "team": "Florida Mutineers",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Davpadie",
+          "Owakening",
+          "Skyz",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/23200"
+      },
+      {
+        "rosterId": "bp-2022-3-3",
+        "team": "Seattle Surge",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Accuracy",
+          "Mack",
+          "Pred",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/23202"
+      },
+      {
+        "rosterId": "bp-2022-3-12",
+        "team": "Toronto Ultra",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-05",
+        "date": "2022-02-05",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Insight"
+        ],
+        "source": "https://breakingpoint.gg/match/23205"
+      },
+      {
+        "rosterId": "bp-2022-3-2",
+        "team": "Los Angeles Thieves",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-06",
+        "date": "2022-02-06",
+        "players": [
+          "Drazah",
+          "Envoy",
+          "Kenny",
+          "Octane"
+        ],
+        "source": "https://breakingpoint.gg/match/23208"
+      }
+    ]
+  },
+  {
+    "id": "cn-657a4e91ceb9d6",
+    "season": 2021,
+    "tiles": [
+      "Skyz",
+      "Owakening",
+      "Accuracy",
+      "Attach",
+      "CleanX",
+      "Methodz",
+      "SiLLY",
+      "Vivid",
+      "Slacked",
+      "MajorManiak",
+      "Cammy",
+      "Priestahh",
+      "Apathy",
+      "Neptune",
+      "Assault",
+      "Bance"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2021-29-11",
+        "team": "Minnesota RØKKR",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-11",
+        "date": "2021-02-11",
+        "players": [
+          "Accuracy",
+          "Attach",
+          "MajorManiak",
+          "Priestahh"
+        ],
+        "source": "https://breakingpoint.gg/match/22205"
+      },
+      {
+        "rosterId": "bp-2021-29-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-12",
+        "date": "2021-02-12",
+        "players": [
+          "Apathy",
+          "Assault",
+          "SiLLY",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/22206"
+      },
+      {
+        "rosterId": "bp-2021-29-7",
+        "team": "Florida Mutineers",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Neptune",
+          "Owakening",
+          "Skyz",
+          "Slacked"
+        ],
+        "source": "https://breakingpoint.gg/match/22207"
+      },
+      {
+        "rosterId": "bp-2021-29-12",
+        "team": "Toronto Ultra",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Methodz"
+        ],
+        "source": "https://breakingpoint.gg/match/22207"
+      }
+    ]
+  },
+  {
+    "id": "cn-ab9301d02e2281",
+    "season": 2024,
+    "tiles": [
+      "Dashy",
+      "SlasheR",
+      "Fame",
+      "Pred",
+      "Priestahh",
+      "Huke",
+      "Shotzzy",
+      "Arcitys",
+      "Estreal",
+      "Snoopy",
+      "Abuzah",
+      "Kenny",
+      "Assault",
+      "Diamondcon",
+      "iLLeY",
+      "Capsidal"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2024-39-6",
+        "team": "Boston Breach",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Capsidal",
+          "Priestahh",
+          "SlasheR",
+          "Snoopy"
+        ],
+        "source": "https://breakingpoint.gg/match/27193"
+      },
+      {
+        "rosterId": "bp-2024-39-3",
+        "team": "Seattle Surge",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Abuzah",
+          "Arcitys",
+          "Huke",
+          "iLLeY"
+        ],
+        "source": "https://breakingpoint.gg/match/27194"
+      },
+      {
+        "rosterId": "bp-2024-39-4",
+        "team": "OpTic Texas",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Dashy",
+          "Kenny",
+          "Pred",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/27195"
+      },
+      {
+        "rosterId": "bp-2024-39-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Assault",
+          "Diamondcon",
+          "Estreal",
+          "Fame"
+        ],
+        "source": "https://breakingpoint.gg/match/27198"
+      }
+    ]
+  },
+  {
+    "id": "cn-32da95654a1af5",
+    "season": 2022,
+    "tiles": [
+      "Nastie",
+      "Dashy",
+      "Shotzzy",
+      "Pred",
+      "Mack",
+      "Arcitys",
+      "Simp",
+      "Afro",
+      "Gismo",
+      "aBeZy",
+      "Cellium",
+      "iLLeY",
+      "Zer0",
+      "Sib",
+      "Scump",
+      "Accuracy"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2022-1-9",
+        "team": "London Royal Ravens",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "Afro",
+          "Gismo",
+          "Nastie",
+          "Zer0"
+        ],
+        "source": "https://breakingpoint.gg/match/23393"
+      },
+      {
+        "rosterId": "bp-2022-1-3",
+        "team": "Seattle Surge",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "Accuracy",
+          "Mack",
+          "Pred",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/23393"
+      },
+      {
+        "rosterId": "bp-2022-1-4",
+        "team": "OpTic Texas",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "Dashy",
+          "iLLeY",
+          "Scump",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/23395"
+      },
+      {
+        "rosterId": "bp-2022-1-1",
+        "team": "Atlanta FaZe",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "aBeZy",
+          "Arcitys",
+          "Cellium",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/23396"
+      }
+    ]
+  },
+  {
+    "id": "cn-8bf12fc53ef2e5",
+    "season": 2025,
+    "tiles": [
+      "PaulEhx",
+      "Exnid",
+      "KingAbody",
+      "Shotzzy",
+      "aBeZy",
+      "Pred",
+      "Drazah",
+      "Kenny",
+      "Dashy",
+      "Roxas",
+      "Nero",
+      "Cellium",
+      "Estreal",
+      "Khhx",
+      "Simp",
+      "Gio"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2025-54-11",
+        "team": "Minnesota RØKKR",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Estreal",
+          "Gio",
+          "Nero",
+          "PaulEhx"
+        ],
+        "source": "https://breakingpoint.gg/match/93815"
+      },
+      {
+        "rosterId": "bp-2025-54-4",
+        "team": "OpTic Texas",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Dashy",
+          "Kenny",
+          "Pred",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/93816"
+      },
+      {
+        "rosterId": "bp-2025-54-62",
+        "team": "Vegas Falcons",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Exnid",
+          "Khhx",
+          "KingAbody",
+          "Roxas"
+        ],
+        "source": "https://breakingpoint.gg/match/93817"
+      },
+      {
+        "rosterId": "bp-2025-54-1",
+        "team": "Atlanta FaZe",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "aBeZy",
+          "Cellium",
+          "Drazah",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/93818"
+      }
+    ]
+  },
+  {
+    "id": "cn-c8b76cb6d8713e",
+    "season": 2026,
+    "tiles": [
+      "Huke",
+      "Vivid",
+      "Mercules",
+      "Skyz",
+      "Dashy",
+      "Shotzzy",
+      "Exnid",
+      "Estreal",
+      "Beans",
+      "Mamba",
+      "KiSMET",
+      "Cellium",
+      "Mack",
+      "Pred",
+      "Kremp",
+      "Afro"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2026-100-62",
+        "team": "Riyadh Falcons",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "Cellium",
+          "Exnid",
+          "KiSMET",
+          "Pred"
+        ],
+        "source": "https://breakingpoint.gg/match/214794"
+      },
+      {
+        "rosterId": "bp-2026-100-4",
+        "team": "OpTic Texas",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "Dashy",
+          "Huke",
+          "Mercules",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/214794"
+      },
+      {
+        "rosterId": "bp-2026-100-11",
+        "team": "G2 Minnesota",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Estreal",
+          "Kremp",
+          "Mamba",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/214799"
+      },
+      {
+        "rosterId": "bp-2026-100-63",
+        "team": "Cloud9 New York",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Afro",
+          "Beans",
+          "Mack",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/214799"
+      }
+    ]
+  },
+  {
+    "id": "cn-e11364e2aa44d8",
+    "season": 2023,
+    "tiles": [
+      "PaulEhx",
+      "Bance",
+      "aBeZy",
+      "Priestahh",
+      "Nastie",
+      "HyDra",
+      "KiSMET",
+      "Asim",
+      "Afro",
+      "Zer0",
+      "Skyz",
+      "SlasheR",
+      "Attach",
+      "Cellium",
+      "Cammy",
+      "Simp"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2023-17-1",
+        "team": "Atlanta FaZe",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "aBeZy",
+          "Cellium",
+          "Simp",
+          "SlasheR"
+        ],
+        "source": "https://breakingpoint.gg/match/5899"
+      },
+      {
+        "rosterId": "bp-2023-17-11",
+        "team": "Minnesota RØKKR",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Afro",
+          "Attach",
+          "Bance",
+          "Cammy"
+        ],
+        "source": "https://breakingpoint.gg/match/5901"
+      },
+      {
+        "rosterId": "bp-2023-17-5",
+        "team": "New York Subliners",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "HyDra",
+          "KiSMET",
+          "Priestahh",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/5904"
+      },
+      {
+        "rosterId": "bp-2023-17-9",
+        "team": "London Royal Ravens",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "Asim",
+          "Nastie",
+          "PaulEhx",
+          "Zer0"
+        ],
+        "source": "https://breakingpoint.gg/match/5904"
+      }
+    ]
+  },
+  {
+    "id": "cn-ab9656166f8592",
+    "season": 2026,
+    "tiles": [
+      "Abuzah",
+      "Mack",
+      "Drazah",
+      "Lunarz",
+      "Cellium",
+      "Vivid",
+      "Simp",
+      "Afro",
+      "Exnid",
+      "KiSMET",
+      "Abe",
+      "Lqgend",
+      "Beans",
+      "04",
+      "Gwinn",
+      "Pred"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2026-100-62",
+        "team": "Riyadh Falcons",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "Cellium",
+          "Exnid",
+          "KiSMET",
+          "Pred"
+        ],
+        "source": "https://breakingpoint.gg/match/214794"
+      },
+      {
+        "rosterId": "bp-2026-100-1",
+        "team": "FaZe Vegas",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "04",
+          "Abuzah",
+          "Drazah",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/214796"
+      },
+      {
+        "rosterId": "bp-2026-100-3",
+        "team": "Vancouver Surge",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Abe",
+          "Gwinn",
+          "Lqgend",
+          "Lunarz"
+        ],
+        "source": "https://breakingpoint.gg/match/214798"
+      },
+      {
+        "rosterId": "bp-2026-100-63",
+        "team": "Cloud9 New York",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Afro",
+          "Beans",
+          "Mack",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/214799"
+      }
+    ]
+  },
+  {
+    "id": "cn-a829bc919017e6",
+    "season": 2023,
+    "tiles": [
+      "Neptune",
+      "MajorManiak",
+      "Vikul",
+      "Shotzzy",
+      "Havok",
+      "Huke",
+      "Pred",
+      "Spart",
+      "Scump",
+      "Accuracy",
+      "Dashy",
+      "Brack",
+      "Sib",
+      "Arcitys",
+      "iLLeY",
+      "Mack"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2023-17-4",
+        "team": "OpTic Texas",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Dashy",
+          "iLLeY",
+          "Scump",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/5901"
+      },
+      {
+        "rosterId": "bp-2023-17-3",
+        "team": "Seattle Surge",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "Accuracy",
+          "Mack",
+          "Pred",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/5902"
+      },
+      {
+        "rosterId": "bp-2023-17-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "Arcitys",
+          "Huke",
+          "Neptune",
+          "Spart"
+        ],
+        "source": "https://breakingpoint.gg/match/5902"
+      },
+      {
+        "rosterId": "bp-2023-17-7",
+        "team": "Florida Mutineers",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-04",
+        "date": "2022-12-04",
+        "players": [
+          "Brack",
+          "Havok",
+          "MajorManiak",
+          "Vikul"
+        ],
+        "source": "https://breakingpoint.gg/match/5906"
+      }
+    ]
+  },
+  {
+    "id": "cn-56db3860aea0d1",
+    "season": 2026,
+    "tiles": [
+      "Nero",
+      "SupeR",
+      "Pred",
+      "Exnid",
+      "SlasheR",
+      "Craze",
+      "Lqgend",
+      "Lunarz",
+      "RenKoR",
+      "Abe",
+      "Gwinn",
+      "Lurqxx",
+      "Traixx",
+      "Cellium",
+      "MettalZ",
+      "KiSMET"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2026-100-62",
+        "team": "Riyadh Falcons",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "Cellium",
+          "Exnid",
+          "KiSMET",
+          "Pred"
+        ],
+        "source": "https://breakingpoint.gg/match/214794"
+      },
+      {
+        "rosterId": "bp-2026-100-26",
+        "team": "Carolina Royal Ravens",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "Craze",
+          "Lurqxx",
+          "Nero",
+          "SlasheR"
+        ],
+        "source": "https://breakingpoint.gg/match/214795"
+      },
+      {
+        "rosterId": "bp-2026-100-27",
+        "team": "Miami Heretics",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "MettalZ",
+          "RenKoR",
+          "SupeR",
+          "Traixx"
+        ],
+        "source": "https://breakingpoint.gg/match/214797"
+      },
+      {
+        "rosterId": "bp-2026-100-3",
+        "team": "Vancouver Surge",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Abe",
+          "Gwinn",
+          "Lqgend",
+          "Lunarz"
+        ],
+        "source": "https://breakingpoint.gg/match/214798"
+      }
+    ]
+  },
+  {
+    "id": "cn-088535137645a1",
+    "season": 2022,
+    "tiles": [
+      "Asim",
+      "Gunless",
+      "Attach",
+      "Afro",
+      "Scump",
+      "Nastie",
+      "iLLeY",
+      "Shotzzy",
+      "Priestahh",
+      "Huke",
+      "Zer0",
+      "Gismo",
+      "SlasheR",
+      "Standy",
+      "Dashy",
+      "MajorManiak"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2022-3-9",
+        "team": "London Royal Ravens",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Afro",
+          "Gismo",
+          "Nastie",
+          "Zer0"
+        ],
+        "source": "https://breakingpoint.gg/match/23200"
+      },
+      {
+        "rosterId": "bp-2022-3-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Asim",
+          "Gunless",
+          "Huke",
+          "SlasheR"
+        ],
+        "source": "https://breakingpoint.gg/match/23201"
+      },
+      {
+        "rosterId": "bp-2022-3-4",
+        "team": "OpTic Texas",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-05",
+        "date": "2022-02-05",
+        "players": [
+          "Dashy",
+          "iLLeY",
+          "Scump",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/23204"
+      },
+      {
+        "rosterId": "bp-2022-3-11",
+        "team": "Minnesota RØKKR",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-06",
+        "date": "2022-02-06",
+        "players": [
+          "Attach",
+          "MajorManiak",
+          "Priestahh",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/23209"
+      }
+    ]
+  },
+  {
+    "id": "cn-bab9eb964a9967",
+    "season": 2026,
+    "tiles": [
+      "RenKoR",
+      "ReeaL",
+      "Cellium",
+      "Insight",
+      "Alluka",
+      "Exnid",
+      "HyDra",
+      "CleanX",
+      "Scrap",
+      "Nium",
+      "KiSMET",
+      "aBeZy",
+      "Kips",
+      "MettalZ",
+      "Abe",
+      "SupeR"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2026-110-12",
+        "team": "Toronto KOI",
+        "season": 2026,
+        "event": "CDL League Championship · بطولة العالم · 2026-07-16",
+        "date": "2026-07-16",
+        "players": [
+          "Abe",
+          "CleanX",
+          "Insight",
+          "Kips"
+        ],
+        "source": "https://breakingpoint.gg/match/215021"
+      },
+      {
+        "rosterId": "bp-2026-110-2",
+        "team": "Los Angeles Thieves",
+        "season": 2026,
+        "event": "CDL League Championship · بطولة العالم · 2026-07-16",
+        "date": "2026-07-16",
+        "players": [
+          "aBeZy",
+          "HyDra",
+          "Nium",
+          "Scrap"
+        ],
+        "source": "https://breakingpoint.gg/match/215022"
+      },
+      {
+        "rosterId": "bp-2026-110-62",
+        "team": "Riyadh Falcons",
+        "season": 2026,
+        "event": "CDL League Championship · بطولة العالم · 2026-07-16",
+        "date": "2026-07-16",
+        "players": [
+          "Alluka",
+          "Cellium",
+          "Exnid",
+          "KiSMET"
+        ],
+        "source": "https://breakingpoint.gg/match/215022"
+      },
+      {
+        "rosterId": "bp-2026-110-27",
+        "team": "Miami Heretics",
+        "season": 2026,
+        "event": "CDL League Championship · بطولة العالم · 2026-07-16",
+        "date": "2026-07-16",
+        "players": [
+          "MettalZ",
+          "ReeaL",
+          "RenKoR",
+          "SupeR"
+        ],
+        "source": "https://breakingpoint.gg/match/215020"
+      }
+    ]
+  },
+  {
+    "id": "cn-210f75a816a0f5",
+    "season": 2024,
+    "tiles": [
+      "Huke",
+      "SlasheR",
+      "Owakening",
+      "Accuracy",
+      "Priestahh",
+      "Shotzzy",
+      "Snoopy",
+      "Vivid",
+      "Lyynnz",
+      "Abuzah",
+      "Capsidal",
+      "Pred",
+      "Kenny",
+      "iLLeY",
+      "Arcitys",
+      "Dashy"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2024-39-6",
+        "team": "Boston Breach",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Capsidal",
+          "Priestahh",
+          "SlasheR",
+          "Snoopy"
+        ],
+        "source": "https://breakingpoint.gg/match/27193"
+      },
+      {
+        "rosterId": "bp-2024-39-3",
+        "team": "Seattle Surge",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Abuzah",
+          "Arcitys",
+          "Huke",
+          "iLLeY"
+        ],
+        "source": "https://breakingpoint.gg/match/27194"
+      },
+      {
+        "rosterId": "bp-2024-39-4",
+        "team": "OpTic Texas",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Dashy",
+          "Kenny",
+          "Pred",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/27195"
+      },
+      {
+        "rosterId": "bp-2024-39-11",
+        "team": "Minnesota RØKKR",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Accuracy",
+          "Lyynnz",
+          "Owakening",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/27197"
+      }
+    ]
+  },
+  {
+    "id": "cn-bc2d5b53e23266",
+    "season": 2021,
+    "tiles": [
+      "Cammy",
+      "Priestahh",
+      "Classic",
+      "Methodz",
+      "Skrapz",
+      "Attach",
+      "iLLeY",
+      "CleanX",
+      "Accuracy",
+      "Fire",
+      "Aqua",
+      "Huke",
+      "Crimsix",
+      "MajorManiak",
+      "Shotzzy",
+      "Bance"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2021-29-11",
+        "team": "Minnesota RØKKR",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-11",
+        "date": "2021-02-11",
+        "players": [
+          "Accuracy",
+          "Attach",
+          "MajorManiak",
+          "Priestahh"
+        ],
+        "source": "https://breakingpoint.gg/match/22205"
+      },
+      {
+        "rosterId": "bp-2021-29-14",
+        "team": "Dallas Empire",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-11",
+        "date": "2021-02-11",
+        "players": [
+          "Crimsix",
+          "Huke",
+          "iLLeY",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/22724"
+      },
+      {
+        "rosterId": "bp-2021-29-15",
+        "team": "Paris Legion",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-12",
+        "date": "2021-02-12",
+        "players": [
+          "Aqua",
+          "Classic",
+          "Fire",
+          "Skrapz"
+        ],
+        "source": "https://breakingpoint.gg/match/22725"
+      },
+      {
+        "rosterId": "bp-2021-29-12",
+        "team": "Toronto Ultra",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Methodz"
+        ],
+        "source": "https://breakingpoint.gg/match/22207"
+      }
+    ]
+  },
+  {
+    "id": "cn-904fa888d2eac1",
+    "season": 2021,
+    "tiles": [
+      "Methodz",
+      "Slacked",
+      "Shotzzy",
+      "Neptune",
+      "Fire",
+      "CleanX",
+      "Aqua",
+      "Huke",
+      "Crimsix",
+      "Classic",
+      "Owakening",
+      "Skyz",
+      "Skrapz",
+      "iLLeY",
+      "Cammy",
+      "Bance"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2021-29-14",
+        "team": "Dallas Empire",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-11",
+        "date": "2021-02-11",
+        "players": [
+          "Crimsix",
+          "Huke",
+          "iLLeY",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/22724"
+      },
+      {
+        "rosterId": "bp-2021-29-15",
+        "team": "Paris Legion",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-12",
+        "date": "2021-02-12",
+        "players": [
+          "Aqua",
+          "Classic",
+          "Fire",
+          "Skrapz"
+        ],
+        "source": "https://breakingpoint.gg/match/22725"
+      },
+      {
+        "rosterId": "bp-2021-29-7",
+        "team": "Florida Mutineers",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Neptune",
+          "Owakening",
+          "Skyz",
+          "Slacked"
+        ],
+        "source": "https://breakingpoint.gg/match/22207"
+      },
+      {
+        "rosterId": "bp-2021-29-12",
+        "team": "Toronto Ultra",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Methodz"
+        ],
+        "source": "https://breakingpoint.gg/match/22207"
+      }
+    ]
+  },
+  {
+    "id": "cn-e2f42e2a240ff2",
+    "season": 2022,
+    "tiles": [
+      "Simp",
+      "HyDra",
+      "Methodz",
+      "aBeZy",
+      "Capsidal",
+      "Afro",
+      "Clayster",
+      "Crimsix",
+      "Nero",
+      "TJHaLy",
+      "Gismo",
+      "Nastie",
+      "Cellium",
+      "Neptune",
+      "Arcitys",
+      "Zer0"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2022-3-9",
+        "team": "London Royal Ravens",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Afro",
+          "Gismo",
+          "Nastie",
+          "Zer0"
+        ],
+        "source": "https://breakingpoint.gg/match/23200"
+      },
+      {
+        "rosterId": "bp-2022-3-6",
+        "team": "Boston Breach",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Capsidal",
+          "Methodz",
+          "Nero",
+          "TJHaLy"
+        ],
+        "source": "https://breakingpoint.gg/match/23201"
+      },
+      {
+        "rosterId": "bp-2022-3-5",
+        "team": "New York Subliners",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Clayster",
+          "Crimsix",
+          "HyDra",
+          "Neptune"
+        ],
+        "source": "https://breakingpoint.gg/match/23202"
+      },
+      {
+        "rosterId": "bp-2022-3-1",
+        "team": "Atlanta FaZe",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-05",
+        "date": "2022-02-05",
+        "players": [
+          "aBeZy",
+          "Arcitys",
+          "Cellium",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/23203"
+      }
+    ]
+  },
+  {
+    "id": "cn-ad6dadd8ca3677",
+    "season": 2024,
+    "tiles": [
+      "Insight",
+      "Sib",
+      "Lucky",
+      "Skyz",
+      "Fame",
+      "JurNii",
+      "MettalZ",
+      "Scrap",
+      "HyDra",
+      "KiSMET",
+      "Estreal",
+      "Vikul",
+      "Assault",
+      "Envoy",
+      "CleanX",
+      "Diamondcon"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2024-39-5",
+        "team": "New York Subliners",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "HyDra",
+          "KiSMET",
+          "Sib",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/27195"
+      },
+      {
+        "rosterId": "bp-2024-39-27",
+        "team": "Miami Heretics",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "JurNii",
+          "Lucky",
+          "MettalZ",
+          "Vikul"
+        ],
+        "source": "https://breakingpoint.gg/match/27196"
+      },
+      {
+        "rosterId": "bp-2024-39-12",
+        "team": "Toronto Ultra",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "CleanX",
+          "Envoy",
+          "Insight",
+          "Scrap"
+        ],
+        "source": "https://breakingpoint.gg/match/27198"
+      },
+      {
+        "rosterId": "bp-2024-39-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Assault",
+          "Diamondcon",
+          "Estreal",
+          "Fame"
+        ],
+        "source": "https://breakingpoint.gg/match/27198"
+      }
+    ]
+  },
+  {
+    "id": "cn-218a970bcb3896",
+    "season": 2026,
+    "tiles": [
+      "aBeZy",
+      "Mercules",
+      "Kenny",
+      "SlasheR",
+      "Shotzzy",
+      "Lunarz",
+      "Nero",
+      "Lurqxx",
+      "Abe",
+      "Craze",
+      "Dashy",
+      "Scrap",
+      "HyDra",
+      "Huke",
+      "Gwinn",
+      "Lqgend"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2026-100-4",
+        "team": "OpTic Texas",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "Dashy",
+          "Huke",
+          "Mercules",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/214794"
+      },
+      {
+        "rosterId": "bp-2026-100-26",
+        "team": "Carolina Royal Ravens",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "Craze",
+          "Lurqxx",
+          "Nero",
+          "SlasheR"
+        ],
+        "source": "https://breakingpoint.gg/match/214795"
+      },
+      {
+        "rosterId": "bp-2026-100-2",
+        "team": "Los Angeles Thieves",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "aBeZy",
+          "HyDra",
+          "Kenny",
+          "Scrap"
+        ],
+        "source": "https://breakingpoint.gg/match/214796"
+      },
+      {
+        "rosterId": "bp-2026-100-3",
+        "team": "Vancouver Surge",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Abe",
+          "Gwinn",
+          "Lqgend",
+          "Lunarz"
+        ],
+        "source": "https://breakingpoint.gg/match/214798"
+      }
+    ]
+  },
+  {
+    "id": "cn-65a3471060bff3",
+    "season": 2023,
+    "tiles": [
+      "Methodz",
+      "Nero",
+      "Nastie",
+      "Scrap",
+      "Insight",
+      "Vivid",
+      "Sib",
+      "Owakening",
+      "CleanX",
+      "Mack",
+      "Pred",
+      "Zer0",
+      "Asim",
+      "Standy",
+      "Accuracy",
+      "PaulEhx"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2023-17-6",
+        "team": "Boston Breach",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Methodz",
+          "Nero",
+          "Owakening",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/5899"
+      },
+      {
+        "rosterId": "bp-2023-17-3",
+        "team": "Seattle Surge",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "Accuracy",
+          "Mack",
+          "Pred",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/5902"
+      },
+      {
+        "rosterId": "bp-2023-17-12",
+        "team": "Toronto Ultra",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "CleanX",
+          "Insight",
+          "Scrap",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/5903"
+      },
+      {
+        "rosterId": "bp-2023-17-9",
+        "team": "London Royal Ravens",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "Asim",
+          "Nastie",
+          "PaulEhx",
+          "Zer0"
+        ],
+        "source": "https://breakingpoint.gg/match/5904"
+      }
+    ]
+  },
+  {
+    "id": "cn-0ab80b933bc179",
+    "season": 2025,
+    "tiles": [
+      "Exnid",
+      "Snoopy",
+      "Purj",
+      "RenKoR",
+      "KiSMET",
+      "Khhx",
+      "Lynz",
+      "KingAbody",
+      "MettalZ",
+      "Cammy",
+      "ReeaL",
+      "Skyz",
+      "Lucky",
+      "Roxas",
+      "Owakening",
+      "Priestahh"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2025-54-61",
+        "team": "LA Guerrillas M8",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "KiSMET",
+          "Lynz",
+          "Priestahh",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/93815"
+      },
+      {
+        "rosterId": "bp-2025-54-6",
+        "team": "Boston Breach",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Cammy",
+          "Owakening",
+          "Purj",
+          "Snoopy"
+        ],
+        "source": "https://breakingpoint.gg/match/93816"
+      },
+      {
+        "rosterId": "bp-2025-54-62",
+        "team": "Vegas Falcons",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Exnid",
+          "Khhx",
+          "KingAbody",
+          "Roxas"
+        ],
+        "source": "https://breakingpoint.gg/match/93817"
+      },
+      {
+        "rosterId": "bp-2025-54-27",
+        "team": "Miami Heretics",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "Lucky",
+          "MettalZ",
+          "ReeaL",
+          "RenKoR"
+        ],
+        "source": "https://breakingpoint.gg/match/93819"
+      }
+    ]
+  },
+  {
+    "id": "cn-9260226266d7ee",
+    "season": 2026,
+    "tiles": [
+      "Mack",
+      "Vivid",
+      "Nero",
+      "SlasheR",
+      "Abuzah",
+      "Simp",
+      "Afro",
+      "Skyz",
+      "04",
+      "Kremp",
+      "Beans",
+      "Estreal",
+      "Lurqxx",
+      "Mamba",
+      "Drazah",
+      "Craze"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2026-100-26",
+        "team": "Carolina Royal Ravens",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "Craze",
+          "Lurqxx",
+          "Nero",
+          "SlasheR"
+        ],
+        "source": "https://breakingpoint.gg/match/214795"
+      },
+      {
+        "rosterId": "bp-2026-100-1",
+        "team": "FaZe Vegas",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "04",
+          "Abuzah",
+          "Drazah",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/214796"
+      },
+      {
+        "rosterId": "bp-2026-100-11",
+        "team": "G2 Minnesota",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Estreal",
+          "Kremp",
+          "Mamba",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/214799"
+      },
+      {
+        "rosterId": "bp-2026-100-63",
+        "team": "Cloud9 New York",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Afro",
+          "Beans",
+          "Mack",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/214799"
+      }
+    ]
+  },
+  {
+    "id": "cn-2ea9935dad4dea",
+    "season": 2022,
+    "tiles": [
+      "Cammy",
+      "Accuracy",
+      "Mack",
+      "Owakening",
+      "Scump",
+      "Insight",
+      "Sib",
+      "Davpadie",
+      "Shotzzy",
+      "CleanX",
+      "Skyz",
+      "Bance",
+      "Pred",
+      "Dashy",
+      "Vivid",
+      "iLLeY"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2022-3-7",
+        "team": "Florida Mutineers",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Davpadie",
+          "Owakening",
+          "Skyz",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/23200"
+      },
+      {
+        "rosterId": "bp-2022-3-3",
+        "team": "Seattle Surge",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Accuracy",
+          "Mack",
+          "Pred",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/23202"
+      },
+      {
+        "rosterId": "bp-2022-3-4",
+        "team": "OpTic Texas",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-05",
+        "date": "2022-02-05",
+        "players": [
+          "Dashy",
+          "iLLeY",
+          "Scump",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/23204"
+      },
+      {
+        "rosterId": "bp-2022-3-12",
+        "team": "Toronto Ultra",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-05",
+        "date": "2022-02-05",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Insight"
+        ],
+        "source": "https://breakingpoint.gg/match/23205"
+      }
+    ]
+  },
+  {
+    "id": "cn-baf8984a10e6ae",
+    "season": 2025,
+    "tiles": [
+      "ReeaL",
+      "Lucky",
+      "Attach",
+      "Drazah",
+      "Kremp",
+      "Mack",
+      "RenKoR",
+      "Cellium",
+      "Sib",
+      "MettalZ",
+      "Simp",
+      "Ghosty",
+      "HyDra",
+      "aBeZy",
+      "Scrap",
+      "Envoy"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2025-54-1",
+        "team": "Atlanta FaZe",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "aBeZy",
+          "Cellium",
+          "Drazah",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/93818"
+      },
+      {
+        "rosterId": "bp-2025-54-27",
+        "team": "Miami Heretics",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "Lucky",
+          "MettalZ",
+          "ReeaL",
+          "RenKoR"
+        ],
+        "source": "https://breakingpoint.gg/match/93819"
+      },
+      {
+        "rosterId": "bp-2025-54-2",
+        "team": "Los Angeles Thieves",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-08",
+        "date": "2024-12-08",
+        "players": [
+          "Envoy",
+          "Ghosty",
+          "HyDra",
+          "Scrap"
+        ],
+        "source": "https://breakingpoint.gg/match/93822"
+      },
+      {
+        "rosterId": "bp-2025-54-63",
+        "team": "Cloud9 New York",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-08",
+        "date": "2024-12-08",
+        "players": [
+          "Attach",
+          "Kremp",
+          "Mack",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/93822"
+      }
+    ]
+  },
+  {
+    "id": "cn-ac1cfd59177c18",
+    "season": 2022,
+    "tiles": [
+      "HyDra",
+      "Envoy",
+      "Nastie",
+      "Insight",
+      "Crimsix",
+      "PaulEhx",
+      "Kenny",
+      "Bance",
+      "CleanX",
+      "Gismo",
+      "KiSMET",
+      "Afro",
+      "Cammy",
+      "Octane",
+      "Zer0",
+      "Drazah"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2022-1-9",
+        "team": "London Royal Ravens",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "Afro",
+          "Gismo",
+          "Nastie",
+          "Zer0"
+        ],
+        "source": "https://breakingpoint.gg/match/23393"
+      },
+      {
+        "rosterId": "bp-2022-1-2",
+        "team": "Los Angeles Thieves",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "Drazah",
+          "Envoy",
+          "Kenny",
+          "Octane"
+        ],
+        "source": "https://breakingpoint.gg/match/23394"
+      },
+      {
+        "rosterId": "bp-2022-1-12",
+        "team": "Toronto Ultra",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Insight"
+        ],
+        "source": "https://breakingpoint.gg/match/23395"
+      },
+      {
+        "rosterId": "bp-2022-1-5",
+        "team": "New York Subliners",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "Crimsix",
+          "HyDra",
+          "KiSMET",
+          "PaulEhx"
+        ],
+        "source": "https://breakingpoint.gg/match/23396"
+      }
+    ]
+  },
+  {
+    "id": "cn-d776b898030434",
+    "season": 2022,
+    "tiles": [
+      "Gismo",
+      "Pred",
+      "Insight",
+      "CleanX",
+      "Zer0",
+      "Afro",
+      "iLLeY",
+      "Accuracy",
+      "Scump",
+      "Bance",
+      "Shotzzy",
+      "Mack",
+      "Sib",
+      "Cammy",
+      "Nastie",
+      "Dashy"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2022-1-9",
+        "team": "London Royal Ravens",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "Afro",
+          "Gismo",
+          "Nastie",
+          "Zer0"
+        ],
+        "source": "https://breakingpoint.gg/match/23393"
+      },
+      {
+        "rosterId": "bp-2022-1-3",
+        "team": "Seattle Surge",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "Accuracy",
+          "Mack",
+          "Pred",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/23393"
+      },
+      {
+        "rosterId": "bp-2022-1-12",
+        "team": "Toronto Ultra",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Insight"
+        ],
+        "source": "https://breakingpoint.gg/match/23395"
+      },
+      {
+        "rosterId": "bp-2022-1-4",
+        "team": "OpTic Texas",
+        "season": 2022,
+        "event": "CDL Championship · بطولة العالم · 2022-08-04",
+        "date": "2022-08-04",
+        "players": [
+          "Dashy",
+          "iLLeY",
+          "Scump",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/23395"
+      }
+    ]
+  },
+  {
+    "id": "cn-80d31bc82ac7a4",
+    "season": 2022,
+    "tiles": [
+      "Octane",
+      "MajorManiak",
+      "Attach",
+      "Shotzzy",
+      "Skyz",
+      "Drazah",
+      "Priestahh",
+      "Envoy",
+      "Standy",
+      "iLLeY",
+      "Owakening",
+      "Dashy",
+      "Vivid",
+      "Davpadie",
+      "Kenny",
+      "Scump"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2022-3-7",
+        "team": "Florida Mutineers",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Davpadie",
+          "Owakening",
+          "Skyz",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/23200"
+      },
+      {
+        "rosterId": "bp-2022-3-4",
+        "team": "OpTic Texas",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-05",
+        "date": "2022-02-05",
+        "players": [
+          "Dashy",
+          "iLLeY",
+          "Scump",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/23204"
+      },
+      {
+        "rosterId": "bp-2022-3-2",
+        "team": "Los Angeles Thieves",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-06",
+        "date": "2022-02-06",
+        "players": [
+          "Drazah",
+          "Envoy",
+          "Kenny",
+          "Octane"
+        ],
+        "source": "https://breakingpoint.gg/match/23208"
+      },
+      {
+        "rosterId": "bp-2022-3-11",
+        "team": "Minnesota RØKKR",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-06",
+        "date": "2022-02-06",
+        "players": [
+          "Attach",
+          "MajorManiak",
+          "Priestahh",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/23209"
+      }
+    ]
+  },
+  {
+    "id": "cn-c3d3b3028f0a0d",
+    "season": 2025,
+    "tiles": [
+      "JoeDeceives",
+      "Priestahh",
+      "04",
+      "Skyz",
+      "Nero",
+      "KiSMET",
+      "Abuzah",
+      "Lynz",
+      "Nastie",
+      "Hicksy",
+      "Insight",
+      "Estreal",
+      "Beans",
+      "PaulEhx",
+      "CleanX",
+      "Gio"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2025-54-61",
+        "team": "LA Guerrillas M8",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "KiSMET",
+          "Lynz",
+          "Priestahh",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/93815"
+      },
+      {
+        "rosterId": "bp-2025-54-11",
+        "team": "Minnesota RØKKR",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Estreal",
+          "Gio",
+          "Nero",
+          "PaulEhx"
+        ],
+        "source": "https://breakingpoint.gg/match/93815"
+      },
+      {
+        "rosterId": "bp-2025-54-12",
+        "team": "Toronto Ultra",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "Beans",
+          "CleanX",
+          "Insight",
+          "JoeDeceives"
+        ],
+        "source": "https://breakingpoint.gg/match/93818"
+      },
+      {
+        "rosterId": "bp-2025-54-3",
+        "team": "Vancouver Surge",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "04",
+          "Abuzah",
+          "Hicksy",
+          "Nastie"
+        ],
+        "source": "https://breakingpoint.gg/match/93821"
+      }
+    ]
+  },
+  {
+    "id": "cn-4d483ec978d9a2",
+    "season": 2024,
+    "tiles": [
+      "Purj",
+      "Dashy",
+      "Lucky",
+      "Assault",
+      "Diamondcon",
+      "MettalZ",
+      "Pred",
+      "Shotzzy",
+      "Vikul",
+      "Fame",
+      "Standy",
+      "Kenny",
+      "Attach",
+      "Estreal",
+      "JurNii",
+      "Nero"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2024-39-4",
+        "team": "OpTic Texas",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Dashy",
+          "Kenny",
+          "Pred",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/27195"
+      },
+      {
+        "rosterId": "bp-2024-39-27",
+        "team": "Miami Heretics",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "JurNii",
+          "Lucky",
+          "MettalZ",
+          "Vikul"
+        ],
+        "source": "https://breakingpoint.gg/match/27196"
+      },
+      {
+        "rosterId": "bp-2024-39-8",
+        "team": "Las Vegas Legion",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Attach",
+          "Nero",
+          "Purj",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/27197"
+      },
+      {
+        "rosterId": "bp-2024-39-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Assault",
+          "Diamondcon",
+          "Estreal",
+          "Fame"
+        ],
+        "source": "https://breakingpoint.gg/match/27198"
+      }
+    ]
+  },
+  {
+    "id": "cn-fd2dbb25ef72fe",
+    "season": 2022,
+    "tiles": [
+      "Afro",
+      "Standy",
+      "Neptune",
+      "Gismo",
+      "iLLeY",
+      "Zer0",
+      "Scump",
+      "Nastie",
+      "MajorManiak",
+      "Dashy",
+      "Shotzzy",
+      "Clayster",
+      "HyDra",
+      "Attach",
+      "Priestahh",
+      "Crimsix"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2022-3-9",
+        "team": "London Royal Ravens",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Afro",
+          "Gismo",
+          "Nastie",
+          "Zer0"
+        ],
+        "source": "https://breakingpoint.gg/match/23200"
+      },
+      {
+        "rosterId": "bp-2022-3-5",
+        "team": "New York Subliners",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Clayster",
+          "Crimsix",
+          "HyDra",
+          "Neptune"
+        ],
+        "source": "https://breakingpoint.gg/match/23202"
+      },
+      {
+        "rosterId": "bp-2022-3-4",
+        "team": "OpTic Texas",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-05",
+        "date": "2022-02-05",
+        "players": [
+          "Dashy",
+          "iLLeY",
+          "Scump",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/23204"
+      },
+      {
+        "rosterId": "bp-2022-3-11",
+        "team": "Minnesota RØKKR",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-06",
+        "date": "2022-02-06",
+        "players": [
+          "Attach",
+          "MajorManiak",
+          "Priestahh",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/23209"
+      }
+    ]
+  },
+  {
+    "id": "cn-7778860f08798f",
+    "season": 2023,
+    "tiles": [
+      "Pred",
+      "Mack",
+      "Clayster",
+      "Afro",
+      "Sib",
+      "TJHaLy",
+      "Bance",
+      "aBeZy",
+      "Attach",
+      "Cellium",
+      "Simp",
+      "Prolute",
+      "Temp",
+      "Cammy",
+      "SlasheR",
+      "Accuracy"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2023-17-1",
+        "team": "Atlanta FaZe",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "aBeZy",
+          "Cellium",
+          "Simp",
+          "SlasheR"
+        ],
+        "source": "https://breakingpoint.gg/match/5899"
+      },
+      {
+        "rosterId": "bp-2023-17-11",
+        "team": "Minnesota RØKKR",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Afro",
+          "Attach",
+          "Bance",
+          "Cammy"
+        ],
+        "source": "https://breakingpoint.gg/match/5901"
+      },
+      {
+        "rosterId": "bp-2023-17-8",
+        "team": "Las Vegas Legion",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Clayster",
+          "Prolute",
+          "Temp",
+          "TJHaLy"
+        ],
+        "source": "https://breakingpoint.gg/match/5900"
+      },
+      {
+        "rosterId": "bp-2023-17-3",
+        "team": "Seattle Surge",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "Accuracy",
+          "Mack",
+          "Pred",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/5902"
+      }
+    ]
+  },
+  {
+    "id": "cn-bc7adfe2f14a19",
+    "season": 2021,
+    "tiles": [
+      "Bance",
+      "Asim",
+      "Standy",
+      "HyDra",
+      "CleanX",
+      "Drazah",
+      "SlasheR",
+      "Attach",
+      "John",
+      "MajorManiak",
+      "Kenny",
+      "Cammy",
+      "Priestahh",
+      "Mack",
+      "Insight",
+      "Clayster"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2021-38-11",
+        "team": "Minnesota RØKKR",
+        "season": 2021,
+        "event": "CDL Championship · بطولة العالم · 2021-08-19",
+        "date": "2021-08-19",
+        "players": [
+          "Attach",
+          "MajorManiak",
+          "Priestahh",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/22952"
+      },
+      {
+        "rosterId": "bp-2021-38-5",
+        "team": "New York Subliners",
+        "season": 2021,
+        "event": "CDL Championship · بطولة العالم · 2021-08-19",
+        "date": "2021-08-19",
+        "players": [
+          "Asim",
+          "Clayster",
+          "HyDra",
+          "Mack"
+        ],
+        "source": "https://breakingpoint.gg/match/22953"
+      },
+      {
+        "rosterId": "bp-2021-38-2",
+        "team": "Los Angeles Thieves",
+        "season": 2021,
+        "event": "CDL Championship · بطولة العالم · 2021-08-19",
+        "date": "2021-08-19",
+        "players": [
+          "Drazah",
+          "John",
+          "Kenny",
+          "SlasheR"
+        ],
+        "source": "https://breakingpoint.gg/match/22329"
+      },
+      {
+        "rosterId": "bp-2021-38-12",
+        "team": "Toronto Ultra",
+        "season": 2021,
+        "event": "CDL Championship · بطولة العالم · 2021-08-20",
+        "date": "2021-08-20",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Insight"
+        ],
+        "source": "https://breakingpoint.gg/match/22719"
+      }
+    ]
+  },
+  {
+    "id": "cn-efa3dd089ed9e0",
+    "season": 2023,
+    "tiles": [
+      "Cammy",
+      "MajorManiak",
+      "Bance",
+      "Vikul",
+      "Afro",
+      "Havok",
+      "Spart",
+      "Neptune",
+      "Vivid",
+      "Owakening",
+      "Nero",
+      "Brack",
+      "Huke",
+      "Methodz",
+      "Arcitys",
+      "Attach"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2023-17-6",
+        "team": "Boston Breach",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Methodz",
+          "Nero",
+          "Owakening",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/5899"
+      },
+      {
+        "rosterId": "bp-2023-17-11",
+        "team": "Minnesota RØKKR",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Afro",
+          "Attach",
+          "Bance",
+          "Cammy"
+        ],
+        "source": "https://breakingpoint.gg/match/5901"
+      },
+      {
+        "rosterId": "bp-2023-17-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "Arcitys",
+          "Huke",
+          "Neptune",
+          "Spart"
+        ],
+        "source": "https://breakingpoint.gg/match/5902"
+      },
+      {
+        "rosterId": "bp-2023-17-7",
+        "team": "Florida Mutineers",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-04",
+        "date": "2022-12-04",
+        "players": [
+          "Brack",
+          "Havok",
+          "MajorManiak",
+          "Vikul"
+        ],
+        "source": "https://breakingpoint.gg/match/5906"
+      }
+    ]
+  },
+  {
+    "id": "cn-59bd94fa12e174",
+    "season": 2023,
+    "tiles": [
+      "Envoy",
+      "Spart",
+      "Drazah",
+      "Afro",
+      "Cammy",
+      "Octane",
+      "Prolute",
+      "Bance",
+      "Temp",
+      "TJHaLy",
+      "Attach",
+      "Arcitys",
+      "Huke",
+      "Clayster",
+      "Kenny",
+      "Neptune"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2023-17-11",
+        "team": "Minnesota RØKKR",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Afro",
+          "Attach",
+          "Bance",
+          "Cammy"
+        ],
+        "source": "https://breakingpoint.gg/match/5901"
+      },
+      {
+        "rosterId": "bp-2023-17-8",
+        "team": "Las Vegas Legion",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Clayster",
+          "Prolute",
+          "Temp",
+          "TJHaLy"
+        ],
+        "source": "https://breakingpoint.gg/match/5900"
+      },
+      {
+        "rosterId": "bp-2023-17-2",
+        "team": "Los Angeles Thieves",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Drazah",
+          "Envoy",
+          "Kenny",
+          "Octane"
+        ],
+        "source": "https://breakingpoint.gg/match/5900"
+      },
+      {
+        "rosterId": "bp-2023-17-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "Arcitys",
+          "Huke",
+          "Neptune",
+          "Spart"
+        ],
+        "source": "https://breakingpoint.gg/match/5902"
+      }
+    ]
+  },
+  {
+    "id": "cn-bfdc218abf598d",
+    "season": 2024,
+    "tiles": [
+      "Snoopy",
+      "JoeDeceives",
+      "Diamondcon",
+      "SlasheR",
+      "Capsidal",
+      "CleanX",
+      "Insight",
+      "Cammy",
+      "Estreal",
+      "Afro",
+      "Scrap",
+      "Assault",
+      "Ghosty",
+      "Priestahh",
+      "Fame",
+      "Envoy"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2024-39-6",
+        "team": "Boston Breach",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Capsidal",
+          "Priestahh",
+          "SlasheR",
+          "Snoopy"
+        ],
+        "source": "https://breakingpoint.gg/match/27193"
+      },
+      {
+        "rosterId": "bp-2024-39-2",
+        "team": "Los Angeles Thieves",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Afro",
+          "Cammy",
+          "Ghosty",
+          "JoeDeceives"
+        ],
+        "source": "https://breakingpoint.gg/match/27194"
+      },
+      {
+        "rosterId": "bp-2024-39-12",
+        "team": "Toronto Ultra",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "CleanX",
+          "Envoy",
+          "Insight",
+          "Scrap"
+        ],
+        "source": "https://breakingpoint.gg/match/27198"
+      },
+      {
+        "rosterId": "bp-2024-39-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Assault",
+          "Diamondcon",
+          "Estreal",
+          "Fame"
+        ],
+        "source": "https://breakingpoint.gg/match/27198"
+      }
+    ]
+  },
+  {
+    "id": "cn-9f89bca09935d8",
+    "season": 2024,
+    "tiles": [
+      "Simp",
+      "Vivid",
+      "JurNii",
+      "Nero",
+      "Attach",
+      "Standy",
+      "aBeZy",
+      "Lucky",
+      "MettalZ",
+      "Accuracy",
+      "Vikul",
+      "Purj",
+      "Cellium",
+      "Owakening",
+      "Drazah",
+      "Lyynnz"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2024-39-1",
+        "team": "Atlanta FaZe",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "aBeZy",
+          "Cellium",
+          "Drazah",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/27193"
+      },
+      {
+        "rosterId": "bp-2024-39-27",
+        "team": "Miami Heretics",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "JurNii",
+          "Lucky",
+          "MettalZ",
+          "Vikul"
+        ],
+        "source": "https://breakingpoint.gg/match/27196"
+      },
+      {
+        "rosterId": "bp-2024-39-8",
+        "team": "Las Vegas Legion",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Attach",
+          "Nero",
+          "Purj",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/27197"
+      },
+      {
+        "rosterId": "bp-2024-39-11",
+        "team": "Minnesota RØKKR",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Accuracy",
+          "Lyynnz",
+          "Owakening",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/27197"
+      }
+    ]
+  },
+  {
+    "id": "cn-d6bb138b4d2a08",
+    "season": 2026,
+    "tiles": [
+      "Alluka",
+      "KiSMET",
+      "Scrap",
+      "Dashy",
+      "Cellium",
+      "Abe",
+      "aBeZy",
+      "Exnid",
+      "HyDra",
+      "Shotzzy",
+      "CleanX",
+      "Nium",
+      "Mercules",
+      "Huke",
+      "Kips",
+      "Insight"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2026-110-12",
+        "team": "Toronto KOI",
+        "season": 2026,
+        "event": "CDL League Championship · بطولة العالم · 2026-07-16",
+        "date": "2026-07-16",
+        "players": [
+          "Abe",
+          "CleanX",
+          "Insight",
+          "Kips"
+        ],
+        "source": "https://breakingpoint.gg/match/215021"
+      },
+      {
+        "rosterId": "bp-2026-110-2",
+        "team": "Los Angeles Thieves",
+        "season": 2026,
+        "event": "CDL League Championship · بطولة العالم · 2026-07-16",
+        "date": "2026-07-16",
+        "players": [
+          "aBeZy",
+          "HyDra",
+          "Nium",
+          "Scrap"
+        ],
+        "source": "https://breakingpoint.gg/match/215022"
+      },
+      {
+        "rosterId": "bp-2026-110-62",
+        "team": "Riyadh Falcons",
+        "season": 2026,
+        "event": "CDL League Championship · بطولة العالم · 2026-07-16",
+        "date": "2026-07-16",
+        "players": [
+          "Alluka",
+          "Cellium",
+          "Exnid",
+          "KiSMET"
+        ],
+        "source": "https://breakingpoint.gg/match/215022"
+      },
+      {
+        "rosterId": "bp-2026-110-4",
+        "team": "OpTic Texas",
+        "season": 2026,
+        "event": "CDL League Championship · بطولة العالم · 2026-07-16",
+        "date": "2026-07-16",
+        "players": [
+          "Dashy",
+          "Huke",
+          "Mercules",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/215020"
+      }
+    ]
+  },
+  {
+    "id": "cn-65fcc9cf15785e",
+    "season": 2021,
+    "tiles": [
+      "Priestahh",
+      "FormaL",
+      "Scump",
+      "Dashy",
+      "Aqua",
+      "MajorManiak",
+      "Classic",
+      "Mack",
+      "Envoy",
+      "Skrapz",
+      "Attach",
+      "Diamondcon",
+      "Fire",
+      "Asim",
+      "Clayster",
+      "Accuracy"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2021-29-11",
+        "team": "Minnesota RØKKR",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-11",
+        "date": "2021-02-11",
+        "players": [
+          "Accuracy",
+          "Attach",
+          "MajorManiak",
+          "Priestahh"
+        ],
+        "source": "https://breakingpoint.gg/match/22205"
+      },
+      {
+        "rosterId": "bp-2021-29-17",
+        "team": "OpTic Chicago",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-12",
+        "date": "2021-02-12",
+        "players": [
+          "Dashy",
+          "Envoy",
+          "FormaL",
+          "Scump"
+        ],
+        "source": "https://breakingpoint.gg/match/22725"
+      },
+      {
+        "rosterId": "bp-2021-29-15",
+        "team": "Paris Legion",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-12",
+        "date": "2021-02-12",
+        "players": [
+          "Aqua",
+          "Classic",
+          "Fire",
+          "Skrapz"
+        ],
+        "source": "https://breakingpoint.gg/match/22725"
+      },
+      {
+        "rosterId": "bp-2021-29-5",
+        "team": "New York Subliners",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Asim",
+          "Clayster",
+          "Diamondcon",
+          "Mack"
+        ],
+        "source": "https://breakingpoint.gg/match/22208"
+      }
+    ]
+  },
+  {
+    "id": "cn-a41c74e564e038",
+    "season": 2026,
+    "tiles": [
+      "Abuzah",
+      "Lunarz",
+      "Nastie",
+      "Drazah",
+      "Simp",
+      "04",
+      "Cammy",
+      "RenKoR",
+      "Traixx",
+      "MettalZ",
+      "Lqgend",
+      "Abe",
+      "Gwinn",
+      "SupeR",
+      "Snoopy",
+      "Purj"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2026-100-6",
+        "team": "Boston Breach",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "Cammy",
+          "Nastie",
+          "Purj",
+          "Snoopy"
+        ],
+        "source": "https://breakingpoint.gg/match/214795"
+      },
+      {
+        "rosterId": "bp-2026-100-1",
+        "team": "FaZe Vegas",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-05",
+        "date": "2025-12-05",
+        "players": [
+          "04",
+          "Abuzah",
+          "Drazah",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/214796"
+      },
+      {
+        "rosterId": "bp-2026-100-27",
+        "team": "Miami Heretics",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "MettalZ",
+          "RenKoR",
+          "SupeR",
+          "Traixx"
+        ],
+        "source": "https://breakingpoint.gg/match/214797"
+      },
+      {
+        "rosterId": "bp-2026-100-3",
+        "team": "Vancouver Surge",
+        "season": 2026,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2025-12-06",
+        "date": "2025-12-06",
+        "players": [
+          "Abe",
+          "Gwinn",
+          "Lqgend",
+          "Lunarz"
+        ],
+        "source": "https://breakingpoint.gg/match/214798"
+      }
+    ]
+  },
+  {
+    "id": "cn-c0ea499455ab62",
+    "season": 2021,
+    "tiles": [
+      "Slacked",
+      "Octane",
+      "Methodz",
+      "Skyz",
+      "Fire",
+      "CleanX",
+      "Aqua",
+      "Prestinni",
+      "Owakening",
+      "Loony",
+      "Bance",
+      "Gunless",
+      "Cammy",
+      "Classic",
+      "Skrapz",
+      "Neptune"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2021-29-3",
+        "team": "Seattle Surge",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-11",
+        "date": "2021-02-11",
+        "players": [
+          "Gunless",
+          "Loony",
+          "Octane",
+          "Prestinni"
+        ],
+        "source": "https://breakingpoint.gg/match/22724"
+      },
+      {
+        "rosterId": "bp-2021-29-15",
+        "team": "Paris Legion",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-12",
+        "date": "2021-02-12",
+        "players": [
+          "Aqua",
+          "Classic",
+          "Fire",
+          "Skrapz"
+        ],
+        "source": "https://breakingpoint.gg/match/22725"
+      },
+      {
+        "rosterId": "bp-2021-29-7",
+        "team": "Florida Mutineers",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Neptune",
+          "Owakening",
+          "Skyz",
+          "Slacked"
+        ],
+        "source": "https://breakingpoint.gg/match/22207"
+      },
+      {
+        "rosterId": "bp-2021-29-12",
+        "team": "Toronto Ultra",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Methodz"
+        ],
+        "source": "https://breakingpoint.gg/match/22207"
+      }
+    ]
+  },
+  {
+    "id": "cn-36012ac0fc67e2",
+    "season": 2024,
+    "tiles": [
+      "KiSMET",
+      "Scrap",
+      "HyDra",
+      "CleanX",
+      "Drazah",
+      "Sib",
+      "Cellium",
+      "Gwinn",
+      "Clayster",
+      "Simp",
+      "Insight",
+      "Envoy",
+      "GodRx",
+      "ReeaL",
+      "Skyz",
+      "aBeZy"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2024-39-1",
+        "team": "Atlanta FaZe",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "aBeZy",
+          "Cellium",
+          "Drazah",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/27193"
+      },
+      {
+        "rosterId": "bp-2024-39-5",
+        "team": "New York Subliners",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "HyDra",
+          "KiSMET",
+          "Sib",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/27195"
+      },
+      {
+        "rosterId": "bp-2024-39-26",
+        "team": "Carolina Royal Ravens",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Clayster",
+          "GodRx",
+          "Gwinn",
+          "ReeaL"
+        ],
+        "source": "https://breakingpoint.gg/match/27196"
+      },
+      {
+        "rosterId": "bp-2024-39-12",
+        "team": "Toronto Ultra",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "CleanX",
+          "Envoy",
+          "Insight",
+          "Scrap"
+        ],
+        "source": "https://breakingpoint.gg/match/27198"
+      }
+    ]
+  },
+  {
+    "id": "cn-2e6c48f962ac4e",
+    "season": 2021,
+    "tiles": [
+      "Asim",
+      "Cellium",
+      "CleanX",
+      "Diamondcon",
+      "Methodz",
+      "Envoy",
+      "Arcitys",
+      "Dashy",
+      "Scump",
+      "Bance",
+      "FormaL",
+      "aBeZy",
+      "Mack",
+      "Clayster",
+      "Cammy",
+      "Simp"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2021-29-17",
+        "team": "OpTic Chicago",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-12",
+        "date": "2021-02-12",
+        "players": [
+          "Dashy",
+          "Envoy",
+          "FormaL",
+          "Scump"
+        ],
+        "source": "https://breakingpoint.gg/match/22725"
+      },
+      {
+        "rosterId": "bp-2021-29-1",
+        "team": "Atlanta FaZe",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-12",
+        "date": "2021-02-12",
+        "players": [
+          "aBeZy",
+          "Arcitys",
+          "Cellium",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/22206"
+      },
+      {
+        "rosterId": "bp-2021-29-12",
+        "team": "Toronto Ultra",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Methodz"
+        ],
+        "source": "https://breakingpoint.gg/match/22207"
+      },
+      {
+        "rosterId": "bp-2021-29-5",
+        "team": "New York Subliners",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Asim",
+          "Clayster",
+          "Diamondcon",
+          "Mack"
+        ],
+        "source": "https://breakingpoint.gg/match/22208"
+      }
+    ]
+  },
+  {
+    "id": "cn-7129cc976921ee",
+    "season": 2024,
+    "tiles": [
+      "Accuracy",
+      "Vivid",
+      "Diamondcon",
+      "Estreal",
+      "Pred",
+      "Lyynnz",
+      "Sib",
+      "Assault",
+      "Shotzzy",
+      "Skyz",
+      "Fame",
+      "HyDra",
+      "Kenny",
+      "Dashy",
+      "KiSMET",
+      "Owakening"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2024-39-4",
+        "team": "OpTic Texas",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Dashy",
+          "Kenny",
+          "Pred",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/27195"
+      },
+      {
+        "rosterId": "bp-2024-39-5",
+        "team": "New York Subliners",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "HyDra",
+          "KiSMET",
+          "Sib",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/27195"
+      },
+      {
+        "rosterId": "bp-2024-39-11",
+        "team": "Minnesota RØKKR",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Accuracy",
+          "Lyynnz",
+          "Owakening",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/27197"
+      },
+      {
+        "rosterId": "bp-2024-39-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Assault",
+          "Diamondcon",
+          "Estreal",
+          "Fame"
+        ],
+        "source": "https://breakingpoint.gg/match/27198"
+      }
+    ]
+  },
+  {
+    "id": "cn-aab607dce0571d",
+    "season": 2025,
+    "tiles": [
+      "Roxas",
+      "Sib",
+      "KingAbody",
+      "Dashy",
+      "SlasheR",
+      "Gwinn",
+      "Khhx",
+      "Mack",
+      "Exnid",
+      "TJHaLy",
+      "Kremp",
+      "Vivid",
+      "Shotzzy",
+      "Pred",
+      "Attach",
+      "Kenny"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2025-54-4",
+        "team": "OpTic Texas",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Dashy",
+          "Kenny",
+          "Pred",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/93816"
+      },
+      {
+        "rosterId": "bp-2025-54-62",
+        "team": "Vegas Falcons",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Exnid",
+          "Khhx",
+          "KingAbody",
+          "Roxas"
+        ],
+        "source": "https://breakingpoint.gg/match/93817"
+      },
+      {
+        "rosterId": "bp-2025-54-26",
+        "team": "Carolina Royal Ravens",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Gwinn",
+          "SlasheR",
+          "TJHaLy",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/93817"
+      },
+      {
+        "rosterId": "bp-2025-54-63",
+        "team": "Cloud9 New York",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-08",
+        "date": "2024-12-08",
+        "players": [
+          "Attach",
+          "Kremp",
+          "Mack",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/93822"
+      }
+    ]
+  },
+  {
+    "id": "cn-7b800b3e67fdfd",
+    "season": 2025,
+    "tiles": [
+      "RenKoR",
+      "Priestahh",
+      "KiSMET",
+      "Purj",
+      "Kenny",
+      "ReeaL",
+      "Owakening",
+      "Skyz",
+      "Dashy",
+      "Shotzzy",
+      "Lynz",
+      "Cammy",
+      "Pred",
+      "Lucky",
+      "MettalZ",
+      "Snoopy"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2025-54-61",
+        "team": "LA Guerrillas M8",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "KiSMET",
+          "Lynz",
+          "Priestahh",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/93815"
+      },
+      {
+        "rosterId": "bp-2025-54-4",
+        "team": "OpTic Texas",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Dashy",
+          "Kenny",
+          "Pred",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/93816"
+      },
+      {
+        "rosterId": "bp-2025-54-6",
+        "team": "Boston Breach",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Cammy",
+          "Owakening",
+          "Purj",
+          "Snoopy"
+        ],
+        "source": "https://breakingpoint.gg/match/93816"
+      },
+      {
+        "rosterId": "bp-2025-54-27",
+        "team": "Miami Heretics",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "Lucky",
+          "MettalZ",
+          "ReeaL",
+          "RenKoR"
+        ],
+        "source": "https://breakingpoint.gg/match/93819"
+      }
+    ]
+  },
+  {
+    "id": "cn-2f86c924363f2b",
+    "season": 2025,
+    "tiles": [
+      "Attach",
+      "Exnid",
+      "Purj",
+      "MettalZ",
+      "ReeaL",
+      "Khhx",
+      "Owakening",
+      "Cammy",
+      "Sib",
+      "Mack",
+      "Roxas",
+      "RenKoR",
+      "KingAbody",
+      "Kremp",
+      "Snoopy",
+      "Lucky"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2025-54-6",
+        "team": "Boston Breach",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Cammy",
+          "Owakening",
+          "Purj",
+          "Snoopy"
+        ],
+        "source": "https://breakingpoint.gg/match/93816"
+      },
+      {
+        "rosterId": "bp-2025-54-62",
+        "team": "Vegas Falcons",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Exnid",
+          "Khhx",
+          "KingAbody",
+          "Roxas"
+        ],
+        "source": "https://breakingpoint.gg/match/93817"
+      },
+      {
+        "rosterId": "bp-2025-54-27",
+        "team": "Miami Heretics",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "Lucky",
+          "MettalZ",
+          "ReeaL",
+          "RenKoR"
+        ],
+        "source": "https://breakingpoint.gg/match/93819"
+      },
+      {
+        "rosterId": "bp-2025-54-63",
+        "team": "Cloud9 New York",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-08",
+        "date": "2024-12-08",
+        "players": [
+          "Attach",
+          "Kremp",
+          "Mack",
+          "Sib"
+        ],
+        "source": "https://breakingpoint.gg/match/93822"
+      }
+    ]
+  },
+  {
+    "id": "cn-e623b4a76f6baa",
+    "season": 2021,
+    "tiles": [
+      "Clayster",
+      "Asim",
+      "CleanX",
+      "Cammy",
+      "Diamondcon",
+      "Methodz",
+      "Bance",
+      "MajorManiak",
+      "Mack",
+      "Dylan",
+      "Priestahh",
+      "Attach",
+      "Parasite",
+      "Alexx",
+      "Seany",
+      "Accuracy"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2021-29-11",
+        "team": "Minnesota RØKKR",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-11",
+        "date": "2021-02-11",
+        "players": [
+          "Accuracy",
+          "Attach",
+          "MajorManiak",
+          "Priestahh"
+        ],
+        "source": "https://breakingpoint.gg/match/22205"
+      },
+      {
+        "rosterId": "bp-2021-29-12",
+        "team": "Toronto Ultra",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Methodz"
+        ],
+        "source": "https://breakingpoint.gg/match/22207"
+      },
+      {
+        "rosterId": "bp-2021-29-5",
+        "team": "New York Subliners",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Asim",
+          "Clayster",
+          "Diamondcon",
+          "Mack"
+        ],
+        "source": "https://breakingpoint.gg/match/22208"
+      },
+      {
+        "rosterId": "bp-2021-29-9",
+        "team": "London Royal Ravens",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-14",
+        "date": "2021-02-14",
+        "players": [
+          "Alexx",
+          "Dylan",
+          "Parasite",
+          "Seany"
+        ],
+        "source": "https://breakingpoint.gg/match/22209"
+      }
+    ]
+  },
+  {
+    "id": "cn-84979e9b4b0aa0",
+    "season": 2025,
+    "tiles": [
+      "04",
+      "RenKoR",
+      "Khhx",
+      "Lucky",
+      "Priestahh",
+      "Skyz",
+      "Exnid",
+      "Lynz",
+      "Abuzah",
+      "ReeaL",
+      "MettalZ",
+      "KiSMET",
+      "Roxas",
+      "Nastie",
+      "Hicksy",
+      "KingAbody"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2025-54-61",
+        "team": "LA Guerrillas M8",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "KiSMET",
+          "Lynz",
+          "Priestahh",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/93815"
+      },
+      {
+        "rosterId": "bp-2025-54-62",
+        "team": "Vegas Falcons",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Exnid",
+          "Khhx",
+          "KingAbody",
+          "Roxas"
+        ],
+        "source": "https://breakingpoint.gg/match/93817"
+      },
+      {
+        "rosterId": "bp-2025-54-27",
+        "team": "Miami Heretics",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "Lucky",
+          "MettalZ",
+          "ReeaL",
+          "RenKoR"
+        ],
+        "source": "https://breakingpoint.gg/match/93819"
+      },
+      {
+        "rosterId": "bp-2025-54-3",
+        "team": "Vancouver Surge",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-07",
+        "date": "2024-12-07",
+        "players": [
+          "04",
+          "Abuzah",
+          "Hicksy",
+          "Nastie"
+        ],
+        "source": "https://breakingpoint.gg/match/93821"
+      }
+    ]
+  },
+  {
+    "id": "cn-101c5db5041f27",
+    "season": 2023,
+    "tiles": [
+      "Brack",
+      "CleanX",
+      "Vikul",
+      "Scrap",
+      "Priestahh",
+      "Scump",
+      "Dashy",
+      "Havok",
+      "HyDra",
+      "Standy",
+      "Shotzzy",
+      "KiSMET",
+      "iLLeY",
+      "Skyz",
+      "MajorManiak",
+      "Insight"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2023-17-4",
+        "team": "OpTic Texas",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Dashy",
+          "iLLeY",
+          "Scump",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/5901"
+      },
+      {
+        "rosterId": "bp-2023-17-12",
+        "team": "Toronto Ultra",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "CleanX",
+          "Insight",
+          "Scrap",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/5903"
+      },
+      {
+        "rosterId": "bp-2023-17-5",
+        "team": "New York Subliners",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "HyDra",
+          "KiSMET",
+          "Priestahh",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/5904"
+      },
+      {
+        "rosterId": "bp-2023-17-7",
+        "team": "Florida Mutineers",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-04",
+        "date": "2022-12-04",
+        "players": [
+          "Brack",
+          "Havok",
+          "MajorManiak",
+          "Vikul"
+        ],
+        "source": "https://breakingpoint.gg/match/5906"
+      }
+    ]
+  },
+  {
+    "id": "cn-b5a6fa16fe8fa9",
+    "season": 2024,
+    "tiles": [
+      "JoeDeceives",
+      "Owakening",
+      "Ghosty",
+      "Afro",
+      "Simp",
+      "Diamondcon",
+      "Cellium",
+      "aBeZy",
+      "Accuracy",
+      "Estreal",
+      "Assault",
+      "Lyynnz",
+      "Drazah",
+      "Fame",
+      "Cammy",
+      "Vivid"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2024-39-1",
+        "team": "Atlanta FaZe",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "aBeZy",
+          "Cellium",
+          "Drazah",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/27193"
+      },
+      {
+        "rosterId": "bp-2024-39-2",
+        "team": "Los Angeles Thieves",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Afro",
+          "Cammy",
+          "Ghosty",
+          "JoeDeceives"
+        ],
+        "source": "https://breakingpoint.gg/match/27194"
+      },
+      {
+        "rosterId": "bp-2024-39-11",
+        "team": "Minnesota RØKKR",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Accuracy",
+          "Lyynnz",
+          "Owakening",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/27197"
+      },
+      {
+        "rosterId": "bp-2024-39-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Assault",
+          "Diamondcon",
+          "Estreal",
+          "Fame"
+        ],
+        "source": "https://breakingpoint.gg/match/27198"
+      }
+    ]
+  },
+  {
+    "id": "cn-7b4f5a488834bf",
+    "season": 2025,
+    "tiles": [
+      "Skyz",
+      "KiSMET",
+      "TJHaLy",
+      "Gwinn",
+      "Priestahh",
+      "SlasheR",
+      "Khhx",
+      "KingAbody",
+      "Pred",
+      "Vivid",
+      "Shotzzy",
+      "Kenny",
+      "Lynz",
+      "Dashy",
+      "Exnid",
+      "Roxas"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2025-54-61",
+        "team": "LA Guerrillas M8",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "KiSMET",
+          "Lynz",
+          "Priestahh",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/93815"
+      },
+      {
+        "rosterId": "bp-2025-54-4",
+        "team": "OpTic Texas",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Dashy",
+          "Kenny",
+          "Pred",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/93816"
+      },
+      {
+        "rosterId": "bp-2025-54-62",
+        "team": "Vegas Falcons",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Exnid",
+          "Khhx",
+          "KingAbody",
+          "Roxas"
+        ],
+        "source": "https://breakingpoint.gg/match/93817"
+      },
+      {
+        "rosterId": "bp-2025-54-26",
+        "team": "Carolina Royal Ravens",
+        "season": 2025,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2024-12-06",
+        "date": "2024-12-06",
+        "players": [
+          "Gwinn",
+          "SlasheR",
+          "TJHaLy",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/93817"
+      }
+    ]
+  },
+  {
+    "id": "cn-410e8bfd152b6f",
+    "season": 2024,
+    "tiles": [
+      "CleanX",
+      "Clayster",
+      "Envoy",
+      "Vivid",
+      "Accuracy",
+      "GodRx",
+      "Insight",
+      "Gwinn",
+      "Owakening",
+      "Pred",
+      "Lyynnz",
+      "Dashy",
+      "Shotzzy",
+      "ReeaL",
+      "Scrap",
+      "Kenny"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2024-39-4",
+        "team": "OpTic Texas",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-08",
+        "date": "2023-12-08",
+        "players": [
+          "Dashy",
+          "Kenny",
+          "Pred",
+          "Shotzzy"
+        ],
+        "source": "https://breakingpoint.gg/match/27195"
+      },
+      {
+        "rosterId": "bp-2024-39-26",
+        "team": "Carolina Royal Ravens",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Clayster",
+          "GodRx",
+          "Gwinn",
+          "ReeaL"
+        ],
+        "source": "https://breakingpoint.gg/match/27196"
+      },
+      {
+        "rosterId": "bp-2024-39-11",
+        "team": "Minnesota RØKKR",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "Accuracy",
+          "Lyynnz",
+          "Owakening",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/27197"
+      },
+      {
+        "rosterId": "bp-2024-39-12",
+        "team": "Toronto Ultra",
+        "season": 2024,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2023-12-09",
+        "date": "2023-12-09",
+        "players": [
+          "CleanX",
+          "Envoy",
+          "Insight",
+          "Scrap"
+        ],
+        "source": "https://breakingpoint.gg/match/27198"
+      }
+    ]
+  },
+  {
+    "id": "cn-055235167593b5",
+    "season": 2021,
+    "tiles": [
+      "Attach",
+      "HyDra",
+      "Skyz",
+      "Cammy",
+      "Havok",
+      "CleanX",
+      "Neptune",
+      "Owakening",
+      "Asim",
+      "Clayster",
+      "Insight",
+      "Standy",
+      "Priestahh",
+      "MajorManiak",
+      "Bance",
+      "Mack"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2021-38-11",
+        "team": "Minnesota RØKKR",
+        "season": 2021,
+        "event": "CDL Championship · بطولة العالم · 2021-08-19",
+        "date": "2021-08-19",
+        "players": [
+          "Attach",
+          "MajorManiak",
+          "Priestahh",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/22952"
+      },
+      {
+        "rosterId": "bp-2021-38-5",
+        "team": "New York Subliners",
+        "season": 2021,
+        "event": "CDL Championship · بطولة العالم · 2021-08-19",
+        "date": "2021-08-19",
+        "players": [
+          "Asim",
+          "Clayster",
+          "HyDra",
+          "Mack"
+        ],
+        "source": "https://breakingpoint.gg/match/22953"
+      },
+      {
+        "rosterId": "bp-2021-38-7",
+        "team": "Florida Mutineers",
+        "season": 2021,
+        "event": "CDL Championship · بطولة العالم · 2021-08-19",
+        "date": "2021-08-19",
+        "players": [
+          "Havok",
+          "Neptune",
+          "Owakening",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/22955"
+      },
+      {
+        "rosterId": "bp-2021-38-12",
+        "team": "Toronto Ultra",
+        "season": 2021,
+        "event": "CDL Championship · بطولة العالم · 2021-08-20",
+        "date": "2021-08-20",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Insight"
+        ],
+        "source": "https://breakingpoint.gg/match/22719"
+      }
+    ]
+  },
+  {
+    "id": "cn-5ceefed7930f57",
+    "season": 2023,
+    "tiles": [
+      "Nero",
+      "Vivid",
+      "Bance",
+      "Methodz",
+      "Attach",
+      "Drazah",
+      "Afro",
+      "HyDra",
+      "Cammy",
+      "Octane",
+      "Priestahh",
+      "Owakening",
+      "Kenny",
+      "Envoy",
+      "KiSMET",
+      "Skyz"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2023-17-6",
+        "team": "Boston Breach",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Methodz",
+          "Nero",
+          "Owakening",
+          "Vivid"
+        ],
+        "source": "https://breakingpoint.gg/match/5899"
+      },
+      {
+        "rosterId": "bp-2023-17-11",
+        "team": "Minnesota RØKKR",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Afro",
+          "Attach",
+          "Bance",
+          "Cammy"
+        ],
+        "source": "https://breakingpoint.gg/match/5901"
+      },
+      {
+        "rosterId": "bp-2023-17-2",
+        "team": "Los Angeles Thieves",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-02",
+        "date": "2022-12-02",
+        "players": [
+          "Drazah",
+          "Envoy",
+          "Kenny",
+          "Octane"
+        ],
+        "source": "https://breakingpoint.gg/match/5900"
+      },
+      {
+        "rosterId": "bp-2023-17-5",
+        "team": "New York Subliners",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "HyDra",
+          "KiSMET",
+          "Priestahh",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/5904"
+      }
+    ]
+  },
+  {
+    "id": "cn-b37bcc4f807b65",
+    "season": 2021,
+    "tiles": [
+      "Asim",
+      "Methodz",
+      "Temp",
+      "CleanX",
+      "Dashy",
+      "Bance",
+      "Scump",
+      "Cammy",
+      "Diamondcon",
+      "Envoy",
+      "FormaL",
+      "Clayster",
+      "TJHaLy",
+      "SlasheR",
+      "Mack",
+      "Kenny"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2021-29-2",
+        "team": "Los Angeles Thieves",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-11",
+        "date": "2021-02-11",
+        "players": [
+          "Kenny",
+          "SlasheR",
+          "Temp",
+          "TJHaLy"
+        ],
+        "source": "https://breakingpoint.gg/match/22205"
+      },
+      {
+        "rosterId": "bp-2021-29-17",
+        "team": "OpTic Chicago",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-12",
+        "date": "2021-02-12",
+        "players": [
+          "Dashy",
+          "Envoy",
+          "FormaL",
+          "Scump"
+        ],
+        "source": "https://breakingpoint.gg/match/22725"
+      },
+      {
+        "rosterId": "bp-2021-29-12",
+        "team": "Toronto Ultra",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Bance",
+          "Cammy",
+          "CleanX",
+          "Methodz"
+        ],
+        "source": "https://breakingpoint.gg/match/22207"
+      },
+      {
+        "rosterId": "bp-2021-29-5",
+        "team": "New York Subliners",
+        "season": 2021,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2021-02-13",
+        "date": "2021-02-13",
+        "players": [
+          "Asim",
+          "Clayster",
+          "Diamondcon",
+          "Mack"
+        ],
+        "source": "https://breakingpoint.gg/match/22208"
+      }
+    ]
+  },
+  {
+    "id": "cn-f1c56552fb93c2",
+    "season": 2022,
+    "tiles": [
+      "Capsidal",
+      "Cellium",
+      "MajorManiak",
+      "Attach",
+      "aBeZy",
+      "Methodz",
+      "Nero",
+      "Priestahh",
+      "Gismo",
+      "Zer0",
+      "Simp",
+      "Standy",
+      "Afro",
+      "TJHaLy",
+      "Nastie",
+      "Arcitys"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2022-3-9",
+        "team": "London Royal Ravens",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Afro",
+          "Gismo",
+          "Nastie",
+          "Zer0"
+        ],
+        "source": "https://breakingpoint.gg/match/23200"
+      },
+      {
+        "rosterId": "bp-2022-3-6",
+        "team": "Boston Breach",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-04",
+        "date": "2022-02-04",
+        "players": [
+          "Capsidal",
+          "Methodz",
+          "Nero",
+          "TJHaLy"
+        ],
+        "source": "https://breakingpoint.gg/match/23201"
+      },
+      {
+        "rosterId": "bp-2022-3-1",
+        "team": "Atlanta FaZe",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-05",
+        "date": "2022-02-05",
+        "players": [
+          "aBeZy",
+          "Arcitys",
+          "Cellium",
+          "Simp"
+        ],
+        "source": "https://breakingpoint.gg/match/23203"
+      },
+      {
+        "rosterId": "bp-2022-3-11",
+        "team": "Minnesota RØKKR",
+        "season": 2022,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-02-06",
+        "date": "2022-02-06",
+        "players": [
+          "Attach",
+          "MajorManiak",
+          "Priestahh",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/23209"
+      }
+    ]
+  },
+  {
+    "id": "cn-98b9756af689cf",
+    "season": 2023,
+    "tiles": [
+      "Scrap",
+      "Neptune",
+      "Standy",
+      "Arcitys",
+      "Insight",
+      "Huke",
+      "HyDra",
+      "Brack",
+      "Priestahh",
+      "Spart",
+      "MajorManiak",
+      "KiSMET",
+      "Havok",
+      "CleanX",
+      "Skyz",
+      "Vikul"
+    ],
+    "groups": [
+      {
+        "rosterId": "bp-2023-17-10",
+        "team": "Los Angeles Guerrillas",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "Arcitys",
+          "Huke",
+          "Neptune",
+          "Spart"
+        ],
+        "source": "https://breakingpoint.gg/match/5902"
+      },
+      {
+        "rosterId": "bp-2023-17-12",
+        "team": "Toronto Ultra",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "CleanX",
+          "Insight",
+          "Scrap",
+          "Standy"
+        ],
+        "source": "https://breakingpoint.gg/match/5903"
+      },
+      {
+        "rosterId": "bp-2023-17-5",
+        "team": "New York Subliners",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-03",
+        "date": "2022-12-03",
+        "players": [
+          "HyDra",
+          "KiSMET",
+          "Priestahh",
+          "Skyz"
+        ],
+        "source": "https://breakingpoint.gg/match/5904"
+      },
+      {
+        "rosterId": "bp-2023-17-7",
+        "team": "Florida Mutineers",
+        "season": 2023,
+        "event": "CDL Major 1 Qualifier · افتتاح الموسم · 2022-12-04",
+        "date": "2022-12-04",
+        "players": [
+          "Brack",
+          "Havok",
+          "MajorManiak",
+          "Vikul"
+        ],
+        "source": "https://breakingpoint.gg/match/5906"
+      }
+    ]
+  }
+]

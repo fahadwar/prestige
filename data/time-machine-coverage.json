@@ -1,0 +1,270 @@
+{
+  "questions": 284,
+  "bySeason": {
+    "2017": 26,
+    "2018": 80,
+    "2019": 80,
+    "2020": 21,
+    "2021": 15,
+    "2022": 7,
+    "2023": 13,
+    "2024": 14,
+    "2025": 12,
+    "2026": 16
+  },
+  "excludedGroups": [
+    {
+      "team": "Atlanta FaZe",
+      "players": [
+        "aBeZy",
+        "Arcitys",
+        "Cellium",
+        "Simp"
+      ],
+      "seasons": [
+        2021,
+        2022
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "Atlanta FaZe",
+      "players": [
+        "aBeZy",
+        "Cellium",
+        "Drazah",
+        "Simp"
+      ],
+      "seasons": [
+        2024,
+        2025
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "eUnited",
+      "players": [
+        "Arcitys",
+        "Clayster",
+        "Prestinni",
+        "Silly"
+      ],
+      "seasons": [
+        2017,
+        2018
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "GGEA Orange",
+      "players": [
+        "Believe",
+        "Mayhem",
+        "Nova",
+        "Spoof"
+      ],
+      "seasons": [
+        2017,
+        2018
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "Ghost Gaming",
+      "players": [
+        "Lacefield",
+        "LlamaGod",
+        "Maux",
+        "SpaceLy"
+      ],
+      "seasons": [
+        2017,
+        2018
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "Los Angeles Thieves",
+      "players": [
+        "Drazah",
+        "Envoy",
+        "Kenny",
+        "Octane"
+      ],
+      "seasons": [
+        2022,
+        2023
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "Miami Heretics",
+      "players": [
+        "MettalZ",
+        "ReeaL",
+        "RenKoR",
+        "SupeR"
+      ],
+      "seasons": [
+        2025,
+        2026
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "Mindfreak",
+      "players": [
+        "Buzzo",
+        "Denz",
+        "Fighta",
+        "Shockz"
+      ],
+      "seasons": [
+        2017,
+        2018
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "Minnesota RØKKR",
+      "players": [
+        "Attach",
+        "MajorManiak",
+        "Priestahh",
+        "Standy"
+      ],
+      "seasons": [
+        2021,
+        2022
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "OpTic Gaming",
+      "players": [
+        "Crimsix",
+        "Formal",
+        "Karma",
+        "Scump"
+      ],
+      "seasons": [
+        2017,
+        2018
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "OpTic Texas",
+      "players": [
+        "Dashy",
+        "Huke",
+        "Mercules",
+        "Shotzzy"
+      ],
+      "seasons": [
+        2025,
+        2026
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "OpTic Texas",
+      "players": [
+        "Dashy",
+        "iLLeY",
+        "Scump",
+        "Shotzzy"
+      ],
+      "seasons": [
+        2022,
+        2023
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "OpTic Texas",
+      "players": [
+        "Dashy",
+        "Kenny",
+        "Pred",
+        "Shotzzy"
+      ],
+      "seasons": [
+        2024,
+        2025
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "Rogue",
+      "players": [
+        "GodRx",
+        "Johnny",
+        "Pandur",
+        "Stamino"
+      ],
+      "seasons": [
+        2017,
+        2018
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "Seattle Surge",
+      "players": [
+        "Accuracy",
+        "Mack",
+        "Pred",
+        "Sib"
+      ],
+      "seasons": [
+        2022,
+        2023
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "SiNister",
+      "players": [
+        "GodRx",
+        "Johnny",
+        "Pandur",
+        "Stamino"
+      ],
+      "seasons": [
+        2017,
+        2018
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "Team Allegiance",
+      "players": [
+        "Believe",
+        "Mayhem",
+        "Nova",
+        "Spoof"
+      ],
+      "seasons": [
+        2017,
+        2018
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    },
+    {
+      "team": "Toronto Ultra",
+      "players": [
+        "Bance",
+        "Cammy",
+        "CleanX",
+        "Insight"
+      ],
+      "seasons": [
+        2021,
+        2022
+      ],
+      "reason": "lineup_observed_in_multiple_seasons"
+    }
+  ],
+  "rule": "Reject any full normalized lineup seen in multiple seasons in the entire bundled archive, including under another team name."
+}

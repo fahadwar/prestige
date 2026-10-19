@@ -1,0 +1,471 @@
+{
+  "reviewedOn": "2026-10-17",
+  "files": {
+    "Scump": {
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Scump_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 320,
+      "thumbheight": 361,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Scump_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 320,
+        "height": 361
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Scump_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Scump_2018.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92195001",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-07-13 09:47:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Scump 2018",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media from YouTube|Files from external sources with reviewed licenses|Scump|Still images from videos|Men wearing glasses|Men smiling with teeth|Men wearing gray shirts",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Scump in 2018",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-08-21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=lf00DplANWM\"><bdi lang=\"\">https://www.youtube.com/watch?v=lf00DplANWM</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=lf00DplANWM\">archive.org</a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "OpTic Gaming",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "Aches": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Aches_interview_2013_%28cropped%29.jpg/330px-Aches_interview_2013_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 320,
+      "thumbheight": 368,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aches_interview_2013_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Aches_interview_2013_%28cropped%29.jpg/330px-Aches_interview_2013_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 320,
+        "height": 368,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aches_interview_2013_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aches_interview_2013_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aches_interview_2013_(cropped).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128446953",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-02-06 02:07:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Aches interview 2013 (cropped)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media from YouTube|Complexity Gaming|Extracted images|Aches",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Aches in an interview after MLG Anaheim 2013",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-09-16",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=fthw3SilW2U\"><bdi lang=\"\">https://www.youtube.com/watch?v=fthw3SilW2U</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=fthw3SilW2U\">archive.org</a></bdi> (~0:45)",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Call of Duty League",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "Clayster": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Clayster_on_The_Codcast.jpg/330px-Clayster_on_The_Codcast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 320,
+      "thumbheight": 293,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Clayster_on_The_Codcast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Clayster_on_The_Codcast.jpg/330px-Clayster_on_The_Codcast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 320,
+        "height": 293,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Clayster_on_The_Codcast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Clayster_on_The_Codcast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Clayster_on_The_Codcast.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128448536",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-02-06 04:51:58",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Clayster on The Codcast",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media from YouTube|Esports players from the United States|Call of Duty players",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Clayster on The Codcast #27",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-04-30",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=cdpnwAosEMg\"><bdi lang=\"\">https://www.youtube.com/watch?v=cdpnwAosEMg</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=cdpnwAosEMg\">archive.org</a></bdi> (~0:10)",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@OGNameLeSs\">Nameless</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "Crimsix": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Crimsix_in_2016.jpg/330px-Crimsix_in_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 320,
+      "thumbheight": 406,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Crimsix_in_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Crimsix_in_2016.jpg/330px-Crimsix_in_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 320,
+        "height": 406,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Crimsix_in_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Crimsix_in_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crimsix_in_2016.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116946770",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-04-17 04:23:31",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Crimsix in 2016",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media from YouTube|Call of Duty players",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ian \"Crimsix\" Porter in 2016",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-12-29",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=VpOaRx3N38A\"><bdi lang=\"\">https://www.youtube.com/watch?v=VpOaRx3N38A</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=VpOaRx3N38A\">archive.org</a></bdi> (~9:20)",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Crimsix",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "Karma": {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Karma_during_COD_Roundtable.jpg/330px-Karma_during_COD_Roundtable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 320,
+      "thumbheight": 372,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Karma_during_COD_Roundtable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Karma_during_COD_Roundtable.jpg/330px-Karma_during_COD_Roundtable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 320,
+        "height": 372,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Karma_during_COD_Roundtable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Karma_during_COD_Roundtable.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karma_during_COD_Roundtable.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128449588",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-02-06 06:22:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Karma during COD Roundtable",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media from YouTube|Karma (gamer)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Karma during COD Roundtable",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-01-20",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=zUZiGf0swMI\"><bdi lang=\"\">https://www.youtube.com/watch?v=zUZiGf0swMI</bdi></a> \u2013 View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=zUZiGf0swMI\">archive.org</a></bdi> (~5:12)",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "OpTic Gaming",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  }
+}
