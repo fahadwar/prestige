@@ -1,0 +1,34 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import ts from 'typescript';
+const source=fs.readFileSync('lib/server/liquipedia.ts','utf8');
+const js=ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText;
+const {probeLiquipedia,isLiquipediaAdmin,transferEndpoint}=await import('data:text/javascript;base64,'+Buffer.from(js).toString('base64'));
+assert.equal(isLiquipediaAdmin(null,'owner@example.test'),false);
+assert.equal(isLiquipediaAdmin('other@example.test','owner@example.test'),false);
+assert.equal(isLiquipediaAdmin('OWNER@example.test','owner@example.test'),true);
+assert.equal(isLiquipediaAdmin('owner@example.test',undefined),false);
+let calls=0;
+assert.equal((await probeLiquipedia(undefined,()=>{calls++;throw Error('must not fetch');})).ok,false);assert.equal(calls,0);
+const secret='test-only-not-a-real-key';
+const good=await probeLiquipedia(secret,async(url,options)=>{assert.equal(url,transferEndpoint);assert.equal(options.redirect,'error');assert.equal(options.headers.Authorization,'Apikey '+secret);assert.equal(options.method,'GET');assert.ok(options.signal);return Response.json({result:[{player:'Fixture'}]});});
+assert.equal(good.ok,true);assert.deepEqual(good.arrayCounts,{result:1});
+for(const response of [new Response(secret,{status:401}),Response.json({error:secret}),Response.json({errors:[secret]}),Response.json({unexpected:secret}),new Response('not JSON'),Response.json({result:[{note:'x'.repeat(270000)}]})]){
+ const result=await probeLiquipedia(secret,async()=>response);assert.equal(result.ok,false);assert.ok(!JSON.stringify(result).includes(secret));
+}
+const failed=await probeLiquipedia(secret,async()=>{throw Error(secret);});assert.equal(failed.ok,false);assert.ok(!JSON.stringify(failed).includes(secret));
+const route=fs.readFileSync('app/api/admin/liquipedia/probe/route.ts','utf8');
+let user=null,probes=0;
+globalThis.__liquipediaTest={env:{LIQUIPEDIA_ADMIN_EMAIL:'owner@example.test',LIQUIPEDIA_API_KEY:secret},getChatGPTUser:async()=>user,isLiquipediaAdmin,probeLiquipedia:async()=>{probes++;return {ok:true};}};
+const isolated='const {env,getChatGPTUser,isLiquipediaAdmin,probeLiquipedia}=globalThis.__liquipediaTest;\n'+route.replace(/^import .*;\n/gm,'');
+const routeJs=ts.transpileModule(isolated,{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText;
+const {POST}=await import('data:text/javascript;base64,'+Buffer.from(routeJs).toString('base64'));
+const request=origin=>new Request('https://games.cdlarabic.com/api/admin/liquipedia/probe',{method:'POST',headers:origin?{Origin:origin}:{}});
+assert.equal((await POST(request('https://games.cdlarabic.com'))).status,401);
+user={email:'other@example.test'};assert.equal((await POST(request('https://games.cdlarabic.com'))).status,403);
+user={email:'owner@example.test'};assert.equal((await POST(request('https://example.test'))).status,403);
+assert.equal((await POST(request(null))).status,403);assert.equal(probes,0);
+assert.equal((await POST(request('https://games.cdlarabic.com'))).status,200);assert.equal(probes,1);
+assert.equal((await POST(request('https://games.cdlarabic.com'))).status,429);assert.equal(probes,1);
+delete globalThis.__liquipediaTest;
+console.log('PASS: owner/anonymous/cross-origin authorization, cooldown, fixed API request, bounded responses and credential-safe errors.');
