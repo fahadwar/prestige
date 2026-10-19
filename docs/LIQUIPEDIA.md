@@ -17,3 +17,7 @@ After a successful authenticated request, review the current API schema and the 
 Source repository: https://github.com/fahadwar/prestige
 
 Verification: `node scripts/test-liquipedia.mjs`. A real authenticated production request remains required; mocked tests do not establish live connectivity.
+
+## Diagnostic update
+
+The first production test returned HTTP 502 after 12 ms; this was not a 15-second timeout. The original catch block hid the cause. The updated probe reports the failing stage and redacted runtime error, distinguishes invalid JSON from request failures, and reports HTTP redirects without following them. It uses a no-store request header rather than the optional fetch cache mode for runtime compatibility. Raw API response bodies, redirect locations and JSON parser messages remain hidden. Diagnostic messages redact the configured key, its URL-encoded and base64 forms, and Apikey authorization values before truncation. API connectivity is still pending a new owner-triggered test.
