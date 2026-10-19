@@ -38,3 +38,25 @@ assert.equal((await api.POST(new Request('https://test.local/api/missing-player'
 console.log('PASS: missing-player HTTP handlers: daily/practice payloads, hidden answers, server validation, malformed/oversized requests and no-store headers.');
 
 const rosterApi=load('app/api/game/route.ts');for(let year=2020;year<=2026;year++){for(const handler of [api,rosterApi]){const res=await handler.GET(new Request('https://test.local/api/game?mode=practice&season='+year));assert.equal(res.status,200);const data=await res.json();assert.equal(data.question.season,year);assert.equal(data.question.rosterSize,year===2020?5:4);assert.equal(data.question.players,undefined);}}console.log('PASS: both games serve every modern season, correct roster sizes and no answer lists.');
+
+// Replay the round in order: the winning guess or sixth mistake is the last
+// allowed action. Valid completed rounds must still restore and share normally.
+for(const size of [4,5]){
+ const q=rosters.find(q=>q.rosterSize===size);
+ const wrong=players.filter(p=>!q.players.some(c=>normalize(c)===normalize(p))).filter((p,i,a)=>a.findIndex(c=>normalize(c)===normalize(p))===i).slice(0,6);
+ for(const guesses of [[...q.players,wrong[0]],[...wrong,q.players[0]],[...wrong,...q.players.slice(0,size-1)]]){
+  assert.throws(()=>evaluate(q.id,guesses,0),/انتهى التحدي بالفعل/);
+  const response=await rosterApi.POST(new Request('https://test.local/api/game',{method:'POST',body:JSON.stringify({id:q.id,mode:'practice',guesses,hints:0})}));
+  assert.equal(response.status,400);assert.equal((await response.json()).score,undefined);
+ }
+ const lastWin=[...wrong.slice(0,5),...q.players],won=evaluate(q.id,lastWin,0);
+ assert.equal(won.won,true);assert.equal(won.score,size*100+100-125);
+ const lastLoss=[...q.players.slice(0,size-1),...wrong],lost=evaluate(q.id,lastLoss,0);
+ assert.equal(lost.done,true);assert.equal(lost.won,false);assert.equal(lost.wrong,6);assert.equal(lost.score,Math.max(0,(size-1)*100-150));
+ for(const guesses of [q.players,lastWin,lastLoss]){
+  const response=await rosterApi.POST(new Request('https://test.local/api/game',{method:'POST',body:JSON.stringify({id:q.id,mode:'practice',guesses,hints:0})}));
+  assert.equal(response.status,200);assert.equal((await response.json()).done,true);
+ }
+ assert.equal(evaluate(q.id,[q.players[0]],1,true).done,true);
+}
+console.log('PASS: four/five-player roster requests reject post-win and post-sixth-mistake guesses; valid last-action wins/losses and completed-round replays remain accepted.');
