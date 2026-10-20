@@ -1,9 +1,10 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import ts from 'typescript';
-const source=fs.readFileSync('lib/server/liquipedia.ts','utf8');
-const js=ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText;
-const {probeLiquipedia,isLiquipediaAdmin,transferEndpoint,safeDiagnostic}=await import('data:text/javascript;base64,'+Buffer.from(js).toString('base64'));
+import Module from 'node:module';
+import path from 'node:path';
+const modules=new Map();function load(file){const filename=path.resolve(file);if(modules.has(filename))return modules.get(filename).exports;const m=new Module(filename);m.filename=filename;m.paths=Module._nodeModulePaths(path.dirname(filename));const original=m.require.bind(m);m.require=id=>id.startsWith('.')?load(path.resolve(path.dirname(filename),id+'.ts')):original(id);modules.set(filename,m);m._compile(ts.transpileModule(fs.readFileSync(filename,'utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022}}).outputText,filename);return m.exports;}
+const {probeLiquipedia,isLiquipediaAdmin,transferEndpoint,safeDiagnostic}=load('lib/server/liquipedia.ts');
 assert.equal(isLiquipediaAdmin(null,'owner@example.test'),false);
 assert.equal(isLiquipediaAdmin('other@example.test','owner@example.test'),false);
 assert.equal(isLiquipediaAdmin('OWNER@example.test','owner@example.test'),true);
@@ -25,8 +26,8 @@ const awkward='test+/=key';assert.ok(!safeDiagnostic(Error(awkward+' '+encodeURI
 const runtime=await probeLiquipedia(secret,async()=>{throw new TypeError('Unsupported cache mode: no-store');});assert.equal(runtime.diagnostic.detail,'Unsupported cache mode: no-store');assert.equal(runtime.diagnostic.stage,'request');
 const route=fs.readFileSync('app/api/admin/liquipedia/probe/route.ts','utf8');
 let user=null,probes=0;
-globalThis.__liquipediaTest={env:{LIQUIPEDIA_ADMIN_EMAIL:'owner@example.test',LIQUIPEDIA_API_KEY:secret},getChatGPTUser:async()=>user,isLiquipediaAdmin,probeLiquipedia:async()=>{probes++;return {ok:true};}};
-const isolated='const {env,getChatGPTUser,isLiquipediaAdmin,probeLiquipedia}=globalThis.__liquipediaTest;\n'+route.replace(/^import .*;\n/gm,'');
+globalThis.__liquipediaTest={env:{LIQUIPEDIA_ADMIN_EMAIL:'owner@example.test',LIQUIPEDIA_API_KEY:secret},getChatGPTUser:async()=>user,isLiquipediaAdmin,probeLiquipedia:async()=>{probes++;return {ok:true};},createLiquipediaFetch:()=>async()=>Response.json({result:[]})};
+const isolated='const {env,getChatGPTUser,isLiquipediaAdmin,probeLiquipedia,createLiquipediaFetch}=globalThis.__liquipediaTest;\n'+route.replace(/^import .*;\n/gm,'');
 const routeJs=ts.transpileModule(isolated,{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText;
 const {POST}=await import('data:text/javascript;base64,'+Buffer.from(routeJs).toString('base64'));
 const request=origin=>new Request('https://games.cdlarabic.com/api/admin/liquipedia/probe',{method:'POST',headers:origin?{Origin:origin}:{}});
@@ -35,6 +36,6 @@ user={email:'other@example.test'};assert.equal((await POST(request('https://game
 user={email:'owner@example.test'};assert.equal((await POST(request('https://example.test'))).status,403);
 assert.equal((await POST(request(null))).status,403);assert.equal(probes,0);
 assert.equal((await POST(request('https://games.cdlarabic.com'))).status,200);assert.equal(probes,1);
-assert.equal((await POST(request('https://games.cdlarabic.com'))).status,429);assert.equal(probes,1);
+assert.equal((await POST(request('https://games.cdlarabic.com'))).status,200);assert.equal(probes,2);
 delete globalThis.__liquipediaTest;
-console.log('PASS: owner/anonymous/cross-origin authorization, cooldown, fixed API request, bounded responses and credential-safe errors.');
+console.log('PASS: owner/anonymous/cross-origin authorization, fixed API request, bounded responses and credential-safe errors.');

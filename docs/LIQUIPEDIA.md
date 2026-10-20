@@ -1,23 +1,29 @@
 # Liquipedia API connection
 
-The approved LiquipediaDB v3 API is the only new Liquipedia data path. No scraping is implemented.
+PRESTIGE uses the approved LiquipediaDB v3 API for the Call of Duty wiki. No scraping or background collection runs. The connection test does not import or change game data.
 
-## Configuration
+## Configuration and access
 
-Set `LIQUIPEDIA_API_KEY` as a hosted Site secret. `LIQUIPEDIA_ADMIN_EMAIL` is the verified Site owner's ChatGPT email, also stored as a secret. Neither value belongs in Git, the hosting manifest, browser code, request query strings, or logs. Deploy after updating hosted values.
+Store `LIQUIPEDIA_API_KEY` and the verified owner email `LIQUIPEDIA_ADMIN_EMAIL` as hosted Site secrets. Never put them in Git, browser code, URLs or logs. The owner-only `/admin/liquipedia` page requires the trusted ChatGPT identity; its POST endpoint rejects anonymous, non-owner and cross-origin requests.
 
-Visit `/admin/liquipedia`, sign in with the owner's ChatGPT account, and select **Test Liquipedia connection**. The server makes one GET to `https://api.liquipedia.net/api/v3/transfer?wiki=callofduty&limit=1` with `Authorization: Apikey …`. Redirects are rejected, responses are bounded to 256 KiB, and requests time out after 15 seconds. Only status and known result-array counts are returned; upstream bodies and credentials are never displayed or saved. A one-minute per-isolate cooldown limits accidental repeat clicks; this is not a global rate limiter. No background collection runs.
+The connection test requests `/api/v3/transfer?wiki=callofduty&limit=1`. Only status, result counts, sanitized warnings and cache metadata reach the browser. A successful authenticated production request was confirmed on October 19, 2026. Tests use fixtures and make no live API requests.
 
-The endpoint rejects anonymous, non-owner and cross-origin requests. The owner-only page is excluded from indexing. This connection check does not prove career completeness, license clearance, complete coverage or successful import.
+## Shared request budget and cache
 
-## Next phase
+All production API requests go through `createLiquipediaFetch` in `lib/server/liquipedia-storage.ts`. The gateway allows only GET requests to the documented player, team, squadplayer, transfer, teamtemplate and teamtemplatelist API endpoints on api.liquipedia.net, with `wiki=callofduty`. Team template list collection must use its documented `pagination` parameter. No bulk collection is implemented yet.
 
-After a successful authenticated request, review the current API schema and the approval's precise usage/license terms. Implement bounded collection into review staging with source URLs, fetch timestamps, deterministic IDs, deduplication, dry-run and rollback. Preserve curated Arabic labels separately. Show Liquipedia credit near any released data and retain applicable attribution and share-alike notices. Do not change frozen daily schedules or unlock Career Path until its existing full-history eligibility checks pass. Send the live project link to Liquipedia through the user's approved communication channel once running; this repository does not send messages.
+The existing private R2 binding `BUCKET` stores a shared request ledger and response cache under `liquipedia/v1/`. Conditional object writes reserve each outbound attempt before sending it, across endpoints and server instances. Every attempt, including failures, counts toward a rolling maximum of 60 per hour. Requests are also spaced by at least 65 seconds. Cached requests consume no upstream quota. This budget covers this Site; other applications using the same key must not spend an independent allowance.
 
-Source repository: https://github.com/fahadwar/prestige
+Successful bounded JSON responses are retained indefinitely and reused without automatic refresh. They include the source API URL and fetch timestamp. A later reviewed collection workflow must explicitly define any refresh process. Failed requests are cached for at least five minutes; upstream Retry-After can extend both the failure cache and shared pause. No automatic retries run. Redirects are rejected, gzip is accepted, responses are limited to 256 KiB, and outbound requests time out after 15 seconds. API errors are handled as failures and warnings are retained.
 
-Verification: `node scripts/test-liquipedia.mjs`. A real authenticated production request remains required; mocked tests do not establish live connectivity.
+The key never forms part of the cache key or stored request metadata. Returned bodies containing the configured key or its encoded forms are rejected before persistence. Upstream failure bodies are discarded.
 
-## Diagnostic update
+Missing or invalid storage blocks new outbound requests. A crash or failed storage write after reservation leaves a pending marker and blocks new requests until operator review; do not clear the ledger automatically. Existing cached responses remain usable. Before any manual recovery, establish that the outstanding request has ended and retain the last hour of reservations plus applicable backoff. Clearing the entire ledger could violate the allowance.
 
-The first production test returned HTTP 502 after 12 ms; this was not a 15-second timeout. The original catch block hid the cause. The updated probe reports the failing stage and redacted runtime error, distinguishes invalid JSON from request failures, and reports HTTP redirects without following them. It uses a no-store request header rather than the optional fetch cache mode for runtime compatibility. Raw API response bodies, redirect locations and JSON parser messages remain hidden. Diagnostic messages redact the configured key, its URL-encoded and base64 forms, and Apikey authorization values before truncation. API connectivity is still pending a new owner-triggered test.
+## Data release requirements
+
+The approval requires nearby Liquipedia attribution, ideally linking to the source; applicable CC-BY-SA 3.0 attribution and share-alike notices; and public open source publication. Source repository: https://github.com/fahadwar/prestige . Send the live project link to Liquipedia through the user-approved communication channel once running; this code does not send messages.
+
+Before imports, add review staging, source URLs and timestamps, deterministic IDs, deduplication, dry-run and rollback. Preserve curated Arabic labels separately. Do not change frozen daily schedules or unlock Career Path until its full-history eligibility checks pass. The connection test does not prove complete coverage or career completeness.
+
+Verification: `node scripts/test-liquipedia.mjs`, `node scripts/test-liquipedia-storage.mjs`, and `npx tsc --noEmit`. Concurrency, quotas, cache and failure behavior are exercised with storage and HTTP fixtures; these tests do not establish live production storage behavior.

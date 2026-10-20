@@ -1,6 +1,7 @@
 // Server-only adapter. Never import this module from a client component.
+import {LiquipediaRequestError} from './liquipedia-storage';
 export const transferEndpoint = 'https://api.liquipedia.net/api/v3/transfer?wiki=callofduty&limit=1';
-export type ProbeResult = {ok:boolean; message:string; upstreamStatus?:number; arrayCounts?:Record<string,number>; checkedAt:string; diagnostic?:{stage:string;code:string;detail?:string}};
+export type ProbeResult = {ok:boolean; message:string; upstreamStatus?:number; arrayCounts?:Record<string,number>; checkedAt:string; httpStatus?:number;retryAfterSeconds?:number;cache?:{source:string;fetchedAt:string|null};warnings?:string[]; diagnostic?:{stage:string;code:string;detail?:string}};
 
 export function safeDiagnostic(error:unknown,key:string):string {
   const messages:string[]=[];let current=error;
@@ -18,7 +19,7 @@ export function isLiquipediaAdmin(email:string|undefined|null, adminEmail:string
   return !!email && !!adminEmail && email.toLowerCase() === adminEmail.toLowerCase();
 }
 
-export async function probeLiquipedia(key:string|undefined, fetcher:typeof fetch=fetch):Promise<ProbeResult> {
+export async function probeLiquipedia(key:string|undefined, fetcher:typeof fetch):Promise<ProbeResult> {
   const checkedAt = new Date().toISOString();
   if (!key?.trim()) return {ok:false,message:'API key is not configured.',checkedAt};
   let stage='request'; let upstreamStatus:number|undefined;
@@ -31,7 +32,8 @@ export async function probeLiquipedia(key:string|undefined, fetcher:typeof fetch
     });
     upstreamStatus=response.status;
     if(response.status>=300&&response.status<400)return {ok:false,message:'Liquipedia redirected the API request. Credentials were not forwarded.',upstreamStatus,checkedAt,diagnostic:{stage:'response',code:'UPSTREAM_REDIRECT'}};
-    if (!response.ok) return {ok:false,message:'Liquipedia rejected the request. Check API permissions and endpoint access.',upstreamStatus:response.status,checkedAt};
+    if (!response.ok) return {ok:false,message:'Liquipedia rejected the request. Check API permissions and endpoint access.',upstreamStatus:response.status,checkedAt,
+      ...(response.status===429?{httpStatus:429,retryAfterSeconds:Math.max(1,Number(response.headers.get('Retry-After'))||3600)}:{})};
     stage='body';
     // Do not return or log upstream bodies: failures may contain credential details.
     const reader=response.body?.getReader();
@@ -58,8 +60,12 @@ export async function probeLiquipedia(key:string|undefined, fetcher:typeof fetch
     const arrayCounts:Record<string,number>={};
     for(const name of ['result','results','data','transfers']) if(Array.isArray(obj[name]))arrayCounts[name]=(obj[name] as unknown[]).length;
     if(!Object.keys(arrayCounts).length)return {ok:false,message:'JSON received, but the transfer response schema needs review.',upstreamStatus:response.status,checkedAt};
-    return {ok:true,message:'Authenticated transfer request succeeded. No game data was changed.',upstreamStatus:response.status,arrayCounts,checkedAt};
+    const cached=response.headers.get('X-Prestige-Cache')==='hit';
+    const warnings=Array.isArray(obj.warning)?obj.warning.filter((s):s is string=>typeof s==='string').map(s=>safeDiagnostic(new Error(s),key)):[];
+    return {ok:true,message:cached?'Stored Liquipedia response reused. No new API request was made.':'Authenticated transfer request succeeded and was cached. No game data was changed.',upstreamStatus:response.status,arrayCounts,checkedAt,
+      cache:{source:cached?'stored':'live',fetchedAt:response.headers.get('X-Prestige-Fetched-At')},...(warnings.length?{warnings}:{})};
   } catch(error) {
+    if(error instanceof LiquipediaRequestError)return {ok:false,message:error.message,httpStatus:error.status,retryAfterSeconds:error.retryAfterSeconds,checkedAt,diagnostic:{stage,code:error.code}};
     const timeout=error instanceof Error&&['TimeoutError','AbortError'].includes(error.name);
     return {ok:false,message:timeout?'Liquipedia request timed out.':'The server could not complete the Liquipedia request.',upstreamStatus,checkedAt,
       diagnostic:{stage,code:timeout?'TIMEOUT':'RUNTIME_ERROR',detail:safeDiagnostic(error,key)}};

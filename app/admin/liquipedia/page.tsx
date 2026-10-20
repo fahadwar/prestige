@@ -11,7 +11,7 @@ export default async function Page(){
     {!user?<a target="_top" href={chatGPTSignInPath('/admin/liquipedia')}>Sign in with ChatGPT</a>:
       !isLiquipediaAdmin(user.email,env.LIQUIPEDIA_ADMIN_EMAIL)?<p>Owner access required.</p>:<>
         <p style={{marginBottom:16}}>API key: {env.LIQUIPEDIA_API_KEY?'configured (value hidden)':'missing'}</p>
-        <p style={{marginBottom:24}}>This sends one server-side Call of Duty transfer request. It does not import records or change any game.</p>
+        <p style={{marginBottom:24}}>Stored results are reused. If no response is cached, this makes one server-side Call of Duty transfer request under the shared hourly limit. It does not import records or change any game.</p>
         <ProbeButton/>
         <p style={{marginTop:24}}>Data source: <a href="https://liquipedia.net/callofduty/Main_Page">Liquipedia Call of Duty</a>. API access only; source and license attribution must accompany any data released in games.</p>
       </>}
