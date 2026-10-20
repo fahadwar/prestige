@@ -1,6 +1,7 @@
 import catalogue from '../../data/players/guess-profiles.json';
 import schedule from './guess-schedule.json';
 import {normalize} from './identity';
+import {importedIdentity} from './liquipedia-identities';
 export const profiles=catalogue.players;
 export const referenceDate=catalogue.referenceDate;
 export function ageAt(birthDate:string,date=referenceDate){const born=new Date(birthDate+'T00:00:00Z'),at=new Date(date+'T00:00:00Z');if(Number.isNaN(+born)||Number.isNaN(+at)||at<born)throw Error('تاريخ غير صالح');return at.getUTCFullYear()-born.getUTCFullYear()-(at.getUTCMonth()<born.getUTCMonth()||at.getUTCMonth()===born.getUTCMonth()&&at.getUTCDate()<born.getUTCDate()?1:0);}
@@ -18,5 +19,5 @@ export function evaluateGuess(id:string,guesses:string[],surrender=false){
   rows.push({...display(p),correct,matches:{country:p.countryCode===target.countryCode,age:age===targetAge?'equal':targetAge>age?'older':'younger',role:p.role===target.role,team:p.team.trim().toLowerCase()===target.team.trim().toLowerCase()}});
  }
  const done=won||guesses.length===6||surrender;
- return {won,done,attempts:guesses.length,remaining:6-guesses.length,rows,score:won?(7-guesses.length)*100:0,maxScore:600,...(done?{answer:display(target)}:{})};
+ return {won,done,attempts:guesses.length,remaining:6-guesses.length,rows,score:won?(7-guesses.length)*100:0,maxScore:600,...(done?{answer:{...display(target),...(importedIdentity(target)?{identity:importedIdentity(target)}:{})}}:{})};
 }

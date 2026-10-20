@@ -1,0 +1,173 @@
+{
+  "report": {
+    "batchId": "lp-ab8cd41f2b9b41dc7ef2",
+    "sourcePlayerRecords": 1500,
+    "sourceTeamRecords": 461,
+    "importedIdentityRecords": 75,
+    "importedLinkedTeamRecords": 22,
+    "newPlayableTargets": 0,
+    "existingPlayableTargets": 104,
+    "playerPagination": "collecting",
+    "teamPagination": "pagination-ended",
+    "rejectedExistingProfiles": [
+      {
+        "profileId": "gp-4810e36673a324",
+        "handle": "Cammy",
+        "reason": "nationality_disagreement"
+      },
+      {
+        "profileId": "gp-87f78585875ec2",
+        "handle": "Chino",
+        "reason": "handle_disagreement_requires_alias_evidence"
+      },
+      {
+        "profileId": "gp-26064df4806f0c",
+        "handle": "Fire",
+        "reason": "handle_disagreement_requires_alias_evidence"
+      },
+      {
+        "profileId": "gp-7ef7b11c98cbc2",
+        "handle": "ReeaL",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-7ae4477050cb13",
+        "handle": "RenKoR",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-4a8ec188dd726e",
+        "handle": "Roxas",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-a93da88a7b4a0f",
+        "handle": "Scrap",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-a14958df23489f",
+        "handle": "Scump",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-603523876f753e",
+        "handle": "Seany",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-7e594de8609bef",
+        "handle": "Shotzzy",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-17eb1c056a504d",
+        "handle": "Sib",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-5b10c5273427a6",
+        "handle": "Simp",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-ad42c2c5a96ae1",
+        "handle": "Skrapz",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-e850e8e3b4efce",
+        "handle": "Skyz",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-5e75d029d5bbea",
+        "handle": "Slacked",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-4846e311022632",
+        "handle": "SlasheR",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-fb251b5f64b0ea",
+        "handle": "Snoopy",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-91f29a9594bf71",
+        "handle": "Spart",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-8681e0989dc64c",
+        "handle": "Standy",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-18b827112d526a",
+        "handle": "SupeR",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-809a7f99210adf",
+        "handle": "Temp",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-db74f9415d20af",
+        "handle": "TJHaLy",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-cf6132aa4539cd",
+        "handle": "Traixx",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-ea4cf1b41298c5",
+        "handle": "Vikul",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-35785ee5068545",
+        "handle": "Vivid",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-0a791156f81062",
+        "handle": "Wrecks",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-12a12ac0dd8002",
+        "handle": "Zaptius",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-1b23ea0fd8cebb",
+        "handle": "Zed",
+        "reason": "source_not_collected"
+      },
+      {
+        "profileId": "gp-9e17432fa08c1a",
+        "handle": "Zer0",
+        "reason": "source_not_collected"
+      }
+    ],
+    "unapprovedSourcePlayerRecords": 1425,
+    "limits": [
+      "Identity enrichment only; no new playable targets qualify from these export fields.",
+      "No birth dates, AR/SMG/Flex roles, historical team clues or full careers are inferred.",
+      "Current staff/retired labels do not invalidate established playing history."
+    ]
+  },
+  "catalogueSha256": "beb1a293aa5c9079242c2444994c5fc13736dfe05bd49db8e7ac0b298fe63c5a",
+  "previousCatalogue": {
+    "schemaVersion": 1,
+    "batchId": null,
+    "players": [],
+    "teams": []
+  }
+}

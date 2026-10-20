@@ -7,9 +7,11 @@ import {SiteHeader,SiteFooter} from '../../components/game/SiteChrome';
 import {useEffect,useRef,useState} from 'react';
 import {Crosshair,UserRound,Clock3,Shuffle,Share2,Target,Trophy,Flame,ArrowRight,Check} from 'lucide-react';
 import PlayerPortrait from '../../components/game/PlayerPortrait';
+import LiquipediaIdentity from '../../components/game/LiquipediaIdentity';
+import type {GameIdentity} from '../../lib/game/liquipedia-identities';
 import PlayerSearch from '../../components/game/PlayerSearch';
 import {normalize} from '../../lib/game/identity';
-type Profile={handle:string;age:number;countryCode:string;country:string;role:string;team:string;teamBasis:string;teamDate:string;sources:string[]};
+type Profile={identity?:GameIdentity;handle:string;age:number;countryCode:string;country:string;role:string;team:string;teamBasis:string;teamDate:string;sources:string[]};
 type GuessRow=Profile&{correct:boolean;matches:{country:boolean;age:'older'|'younger'|'equal';role:boolean;team:boolean}};
 type Payload={question:{id:string;referenceDate:string};players:string[];day:number;date:string;coverage:{players:number;referenceDate:string}};
 type Result={won:boolean;done:boolean;attempts:number;remaining:number;score:number;maxScore:number;rows:GuessRow[];answer?:Profile};
@@ -63,6 +65,7 @@ export default function GuessPlayer(){
  <div className="arena-layout missing-arena"><section className="arena"><div className="tabs"><button disabled={busy} className={mode==='daily'?'selected':''} onClick={()=>load()}><Clock3 size={16}/> تحدي اليوم</button><button disabled={busy} className={mode==='practice'?'selected':''} onClick={()=>load('practice')}><Shuffle size={16}/> العب بلا حدود</button><span dir="ltr">{data?.date} · UTC</span></div><div className="game-content">
  <div className="game-meta"><span>{mode==='daily'?'التحدي اليومي':'تدريب'}</span><span>ست محاولات</span></div>
  <div className="guess-mystery">{result.done&&result.answer?<PlayerPortrait handle={result.answer.handle}/>:<UserRound size={46}/>}<h3 dir={result.done?'ltr':'rtl'}>{result.answer?.handle||'من اللاعب المخفي؟'}</h3>{result.done&&result.answer?<p>{result.answer.country} · {result.answer.age} سنة · <span dir="ltr">{result.answer.role} · {result.answer.team} ({result.answer.teamDate})</span></p>:<p>ابدأ باسم. كل صفة تكشف لك جزءاً من الحل.</p>}</div>
+ {result.done&&result.answer?.identity&&<LiquipediaIdentity identity={result.answer.identity}/>}
  <p className="guess-reference">العمر محسوب بتاريخ <b dir="ltr">{data?.question.referenceDate||'2026-10-18'}</b> · الفريق الموثق يظهر مع تاريخه وقد يختلف عن الفريق الحالي.</p>
  {!result.done&&data&&<><div className="attempt-track"><span>المحاولات المتبقية</span>{[0,1,2,3,4,5].map(i=><b key={i} className={i<result.attempts?'used':''}>{i+1}</b>)}</div><PlayerSearch key={data.question.id} players={data.players} guesses={guesses} disabled={busy} onGuess={p=>play(p)}/><div className="game-tools"><span>الإجابة من أول محاولة: <b>600 نقطة</b></span><button disabled={busy} onClick={()=>play(undefined,true)}>استسلام وكشف اللاعب</button></div></>}
  <div className="notice" role="status" aria-live="polite">{notice}</div>

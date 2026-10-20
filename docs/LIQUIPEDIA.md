@@ -53,3 +53,25 @@ The owner can filter saved records by ambiguity, explicit division markers, staf
 Verification: `node scripts/test-liquipedia-matching.mjs` tests strict team links, shared names, alias ambiguity, division evidence, staff retention, unchanged source objects and filters. Optional player and team export paths run the same reader against uploaded snapshots without network access. On the reviewed October 19 exports, 1,500 player source objects and 461 team source objects produced 325 exact player-team links, 142 unresolved team references, 1,033 empty references, and 18 shared-handle groups across 39 records. None of these counts establishes game eligibility.
 
 Per-row peer and team-candidate previews are bounded to 20 entries to avoid quadratic response growth. Player/team exports retain complete source pages; the ambiguity group index retains every member source ID. Preview counts disclose the total.
+
+## Published game identity import (October 19, 2026)
+
+The offline importer `scripts/data/import-liquipedia.py` publishes accepted identity facts for existing evidence-checked Guess Player profiles. It reads the exported source pages, validates API provenance and export integrity, and requires one exact Liquipedia source URL already attached to the approved game profile. The source handle must agree under existing approved aliases, the country label must agree with the game's country code, real name/status/type must be supported, and existing birth-date/role evidence must remain valid. No handle-only join, current-team eligibility inference or automatic new target creation occurs.
+
+The first applied batch `lp-ab8cd41f2b9b41dc7ef2` imports 75 player identities and 22 uniquely referenced team source records from the supplied 1,500-player and 461-team exports. Their selected source rows, API query URLs, fetch timestamps, source identities, license, input file hashes and modification notice are retained in `data/liquipedia/game-identities.json`. The batch audit retains the acceptance/rejection report and exact prior catalogue. Original uploaded exports are not modified. Player pagination is still unfinished.
+
+Only the completed Guess Player answer exposes the accepted identity's real name, fetched status/type and optional exact linked team. A nearby Arabic notice separates these fetched profile facts from the historical team and AR/SMG/Flex clues used in the game; the individual Liquipedia source and CC BY-SA 3.0 license are linked alongside the imported data. Hidden target information is not added to initial responses or ongoing comparison rows. The owner page separately reports published import totals so staging counts cannot be mistaken for playable pool counts.
+
+Cammy is held for a country-label difference; Chino and Fire are held because the fetched handles Cheen and Fear require additional alias evidence. Another 26 existing profiles have source pages outside the collected snapshot. They remain playable with their existing facts and receive no new identity enrichment. The imported data adds **zero new playable targets**: the Guess Player pool remains 104. Names, nationality, status and current team references alone do not establish required birth dates, playing roles, dated rosters or complete careers. The remaining 1,425 source player records are not approved by this import; do not represent them as verified new game players.
+
+Commands (offline, no API requests):
+
+```text
+python scripts/data/import-liquipedia.py <player-review.json> <team-review.json>
+python scripts/data/import-liquipedia.py <player-review.json> <team-review.json> --apply
+python scripts/data/import-liquipedia.py --rollback lp-ab8cd41f2b9b41dc7ef2
+```
+
+The first command is read-only. Apply is idempotent and writes the audit before atomically replacing the catalogue. Rollback refuses if the active catalogue differs from the batch's recorded digest; it restores the exact prior catalogue and retains the audit. After applying or rolling back source data, build and publish the same existing Site through the normal workflow. It never writes production storage or changes a live deployment by itself.
+
+Validation: `python scripts/data/test-liquipedia-import.py` exercises evidence rejection, wrong-person/country protection, exact division linkage, staff retention, idempotence and guarded rollback in a temporary checkout. `node scripts/test-liquipedia-game-import.mjs` checks all 75 imported identities, 22 exact team records, revealed versus hidden answer boundaries, adjacent source/license output, held records and historical clue preservation. Existing Guess Player, Ranking and Career Path tests remain required. Browser QA is unavailable in this environment; the native deployment result verifies publication, while interactive visual behavior awaits owner review.
