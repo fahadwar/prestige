@@ -3,6 +3,7 @@ import {getChatGPTUser} from '../../../../chatgpt-auth';
 import {isLiquipediaAdmin} from '../../../../../lib/server/liquipedia';
 import {createLiquipediaFetch,LiquipediaRequestError} from '../../../../../lib/server/liquipedia-storage';
 import {kindOf,getReview,collectReviewPage} from '../../../../../lib/server/liquipedia-review';
+import {type ReviewFilter} from '../../../../../lib/server/liquipedia-matching';
 export const dynamic='force-dynamic';
 const headers={'Cache-Control':'private, no-store','X-Content-Type-Options':'nosniff'};
 async function authorize(request:Request,write:boolean){
@@ -14,7 +15,7 @@ async function authorize(request:Request,write:boolean){
 function failure(error:unknown){const known=error instanceof LiquipediaRequestError;return Response.json({ok:false,message:known?error.message:'Review storage is unavailable. Progress was not confirmed; reload before retrying.',...(known?{code:error.code,retryAfterSeconds:error.retryAfterSeconds}:{})},{status:known?error.status:503,headers:{...headers,...(known&&error.retryAfterSeconds?{'Retry-After':String(error.retryAfterSeconds)}:{})}});}
 export async function GET(request:Request){const denied=await authorize(request,false);if(denied)return denied;try{
   const url=new URL(request.url),kind=kindOf(url.searchParams.get('kind')),download=url.searchParams.get('download')==='1';
-  const result=await getReview(env.BUCKET,kind,Number(url.searchParams.get('page')||0),download);
+  const result=await getReview(env.BUCKET,kind,Number(url.searchParams.get('page')||0),download,(url.searchParams.get('filter')||'all') as ReviewFilter);
   return Response.json(result,{headers:{...headers,...(download?{'Content-Disposition':`attachment; filename="prestige-liquipedia-${kind}-review.json"`}:{})}});
 }catch(error){return failure(error);}}
 export async function POST(request:Request){const denied=await authorize(request,true);if(denied)return denied;try{

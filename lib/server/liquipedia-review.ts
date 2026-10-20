@@ -2,6 +2,7 @@
 import {LiquipediaRequestError} from './liquipedia-storage';
 import rosters from '../game/rosters.json';
 import {normalize} from '../game/identity';
+import {annotateMatches,filterMatches,reviewFilters,type ReviewFilter} from './liquipedia-matching';
 export type Kind='player'|'team';
 const PAGE_SIZE=100,MAX_PAGES=100,MAX_STAGE_BYTES=4*1024*1024;
 const fields={player:'pageid,pagename,namespace,objectname,id,name,localizedname,type,nationality,teampagename,status',team:'pageid,pagename,namespace,objectname,name,status,template'};
@@ -14,7 +15,7 @@ export function kindOf(value:unknown):Kind {if(value!=='player'&&value!=='team')
 export function reviewUrl(kind:Kind,offset:number){const u=new URL('https://api.liquipedia.net/api/v3/'+kind);u.search=new URLSearchParams({wiki:'callofduty',limit:String(PAGE_SIZE),offset:String(offset),query:fields[kind],order:'pagename ASC, objectname ASC'}).toString();return u.toString();}
 function validate(value:unknown,kind:Kind):State {
   const s=value as State;
-  if(!s||s.version!==1||s.kind!==kind||!['collecting','pagination-ended','review-required'].includes(s.status)||!Array.isArray(s.pages)||s.pages.length>MAX_PAGES||typeof s.startedAt!=='string'||typeof s.updatedAt!=='string'||s.pages.some((p,i)=>p.offset!==i*PAGE_SIZE||p.url!==reviewUrl(kind,p.offset)||typeof p.fetchedAt!=='string'||!Array.isArray(p.warnings)||p.warnings.some(w=>typeof w!=='string')||!Array.isArray(p.rows)||p.rows.length>PAGE_SIZE||p.rows.some(r=>!r||typeof r!=='object'||Array.isArray(r))))throw new LiquipediaRequestError('STAGING_INVALID','Stored review is invalid; operator review is required. No API request was made.');
+  if(!s||s.version!==1||s.kind!==kind||!['collecting','pagination-ended','review-required'].includes(s.status)||!Array.isArray(s.pages)||s.pages.length>MAX_PAGES||typeof s.startedAt!=='string'||typeof s.updatedAt!=='string'||s.pages.some((p,i)=>p.offset!==i*PAGE_SIZE||p.url!==reviewUrl(kind,p.offset)||typeof p.fetchedAt!=='string'||!Array.isArray(p.warnings)||p.warnings.some(w=>typeof w!=='string')||!Array.isArray(p.rows)||p.rows.length>PAGE_SIZE||p.rows.some(r=>!r||typeof r!=='object'||Array.isArray(r))))throw new LiquipediaRequestError('STAGING_INVALID','Stored review is invalid; operator review is required.');
   return s;
 }
 async function read(bucket:R2Bucket|undefined,kind:Kind){if(!bucket)throw new LiquipediaRequestError('STORAGE_UNAVAILABLE','Shared review storage is unavailable.');const object=await bucket.get(key(kind));if(object&&object.size>MAX_STAGE_BYTES)throw new LiquipediaRequestError('STAGING_TOO_LARGE','Review snapshot exceeds its safety bound; operator review is required.');return {object,state:object?validate(await object.json(),kind):null};}
@@ -40,11 +41,17 @@ export function analyze(state:State|null,kind:Kind){
   const records=[...groups.values()];
   return {records,quarantine,summary:{kind,status:state?.status||'not-started',pages:state?.pages.length||0,rawRows:state?.pages.reduce((n,p)=>n+p.rows.length,0)||0,uniqueRecords:records.length,duplicateRows:duplicates,conflictingRecords:records.filter(r=>r.conflict).length,quarantinedRows:quarantined,possibleExistingMatches:records.filter(r=>r.possibleExistingMatch).length,unmatchedCandidates:records.filter(r=>!r.possibleExistingMatch).length,nextOffset:state?.status==='collecting'||!state?(state?.pages.length||0)*PAGE_SIZE:null,updatedAt:state?.updatedAt||null,startedAt:state?.startedAt||null,warnings:(state?.pages||[]).flatMap(p=>p.warnings.map(w=>({offset:p.offset,message:w}))),pageSize:PAGE_SIZE,maxPages:MAX_PAGES}};
 }
-export async function getReview(bucket:R2Bucket|undefined,kind:Kind,page=0,download=false){
+export async function getReview(bucket:R2Bucket|undefined,kind:Kind,page=0,download=false,filter:ReviewFilter='all'){
+  if(!reviewFilters.includes(filter))throw new LiquipediaRequestError('INVALID_FILTER','Invalid review filter.',400);
   const {state}=await read(bucket,kind);const result=analyze(state,kind);
-  if(download)return {schemaVersion:1,reviewOnly:true,attribution:{source:'Liquipedia Call of Duty',url:'https://liquipedia.net/callofduty/Main_Page',license:'CC-BY-SA-3.0',licenseUrl:'https://creativecommons.org/licenses/by-sa/3.0/',changes:'Selected API fields normalized for review; duplicates grouped; no game import.'},notice:'Offset pagination is not an atomic snapshot. Pagination ended does not prove complete wiki coverage. Names are candidate matches only; no identities are merged. Historical rosters and complete careers are not established by this dataset.',...result,sourcePages:state?.pages||[]};
+  const teamState=kind==='team'?state:(await read(bucket,'team')).state;
+  const matches=annotateMatches(result.records,kind,kind==='team'?result.records:analyze(teamState,'team').records,existingPlayers);
+  const summary={...result.summary,...matches.matchingSummary};
+  const teamContext={status:teamState?.status||'not-started',pages:teamState?.pages.length||0,updatedAt:teamState?.updatedAt||null};
+  if(download)return {schemaVersion:1,reviewOnly:true,attribution:{source:'Liquipedia Call of Duty',url:'https://liquipedia.net/callofduty/Main_Page',license:'CC-BY-SA-3.0',licenseUrl:'https://creativecommons.org/licenses/by-sa/3.0/',changes:'Selected fields normalized; duplicates grouped; names and divisions flagged; exact source team pages linked for review. No game import.'},notice:'Offset pagination is not an atomic snapshot. Pagination ended does not prove complete wiki coverage. Names are candidate matches only; no identities are merged. Historical rosters and complete careers are not established by this dataset.',...result,analysisVersion:2,ambiguityGroups:matches.ambiguityGroups,records:matches.records,summary,teamContext,sourcePages:state?.pages||[],...(kind==='player'?{referencedTeamSourcePages:teamState?.pages||[]}:{})};
   if(!Number.isInteger(page)||page<0||page>500)throw new LiquipediaRequestError('INVALID_PAGE','Invalid review page.',400);
-  return {summary:result.summary,records:result.records.slice(page*20,page*20+20).map(({row,...r})=>({...r,status:text(row,'status'),type:text(row,'type'),team:text(row,'teampagename')})),page,reviewPages:Math.ceil(result.records.length/20)};
+  const filtered=filterMatches(matches.records,filter);
+  return {summary,teamContext,filter,filteredRecords:filtered.length,records:filtered.slice(page*20,page*20+20).map(({row,...r})=>({...r,status:text(row,'status'),type:text(row,'type'),team:text(row,'teampagename')})),page,reviewPages:Math.ceil(filtered.length/20)};
 }
 export async function collectReviewPage(bucket:R2Bucket|undefined,kind:Kind,expectedOffset:number,fetcher:typeof fetch){
   const {object,state}=await read(bucket,kind);
