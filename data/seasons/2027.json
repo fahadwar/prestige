@@ -1,0 +1,346 @@
+{
+  "schemaVersion": 1,
+  "season": 2027,
+  "label": "2026/27",
+  "checkedOn": "2026-11-01",
+  "game": "Modern Warfare 4",
+  "seasonStartsOn": "2026-12-04",
+  "seasonSource": "https://www.callofdutyleague.com/en-us/news/2027-season-announcement",
+  "scope": "Seven complete announced CDL starting lineups as of 2026-11-01. Preseason snapshots; not match observations or a complete twelve-team league.",
+  "pendingTeams": [
+    "M80 Boston",
+    "Carolina Royal Ravens",
+    "Los Angeles Thieves",
+    "G2 Minnesota"
+  ],
+  "carriedOverNotIncluded": [
+    "OpTic Texas"
+  ],
+  "newRosterHandles": [
+    "Ethan",
+    "Vik",
+    "Nemensions",
+    "Wevy"
+  ],
+  "guessProfileHolds": [
+    "Ethan",
+    "Vik",
+    "Nemensions",
+    "Wevy",
+    "Lurqxx"
+  ],
+  "roleOverrides": {
+    "MettalZ": {
+      "role": "AR",
+      "verifiedOn": "2026-10-06",
+      "source": "https://origin.breakingpoint.gg/posts/miami-heretics-take-over-franchise-slot-and-unveil-2027-roster",
+      "basis": "Explicit switch to AR in the announced roster"
+    }
+  },
+  "rosters": [
+    {
+      "id": "s27-miami",
+      "team": "Miami Heretics",
+      "season": 2027,
+      "title": "MW4",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "eventId": "s27-announcement-miami",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-06",
+      "rosterSize": 4,
+      "players": [
+        "MettalZ",
+        "ReeaL",
+        "Snoopy",
+        "SupeR"
+      ],
+      "source": "https://origin.breakingpoint.gg/posts/miami-heretics-take-over-franchise-slot-and-unveil-2027-roster",
+      "sourceProvider": "Breaking Point",
+      "sourceSha256": "738b63cef642f433a10acb31d69db6c285c7dae07542d7b144c79107704e5374",
+      "license": "Roster announcement facts only; no media or editorial prose reproduced",
+      "observedMaps": 0,
+      "snapshotType": "announced-roster",
+      "verifiedAsOf": "2026-11-01"
+    },
+    {
+      "id": "s27-faze",
+      "team": "FaZe Vegas",
+      "season": 2027,
+      "title": "MW4",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "eventId": "s27-announcement-faze",
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-19",
+      "rosterSize": 4,
+      "players": [
+        "Simp",
+        "Scrap",
+        "HyDra",
+        "Alluka"
+      ],
+      "source": "https://fazevegas.com/pages/latest",
+      "sourceProvider": "FaZe Vegas",
+      "sourceSha256": "b9240934ff50937ce906381bc94f21371db78af9d41869bff8c614dc2dd86c2f",
+      "license": "Roster announcement facts only; no media or editorial prose reproduced",
+      "observedMaps": 0,
+      "snapshotType": "announced-roster",
+      "verifiedAsOf": "2026-11-01"
+    },
+    {
+      "id": "s27-paris",
+      "team": "Paris Gentle Mates",
+      "season": 2027,
+      "title": "MW4",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "eventId": "s27-announcement-paris",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-21",
+      "rosterSize": 4,
+      "players": [
+        "04",
+        "Abuzah",
+        "Drazah",
+        "JoeDeceives"
+      ],
+      "source": "https://breaking-point-web.vercel.app/posts/paris-gentle-mates-acquire-reigning-world-champions-o4-abuzah-and-drazah",
+      "sourceProvider": "Breaking Point",
+      "sourceSha256": "eb0922d718cef00a5c313a1ecc1447fe9fcb1ae3e7fff28a854a7f38daccb727",
+      "license": "Roster announcement facts only; no media or editorial prose reproduced",
+      "observedMaps": 0,
+      "snapshotType": "announced-roster",
+      "verifiedAsOf": "2026-11-01"
+    },
+    {
+      "id": "s27-vancouver",
+      "team": "Vancouver Surge",
+      "season": 2027,
+      "title": "MW4",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "eventId": "s27-announcement-vancouver",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-22",
+      "rosterSize": 4,
+      "players": [
+        "Mamba",
+        "Vik",
+        "Nemensions",
+        "Wevy"
+      ],
+      "source": "https://esportnow.com/news/call-of-duty/vancouver-surge-nemensions-wevy-signings/",
+      "sourceProvider": "ESPORTNOW",
+      "sourceSha256": "5f2de6b36bfe1bfb792eade3ceb9d01f7323bd18a1e3be762a7be08e01fe0dbb",
+      "license": "Roster announcement facts only; no media or editorial prose reproduced",
+      "observedMaps": 0,
+      "snapshotType": "announced-roster",
+      "verifiedAsOf": "2026-11-01"
+    },
+    {
+      "id": "s27-cloud9",
+      "team": "Cloud9 New York",
+      "season": 2027,
+      "title": "MW4",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "eventId": "s27-announcement-cloud9",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-22",
+      "rosterSize": 4,
+      "players": [
+        "Lurqxx",
+        "Pred",
+        "Cammy",
+        "Insight"
+      ],
+      "source": "https://esportnow.com/news/call-of-duty/cloud9-new-york-modern-warfare-4-roster/",
+      "sourceProvider": "ESPORTNOW",
+      "sourceSha256": "edd7643ab9744e3c3fdd38310237d4f5754f3f21507afb05e87971639b7e6e93",
+      "license": "Roster announcement facts only; no media or editorial prose reproduced",
+      "observedMaps": 0,
+      "snapshotType": "announced-roster",
+      "verifiedAsOf": "2026-11-01"
+    },
+    {
+      "id": "s27-toronto",
+      "team": "Toronto KOI",
+      "season": 2027,
+      "title": "MW4",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "eventId": "s27-announcement-toronto",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "rosterSize": 4,
+      "players": [
+        "RenKoR",
+        "CleanX",
+        "Kips",
+        "Ethan"
+      ],
+      "source": "https://origin.breakingpoint.gg/posts/toronto-koi-announce-2027-roster-ethan-kips-cleanx-and-renkor",
+      "sourceProvider": "Breaking Point",
+      "sourceSha256": "acb12543e020101802f851d0b0daf73c0377da596836e97fba7a0dc78a4893a8",
+      "license": "Roster announcement facts only; no media or editorial prose reproduced",
+      "observedMaps": 0,
+      "snapshotType": "announced-roster",
+      "verifiedAsOf": "2026-11-01"
+    },
+    {
+      "id": "s27-riyadh",
+      "team": "Riyadh Falcons",
+      "season": 2027,
+      "title": "MW4",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "eventId": "s27-announcement-riyadh",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "rosterSize": 4,
+      "players": [
+        "Kremp",
+        "Sib",
+        "Cellium",
+        "KiSMET"
+      ],
+      "source": "https://esportnow.com/news/call-of-duty/riyadh-falcons-cdl-challengers-roster-reveal/",
+      "sourceProvider": "ESPORTNOW",
+      "sourceSha256": "159a61cfdcdbfda72ddc70abe09d71392da5f2b08135d308ce2a19839a353d46",
+      "license": "Roster announcement facts only; no media or editorial prose reproduced",
+      "observedMaps": 0,
+      "snapshotType": "announced-roster",
+      "verifiedAsOf": "2026-11-01"
+    }
+  ],
+  "evidence": {
+    "s27-miami": {
+      "team": "Miami Heretics",
+      "players": [
+        "MettalZ",
+        "ReeaL",
+        "Snoopy",
+        "SupeR"
+      ],
+      "announcedOn": "2026-10-06",
+      "checkedOn": "2026-11-01",
+      "sources": [
+        "https://origin.breakingpoint.gg/posts/miami-heretics-take-over-franchise-slot-and-unveil-2027-roster",
+        "https://www.esportnews.fr/article/cdl-2027-sept-equipes-ont-devoile-leur-roster-mw4/31-10-2026"
+      ],
+      "scope": "Announced starting lineup for CDL 2027; no competitive matches claimed"
+    },
+    "s27-faze": {
+      "team": "FaZe Vegas",
+      "players": [
+        "Simp",
+        "Scrap",
+        "HyDra",
+        "Alluka"
+      ],
+      "announcedOn": "2026-10-19",
+      "checkedOn": "2026-11-01",
+      "sources": [
+        "https://fazevegas.com/pages/latest",
+        "https://www.esportnews.fr/article/cdl-2027-sept-equipes-ont-devoile-leur-roster-mw4/31-10-2026"
+      ],
+      "scope": "Announced starting lineup for CDL 2027; no competitive matches claimed"
+    },
+    "s27-paris": {
+      "team": "Paris Gentle Mates",
+      "players": [
+        "04",
+        "Abuzah",
+        "Drazah",
+        "JoeDeceives"
+      ],
+      "announcedOn": "2026-10-21",
+      "checkedOn": "2026-11-01",
+      "sources": [
+        "https://breaking-point-web.vercel.app/posts/paris-gentle-mates-acquire-reigning-world-champions-o4-abuzah-and-drazah",
+        "https://www.esportnews.fr/article/cdl-2027-sept-equipes-ont-devoile-leur-roster-mw4/31-10-2026"
+      ],
+      "scope": "Announced starting lineup for CDL 2027; no competitive matches claimed"
+    },
+    "s27-vancouver": {
+      "team": "Vancouver Surge",
+      "players": [
+        "Mamba",
+        "Vik",
+        "Nemensions",
+        "Wevy"
+      ],
+      "announcedOn": "2026-10-22",
+      "checkedOn": "2026-11-01",
+      "sources": [
+        "https://esportnow.com/news/call-of-duty/vancouver-surge-nemensions-wevy-signings/",
+        "https://www.esportnews.fr/article/cdl-2027-sept-equipes-ont-devoile-leur-roster-mw4/31-10-2026"
+      ],
+      "scope": "Announced starting lineup for CDL 2027; no competitive matches claimed"
+    },
+    "s27-cloud9": {
+      "team": "Cloud9 New York",
+      "players": [
+        "Lurqxx",
+        "Pred",
+        "Cammy",
+        "Insight"
+      ],
+      "announcedOn": "2026-10-22",
+      "checkedOn": "2026-11-01",
+      "sources": [
+        "https://esportnow.com/news/call-of-duty/cloud9-new-york-modern-warfare-4-roster/",
+        "https://www.esportnews.fr/article/cdl-2027-sept-equipes-ont-devoile-leur-roster-mw4/31-10-2026"
+      ],
+      "scope": "Announced starting lineup for CDL 2027; no competitive matches claimed"
+    },
+    "s27-toronto": {
+      "team": "Toronto KOI",
+      "players": [
+        "RenKoR",
+        "CleanX",
+        "Kips",
+        "Ethan"
+      ],
+      "announcedOn": "2026-10-24",
+      "checkedOn": "2026-11-01",
+      "sources": [
+        "https://origin.breakingpoint.gg/posts/toronto-koi-announce-2027-roster-ethan-kips-cleanx-and-renkor",
+        "https://www.esportnews.fr/article/cdl-2027-sept-equipes-ont-devoile-leur-roster-mw4/31-10-2026"
+      ],
+      "scope": "Announced starting lineup for CDL 2027; no competitive matches claimed"
+    },
+    "s27-riyadh": {
+      "team": "Riyadh Falcons",
+      "players": [
+        "Kremp",
+        "Sib",
+        "Cellium",
+        "KiSMET"
+      ],
+      "announcedOn": "2026-10-30",
+      "checkedOn": "2026-11-01",
+      "sources": [
+        "https://esportnow.com/news/call-of-duty/riyadh-falcons-cdl-challengers-roster-reveal/",
+        "https://www.esportnews.fr/article/cdl-2027-sept-equipes-ont-devoile-leur-roster-mw4/31-10-2026"
+      ],
+      "scope": "Announced starting lineup for CDL 2027; no competitive matches claimed"
+    }
+  },
+  "aliasEvidence": {
+    "o4": {
+      "canonical": "04",
+      "source": "https://breaking-point-web.vercel.app/posts/paris-gentle-mates-acquire-reigning-world-champions-o4-abuzah-and-drazah",
+      "basis": "Jovan Rodriguez is named O4 in the announcement and 04 in the existing verified profile"
+    },
+    "zvik": {
+      "canonical": "Vik",
+      "source": "https://lab.breakingpoint.gg/cdl/teams-and-players",
+      "corroboration": "https://esportnow.com/news/call-of-duty/vancouver-surge-vik-mamba-signing/",
+      "basis": "The Vancouver player is listed as zvik by Breaking Point and Vik in the signing announcement"
+    }
+  },
+  "photoCoverage": {
+    "missingHandles": [
+      "Ethan",
+      "Vik",
+      "Nemensions",
+      "Wevy"
+    ],
+    "fallback": "Existing silhouette; no unverified media added"
+  }
+}

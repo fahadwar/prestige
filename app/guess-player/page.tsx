@@ -11,21 +11,21 @@ import LiquipediaIdentity from '../../components/game/LiquipediaIdentity';
 import type {GameIdentity} from '../../lib/game/liquipedia-identities';
 import PlayerSearch from '../../components/game/PlayerSearch';
 import {normalize} from '../../lib/game/identity';
-type Profile={identity?:GameIdentity;handle:string;age:number;countryCode:string;country:string;role:string;team:string;teamBasis:string;teamDate:string;sources:string[]};
+type Profile={seasonInfo?:{season:number;rosterSource:string;roleDate:string;roleSource:string;checkedOn:string};identity?:GameIdentity;handle:string;age:number;countryCode:string;country:string;role:string;team:string;teamBasis:string;teamDate:string;sources:string[]};
 type GuessRow=Profile&{correct:boolean;matches:{country:boolean;age:'older'|'younger'|'equal';role:boolean;team:boolean}};
-type Payload={question:{id:string;referenceDate:string};players:string[];day:number;date:string;coverage:{players:number;referenceDate:string}};
+type Payload={question:{id:string;referenceDate:string;season?:number};players:string[];day:number;date:string;coverage:{players:number;referenceDate:string}};
 type Result={won:boolean;done:boolean;attempts:number;remaining:number;score:number;maxScore:number;rows:GuessRow[];answer?:Profile};
 type Stats={played:number;wins:number;streak:number;best:number;lastDay:number};
 const initial:Result={won:false,done:false,attempts:0,remaining:6,score:0,maxScore:600,rows:[]};
 const emptyStats:Stats={played:0,wins:0,streak:0,best:0,lastDay:0};
 const statsKey='cdlar-guess-stats-v1';
 export default function GuessPlayer(){
- const [data,setData]=useState<Payload>(),[mode,setMode]=useState<'daily'|'practice'>('daily'),[guesses,setGuesses]=useState<string[]>([]),[result,setResult]=useState<Result>(initial),[busy,setBusy]=useState(true),[notice,setNotice]=useState(''),[stats,setStats]=useState<Stats>(emptyStats),[rules,setRules]=useState(false);
+ const [data,setData]=useState<Payload>(),[mode,setMode]=useState<'daily'|'practice'>('daily'),[season,setSeason]=useState('2027'),[guesses,setGuesses]=useState<string[]>([]),[result,setResult]=useState<Result>(initial),[busy,setBusy]=useState(true),[notice,setNotice]=useState(''),[stats,setStats]=useState<Stats>(emptyStats),[rules,setRules]=useState(false);
  const request=useRef(0),inFlight=useRef(false),round=useRef('');
- async function load(nextMode:'daily'|'practice'='daily'){
+ async function load(nextMode:'daily'|'practice'='daily',selectedSeason=season){
   const token=++request.current;setBusy(true);setNotice('');
   try{
-   const params=new URLSearchParams({mode:nextMode});if(data)params.set('exclude',data.question.id);
+   const params=new URLSearchParams({mode:nextMode});if(nextMode==='practice'&&selectedSeason)params.set('season',selectedSeason);if(data)params.set('exclude',data.question.id);
    const response=await fetch('/api/guess-player?'+params);if(!response.ok)throw Error('تعذر تحميل التحدي. حاول مرة أخرى.');const payload=await response.json() as Payload;if(token!==request.current)return;
    setData(payload);setMode(nextMode);setGuesses([]);setResult(initial);round.current=crypto.randomUUID();
    if(nextMode==='daily'){
@@ -63,8 +63,11 @@ export default function GuessPlayer(){
  <section className="stats">{[[Target,stats.played,'جولات لعبتها'],[Check,stats.wins,'إجابات صحيحة'],[Flame,stats.streak,'سلسلتك اليومية'],[Trophy,stats.best,'أفضل سلسلة']].map(([Icon,n,label]:any)=><div key={label}><Icon size={20}/><b>{n}</b><span>{label}</span></div>)}</section>
  {rules&&<section className="rules" id="game-rules"><h2>كيف تلعب؟</h2><p>اختر اسماً من قائمة اللاعبين الموثقين. بعد كل محاولة تظهر صفات اللاعب الذي اخترته: البلد والعمر والدور والفريق. الأخضر يعني أن الصفة تطابق اللاعب المطلوب. سهم ↑ يعني أن اللاعب المطلوب أكبر عمراً، وسهم ↓ يعني أنه أصغر. تساوي العمر يعني نفس عدد السنوات، وليس نفس تاريخ الميلاد. يجب أن تجد الاسم الصحيح حتى لو تطابقت الصفات. البلد هو البلد الرئيسي المسجل في الملف، والدور تصنيف AR أو SMG أو Flex. الفريق هو الفريق الموثق لكل لاعب حسب التاريخ الظاهر، وقد يكون من الأرشيف ولا يمثل فريقه الحالي. تطابق الفريق يعني نفس اسم الفريق. العمر محسوب بتاريخ {data?.question.referenceDate}. لديك ست محاولات؛ الإجابة الصحيحة تمنحك من 600 نقطة في الأولى إلى 100 في السادسة. يتغير تحدي اليوم عند منتصف الليل UTC.</p><button onClick={()=>setRules(false)}>إغلاق</button></section>}
  <div className="arena-layout missing-arena"><section className="arena"><div className="tabs"><button disabled={busy} className={mode==='daily'?'selected':''} onClick={()=>load()}><Clock3 size={16}/> تحدي اليوم</button><button disabled={busy} className={mode==='practice'?'selected':''} onClick={()=>load('practice')}><Shuffle size={16}/> العب بلا حدود</button><span dir="ltr">{data?.date} · UTC</span></div><div className="game-content">
+ {mode==='practice'&&<div className="season-filter"><label htmlFor="guess-season">مجموعة اللاعبين</label><select id="guess-season" disabled={busy} value={season} onChange={e=>{setSeason(e.target.value);load('practice',e.target.value)}}><option value="2027">2026/27 · التشكيلات المعلنة</option><option value="">الأرشيف الموثق · 104 لاعبين</option></select></div>}
+ {data?.question.season===2027&&<p className="notice">تدريب موسم 2026/27: الفريق حسب إعلان التشكيلة، والعمر بتاريخ 2026-11-01. الدور حسب آخر بيانات موثقة، ويظهر تاريخها بعد كشف الحل. {data.coverage.players} لاعباً مؤهلاً؛ بقية الأسماء متاحة في ألعاب التشكيلات.</p>}
  <div className="game-meta"><span>{mode==='daily'?'التحدي اليومي':'تدريب'}</span><span>ست محاولات</span></div>
  <div className="guess-mystery">{result.done&&result.answer?<PlayerPortrait handle={result.answer.handle}/>:<UserRound size={46}/>}<h3 dir={result.done?'ltr':'rtl'}>{result.answer?.handle||'من اللاعب المخفي؟'}</h3>{result.done&&result.answer?<p>{result.answer.country} · {result.answer.age} سنة · <span dir="ltr">{result.answer.role} · {result.answer.team} ({result.answer.teamDate})</span></p>:<p>ابدأ باسم. كل صفة تكشف لك جزءاً من الحل.</p>}</div>
+ {result.done&&result.answer?.seasonInfo&&<p className="guess-reference">موسم 2026/27 · <a href={result.answer.seasonInfo.rosterSource} target="_blank" rel="noreferrer">مصدر إعلان التشكيلة</a> · <a href={result.answer.seasonInfo.roleSource} target="_blank" rel="noreferrer">مصدر الدور</a> بتاريخ <span dir="ltr">{result.answer.seasonInfo.roleDate}</span>.</p>}
  {result.done&&result.answer?.identity&&<LiquipediaIdentity identity={result.answer.identity}/>}
  <p className="guess-reference">العمر محسوب بتاريخ <b dir="ltr">{data?.question.referenceDate||'2026-10-18'}</b> · الفريق الموثق يظهر مع تاريخه وقد يختلف عن الفريق الحالي.</p>
  {!result.done&&data&&<><div className="attempt-track"><span>المحاولات المتبقية</span>{[0,1,2,3,4,5].map(i=><b key={i} className={i<result.attempts?'used':''}>{i+1}</b>)}</div><PlayerSearch key={data.question.id} players={data.players} guesses={guesses} disabled={busy} onGuess={p=>play(p)}/><div className="game-tools"><span>الإجابة من أول محاولة: <b>600 نقطة</b></span><button disabled={busy} onClick={()=>play(undefined,true)}>استسلام وكشف اللاعب</button></div></>}

@@ -1,4 +1,7 @@
-import rosters from './rosters.json';
+import historicalRosters from './rosters.json';
+import season2027 from '../../data/seasons/2027.json';
+const rosters=[...historicalRosters,...season2027.rosters];
+export const rosterSeasons=[...new Set(rosters.map(q=>q.season))].sort((a,b)=>a-b);
 import legacy from './legacy-daily.json';
 import schedule from './daily-schedule.json';
 export {rosters};

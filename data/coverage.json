@@ -1,8 +1,8 @@
 {
   "summary": {
-    "rosters": 513,
-    "players": 331,
-    "events": 32,
+    "rosters": 520,
+    "players": 335,
+    "events": 39,
     "bySeason": {
       "2017": 32,
       "2018": 213,
@@ -13,7 +13,8 @@
       "2023": 20,
       "2024": 20,
       "2025": 20,
-      "2026": 20
+      "2026": 20,
+      "2027": 7
     },
     "excludedGroups": 22
   },
@@ -570,6 +571,83 @@
       "endDate": "2026-07-19",
       "accepted": 8,
       "excluded": []
+    },
+    {
+      "slug": "s27-announcement-miami",
+      "sourceProvider": "Breaking Point",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "season": 2027,
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-06",
+      "accepted": 1,
+      "excluded": [],
+      "scope": "announced-roster"
+    },
+    {
+      "slug": "s27-announcement-faze",
+      "sourceProvider": "FaZe Vegas",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "season": 2027,
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-19",
+      "accepted": 1,
+      "excluded": [],
+      "scope": "announced-roster"
+    },
+    {
+      "slug": "s27-announcement-paris",
+      "sourceProvider": "Breaking Point",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "season": 2027,
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-21",
+      "accepted": 1,
+      "excluded": [],
+      "scope": "announced-roster"
+    },
+    {
+      "slug": "s27-announcement-vancouver",
+      "sourceProvider": "ESPORTNOW",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "season": 2027,
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-22",
+      "accepted": 1,
+      "excluded": [],
+      "scope": "announced-roster"
+    },
+    {
+      "slug": "s27-announcement-cloud9",
+      "sourceProvider": "ESPORTNOW",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "season": 2027,
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-22",
+      "accepted": 1,
+      "excluded": [],
+      "scope": "announced-roster"
+    },
+    {
+      "slug": "s27-announcement-toronto",
+      "sourceProvider": "Breaking Point",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "season": 2027,
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "accepted": 1,
+      "excluded": [],
+      "scope": "announced-roster"
+    },
+    {
+      "slug": "s27-announcement-riyadh",
+      "sourceProvider": "ESPORTNOW",
+      "event": "2026/27 · التشكيلة المعلنة",
+      "season": 2027,
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "accepted": 1,
+      "excluded": [],
+      "scope": "announced-roster"
     }
   ]
 }

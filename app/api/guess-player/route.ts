@@ -1,10 +1,11 @@
 import {z} from 'zod';
-import {profiles,referenceDate,guessQuestion,guessPool,dailyGuess,evaluateGuess} from '../../../lib/game/guess-player';
+import {profiles,referenceDate,guessQuestion,guessPool,dailyGuess,evaluateGuess,guessPlayersFor} from '../../../lib/game/guess-player';
 const headers={'Cache-Control':'no-store'};
 export async function GET(request:Request){try{
  const u=new URL(request.url),mode=u.searchParams.get('mode')||'daily';if(!['daily','practice'].includes(mode))throw Error('اختيار غير صالح');
- const pool=guessPool(u.searchParams.get('exclude')),id=mode==='daily'?dailyGuess():pool[Math.floor(Math.random()*pool.length)].id;
- return Response.json({question:guessQuestion(id),players:profiles.map(p=>p.handle),day:Math.floor(Date.now()/86400000),date:new Date().toISOString().slice(0,10),coverage:{players:profiles.length,referenceDate}},{headers});
+ const season=u.searchParams.get('season');if(season&&(season!=='2027'||mode!=='practice'))throw Error('الموسم متاح في التدريب فقط');
+ const pool=guessPool(u.searchParams.get('exclude'),season),id=mode==='daily'?dailyGuess():pool[Math.floor(Math.random()*pool.length)].id;
+ return Response.json({question:guessQuestion(id),players:guessPlayersFor(id).map(p=>p.handle),day:Math.floor(Date.now()/86400000),date:new Date().toISOString().slice(0,10),coverage:{players:guessPlayersFor(id).length,referenceDate:guessQuestion(id).referenceDate}},{headers});
 }catch{return Response.json({error:'تعذر تحميل التحدي'},{status:400,headers});}}
 export async function POST(request:Request){try{
  const raw=await request.text();if(raw.length>2048)return Response.json({error:'الطلب كبير جداً'},{status:413,headers});

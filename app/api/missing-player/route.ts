@@ -1,10 +1,10 @@
 import {z} from 'zod';
 import {dailyMissing,missingQuestion,missingOptions,evaluateMissing} from '../../../lib/game/missing';
-import {practicePool,dayNumber} from '../../../lib/game/engine';
+import {practicePool,dayNumber,rosterSeasons} from '../../../lib/game/engine';
 const headers={'Cache-Control':'no-store'};
 export async function GET(request:Request){try{
  const u=new URL(request.url),mode=u.searchParams.get('mode')||'daily',season=u.searchParams.get('season');
- if(!['daily','practice'].includes(mode)||season&&!['2017','2018','2019','2020','2021','2022','2023','2024','2025','2026'].includes(season))throw Error('اختيار غير صالح');
+ if(!['daily','practice'].includes(mode)||season&&!rosterSeasons.map(String).includes(season))throw Error('اختيار غير صالح');
  let id=dailyMissing();if(mode==='practice'){const pool=practicePool(season,u.searchParams.get('exclude'));const q=pool[Math.floor(Math.random()*pool.length)];id=q.id+'.'+Math.floor(Math.random()*q.rosterSize);}
  return Response.json({question:missingQuestion(id),players:missingOptions(id),day:dayNumber(),date:new Date().toISOString().slice(0,10)},{headers});
 }catch{return Response.json({error:'تعذر تحميل التحدي'},{status:400,headers});}}

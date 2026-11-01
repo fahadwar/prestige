@@ -1,6 +1,6 @@
 # Prestige / برستيج — six playable games
 
-Arabic RTL roster game with daily and practice modes. Current dataset: 513 roster questions across 32 CWL/CDL events/stages in 2017–2026. This includes 370 CWL event snapshots and 143 Breaking Point match snapshots covering opening stages and Champs for 2020–2026. Paris Legion’s 2022 opening-stage snapshot is withheld because all available match records have incomplete participant lists. Intermediate modern roster changes remain unfinished. See `docs/BREAKINGPOINT-DATA.md`. See `docs/UPSTREAM-AUDIT.md` for source audit, rights, coverage and remaining work.
+Arabic RTL roster game with daily and practice modes. Current dataset: 520 roster questions: 513 historical snapshots across 32 CWL/CDL events/stages in 2017–2026, plus seven announced CDL 2026/27 starting lineups checked on 2026-11-01. This includes 370 CWL event snapshots and 143 Breaking Point match snapshots covering opening stages and Champs for 2020–2026. Paris Legion’s 2022 opening-stage snapshot is withheld because all available match records have incomplete participant lists. Intermediate modern roster changes remain unfinished. See `docs/BREAKINGPOINT-DATA.md`. See `docs/UPSTREAM-AUDIT.md` for source audit, rights, coverage and remaining work.
 
 ## Development
 
@@ -43,3 +43,7 @@ Time Machine: 284 full lineups from 2017–2026, three season guesses, daily/pra
 ## Prestige / برستيج game lobby
 
 Dark arcade lobby at `/` with six illustrated game tiles and a featured daily Guess Player challenge. Roster gameplay now lives at `/roster`; its browser storage keys, API, daily schedule and sharing are preserved. Shared navigation and gameplay screens use the dark arcade palette. Visible sources remain removed; source records and notices remain internal. Browser/mobile visual verification is unavailable.
+
+## CDL 2026/27 preseason update
+
+Roster and Missing Player practice now include the seven complete announced lineups verified as of November 1, 2026 (28 starters, including four newly added handles). The 2026/27 filter is selected when opening practice. Guess Player practice offers 23 eligible existing profiles with announced teams, November 1 ages and dated role evidence; MettalZ’s announced AR switch is applied there. The original 104 profiles and every daily rotation retain their historical facts. Five starters await complete Guess Player profile evidence, and four new handles use the silhouette fallback. Full scope, sources, pending teams and verification: [docs/SEASON-2027.md](docs/SEASON-2027.md).
